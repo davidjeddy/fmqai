@@ -40,7 +40,7 @@
 &nbsp;&nbsp;&nbsp;<a href="http://www.cms.hhs.gov/" target="_blank"  class="menulink">CMS</a>&nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;<a href="http://fmqai.com/" target="_blank" class="menulink">FMQAI</a>&nbsp;&nbsp;&nbsp;|
 &nbsp;&nbsp;&nbsp;<a href="index_508.php" target="_self" class="menulink">Text Only (508)</a>&nbsp;&nbsp;&nbsp;|
-&nbsp;&nbsp;&nbsp;<a href="http://ssd.servehttp.com/resumev4/" target="_blank" class="menulink">David Eddy</a>
+&nbsp;&nbsp;&nbsp;<a href="https://davidjeddy.com" target="_blank" class="menulink">David Eddy</a>
 </div>
 <br />
 

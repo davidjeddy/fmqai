@@ -4,8 +4,9 @@
 2009 Interview practical. Goal was to create a PDF content search engine that is 508 compliant.
 
 ## Features
- - Image Gallery
- - Retain original theme, but update and modernize the code base
+ - 508 compliant
+ - Type ahead search term completion
+ - 
 
 ## Goal
 N/A

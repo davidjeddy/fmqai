@@ -34,7 +34,7 @@ ob_start("sehl");
 		&nbsp;<a href="http://www.cms.hhs.gov/" target="_blank" class="footermenu">CMS</a>&nbsp;|
 		&nbsp;<a href="http://fmqai.com/" target="_blank" class="footermenu">FMQAI</a>&nbsp;|
 		&nbsp;<a href="index.php" target="_self" class="footermenu">Graphics</a>&nbsp;|
-		&nbsp;<a href="http://ssd.servehttp.com/resumev4/" target="_blank" class="footermenu">David Eddy</a>
+		&nbsp;<a href="https://davidjeddy.com" target="_blank" class="footermenu">David Eddy</a>
   </div>    
     
 </div>
