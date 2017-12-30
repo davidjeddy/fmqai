@@ -1,0 +1,2073 @@
+2007 ANNUAL REPORT 
+ESRD CLINICAL PERFORMANCE 
+MEASURES PROJECT 
+
+OPPORTUNITIES 
+TO IMPROVE CARE FOR 
+IN-CENTER HEMODIALYSIS 
+AND PERITONEAL DIALYSIS 
+PATIENTS 
+
+DECEMBER 2007 
+
+
+
+Department of Health and Human Services 
+Centers for Medicare & Medicaid Services 
+Office of Clinical Standards & Quality 
+Baltimore, Maryland 
+
+Data on adult and pediatric in-center hemodialysis patients are from October–December 2006 
+Data on adult and pediatric peritoneal dialysis patients are from October 2006–March 2007 
+
+Suggested citation for this Report is as follows: 
+
+Centers for Medicare & Medicaid Services. 2007 Annual Report, End Stage Renal Disease Clinical Performance Measures Project.  Department of Health and Human Services, Centers for Medicare & Medicaid Services, Office of Clinical Standards & Quality, Baltimore, Maryland, December 2007. 
+Note: The clinical data collected for the 2007 ESRD Clinical Performance Measures Project were from the time period of October–December 2006 for the in-center hemodialysis patients and October 2006–March 2007 for the peritoneal dialysis patients. 
+2008 Data Collection Effort 
+
+In 2008, we will again collect data for the ESRD Clinical Performance Measures on a national sample of adult in-center hemodialysis and peritoneal dialysis patients and all pediatric in-center hemodialysis and peritoneal dialysis patients. 
+Any questions about the Project may be addressed to your ESRD Network staff (APPENDIX 1). 
+Look for this Report, as well as other ESRD Clinical Performance Measures Project and Core Indicators Project Reports, on the Internet at: www.cms.hhs.gov/CPMProject. 
+Copyright Information: All material appearing in this Report is in the public domain and may be reproduced or copied without permission; citation of the source, however, is appreciated. 
+TABLE OF CONTENTS 
+
+SECTION 	TITLE ........................................................................................................PAGE 
+Table of Contents ...............................................................................................................................3 
+Acknowledgments/Acronyms.............................................................................................................4 
+
+I. 	INTRODUCTION ...............................................................................................................................5 
+
+II. 	BACKGROUND AND PROJECT METHODS....................................................................................6 
+
+A. Medicare’s ESRD Program ...........................................................................................................6 
+
+B. Project Methods ............................................................................................................................7 
+
+C. Sample Selection ..........................................................................................................................7 
+
+D. Report Format .............................................................................................................................10 
+
+III. 	CLINICAL PERFORMANCE MEASURES (CPMs) .........................................................................12 
+
+IV. 	OTHER SIGNIFICANT FINDINGS AND TRENDS ..........................................................................16 
+
+V. 	ADULT IN-CENTER HEMODIALYSIS PATIENTS ...........................................................................23 
+
+A. Adequacy of Hemodialysis CPMs ...............................................................................................23 
+
+B. Adequacy of Hemodialysis Tables ...............................................................................................23 
+
+C. Vascular Access CPMs ...............................................................................................................25 
+
+D. Vascular Access Tables ...............................................................................................................25 
+
+E. Anemia Management  CPMs ......................................................................................................28 
+
+F. Anemia Management Tables ........................................................................................................28 
+
+G. Serum Albumin Table ..................................................................................................................31 
+
+VI. 	ADULT PERITONEAL DIALYSIS PATIENTS ...................................................................................32 
+
+A. Adequacy of Peritoneal Dialysis CPMs.......................................................................................32 
+
+B. Adequacy of Peritoneal Dialysis Tables .......................................................................................33 
+
+C. Anemia Management  CPMs ......................................................................................................34 
+
+D. Anemia Management Table .........................................................................................................34 
+
+E. Serum Albumin Table ..................................................................................................................35 
+
+VII. 	PEDIATRIC IN-CENTER HEMODIALYSIS PATIENTS ....................................................................36 
+
+A. Clearance Table ..........................................................................................................................36 
+
+B. Vascular Access Table ................................................................................................................37 
+
+C. Anemia Management Table.........................................................................................................37 
+
+D. Serum Albumin Table ..................................................................................................................38 
+
+VIII. 	PEDIATRIC PERITONEAL DIALYSIS PATIENTS............................................................................39 
+
+A. Clearance Table ..........................................................................................................................39 
+
+B. Anemia Management Table.........................................................................................................39 
+
+C. Serum Albumin Table ..................................................................................................................40 
+
+IX. 	REFERENCES ................................................................................................................................41 
+
+X. 	LIST OF TABLES AND FIGURES ...................................................................................................42 
+
+1. 	List of Tables ...............................................................................................................................42 
+
+2. 	List of Figures..............................................................................................................................44 
+
+XI. 	APPENDICES .................................................................................................................................45 
+
+1. Centers for Medicare & Medicaid Services (CMS) Offices and ESRD Networks ........................45 
+
+2.	  ESRD CPMs for 2007 Data Collection Effort ..............................................................................47 
+
+3. 2007 CPM Data Collection Form – In-Center Hemodialysis .......................................................52 
+
+4. 	2007 CPM Data Collection Form – Peritoneal Dialysis...............................................................58 
+
+5.	  2007 National CPM Data Collection, Adult In-Center Hemodialysis Patients –     National and Network Profiles ....................................................................................................64 
+6.	  2007 ESRD CPM Outcome Comparison Tool – Adult In-Center Hemodialysis Patients ............67
+
+ 7.	  2007 ESRD CPM Outcome Comparison Tool – Adult Peritoneal Dialysis Patients....................68 
+
+ACKNOWLEDGMENTS 
+
+The Centers for Medicare & Medicaid Services (CMS) wishes to acknowledge the following groups and persons without whose efforts this Report would not have been possible: 
+• 	
+The eighteen ESRD Network Organizations throughout the United States (See Appendix 1). 
+
+• 	
+The following CMS Central Office staff:  Jacqueline Abt. 
+
+
+• 	
+The following staff at FMQAI: The Florida ESRD Network:  Kelly Mayo, Executive Director; Christain Campbell, Study Director; and Harold Anthony Seabrook, IT Analyst. 
+
+• 	
+The following staff at The Renal Network, Inc.:  Susan A. Stark, Executive Director; Bridget Carson, Assistant Director; Raynel Kinney, RN, CNN, CPHQ, QI Director; and Rick Coffin, Program Analyst. 
+
+• 	
+The staff at more than 3,500 dialysis facilities in the United States who abstracted the requested information from medical records on more than 8,000 adult in-center hemodialysis, adult peritoneal dialysis, and pediatric in-center hemodialysis and peritoneal dialysis patients. 
+
+• 	
+The many other individuals in the renal community and CMS who contributed to this work. 
+
+
+ACRONYMS 
+List of Commonly Used Acronyms 
+
+AM Anemia Management AV Arterio Venous AVF Arteriovenous Fistula BBA Balanced Budget Act BCG Bromcresol Green Laboratory Method BCP  Bromcresol Purple Laboratory Method BSA  Body Surface Area BUN Blood Urea Nitrogen CAPD  Continuous Ambulatory Peritoneal Dialysis CCPD  Continuous Cycling Peritoneal Dialysis CI Confidence Interval CIP Core Indicators Project CMS Centers for Medicare & Medicaid Services CPM  Clinical Performance Measure CQI  Continuous Quality Improvement CrCl Creatinine Clearance DM Diabetes Mellitus DOQI  Dialysis Outcomes Quality Initiative D/P Cr Ratio Dialysate/Plasma Creatinine Ratio ESA Erythropoetin Stimulating Agents ESRD End-Stage Renal Disease FSGS  Focal and Segmental Glomerulosclerosis GFR  Glomerular Filtration Rate HCFA Health Care Financing Administration HCQIP  Health Care Quality Improvement Program HD Hemodialysis Hgb Hemoglobin IV Intravenous K/DOQI  Kidney Disease Outcomes Quality Initiative Kt/V or Kt/Vurea Urea Clearance x Time/the Volume of 
+Distribution of Urea (fractional clearance of urea) LDO Large Dialysis Organization NIH National Institutes of Health NIPD  Nightly Intermittent Peritoneal Dialysis NKF National Kidney Foundation PET Peritoneal Equilibration Test PD Peritoneal Dialysis QA Quality Assurance QI  Quality Improvement RRF Residual Renal Function SD  Standard Deviation SI Units Systéme International Units SLE  Systemic Lupus Erythematosis SPSS  Statistical Package for the Social Sciences spKt/V Single-Pool Kt/V TSAT Transferrin Saturation UKM Urea Kinetic Modeling URR Urea Reduction Ratio USRDS United States Renal Data System VA Vascular Access 
+
+I.  INTRODUCTION 
+The ESRD Clinical Performance Measures (CPM) Project, now in its fourteenth year, is a national effort led by the Centers for Medicare & Medicaid Services (CMS) and its eighteen ESRD Networks to assist dialysis providers to improve patient care and outcomes. Since 1994 the Project has documented continued improvements, specifically in the areas of adequacy of dialysis and anemia management. The providers of dialysis services are to be commended for their ongoing efforts to improve patient care. 
+The 2007 ESRD CPM Annual Report describes the findings of several important clinical measures and/or characteristics of a nationally representative random sample of adult (aged = 18 years) in-center hemodialysis patients and peritoneal dialysis patients. This report also includes the findings for all in-center hemodialysis and peritoneal dialysis patients aged < 18 years. 
+The most recent data described in this Report are from the 2007 study period which includes the months of October-December 2006 for the in-center hemodialysis patients and October 2006­March 2007 for the peritoneal dialysis patients.This Report also compares the 2007 study period findings to findings from previ­ous study periods AND it identifies opportunities to improve care for dialysis patients. 
+The full Report can be found on the Internet at www.cms.hhs.gov/CPMProject. 
+NOTE:  Highlights of important findings from the 2007 ESRD CPM Project may be found on the following pages: 
+CPM highlights for adult hemodialysis patients, page 14 
+CPM highlights for adult peritoneal dialysis patients, page 15 
+Selected significant findings for adult in-center hemo­dialysis patients, page 19 
+Selected significant findings for adult peritoneal dialysis patients, page 20 
+Selected significant findings for pediatric in-center hemo­dialysis patients, page 21 
+Selected significant findings for pediatric peritoneal dialysis patients, page 22 
+This Report contains some features or tools to assist dialysis providers in using the information from this Project. Appendices 6 and 7 (pages 67 and 68) contain Outcomes Comparison Tools (one for hemodialysis and one for peritoneal dialysis) that pro­viders can download and use to record their facility-specific re­sults for comparisons to national and ESRD Network findings (ESRD Network rates are only available for hemodialysis). (Note: Each provider will have to calculate its own facility-specific re­sults to record on this tool.) Even though the national and ESRD Network hemodialysis findings included in this Report are from the time period October – December 2006 (national peritoneal dialysis findings are from the time period October 2006 – March 2007), the facility data that you calculate and enter on this form can be from any time period. Appendix 5 provides you with some ESRD Network-level hemodialysis findings that you can use to record on your ESRD Network’s Outcomes Comparison Tool (Appendix 6).We encourage dialysis facilities to use these tools. 
+The Background and Project Methods section beginning on page 6, provides information on the Medicare ESRD program and why the ESRD CPM Project was initiated. Patient selection criteria and data collection and analysis methodologies are also described. 
+The ESRD Clinical Performance Measures (CPMs) section beginning on page 12, has a short summary of each CPM col­lected for this project as well as a brief summary of the 2007 CPM findings. Appendix 2 (page 47) provides a more detailed description of each CPM. 
+The Other Significant Findings and Trends section begin­ning on page 16, provides highlights of important findings from the 2007 ESRD CPM Project. 
+The Adult In-Center Hemodialysis Patients, Adult Peritoneal Dialysis Patients, Pediatric In-Center Hemodialysis Patients and Pediatric Peritoneal Dialysis Patients sections describe the CPM findings for each cohort for the 2007 study period and display tables depicting other findings. 
+This Report provides the dialysis community with an initial look at ESRD Network and national profiles for the clinical measures that were collected for the ESRD CPM Project.While significant improvements in care have occurred, the opportunities to im­prove care for dialysis patients in the U.S. in the areas of ad­equacy of dialysis, vascular access, and anemia management continue.  Every dialysis caregiver should be familiar with the clinical practice guidelines developed by the Renal Physicians Association (1) and the National Kidney Foundation Kidney Dis­ease Outcomes Quality Initiative (NKF-K/DOQI) (2-5). Your ESRD Network staff and Medical Review Board are also avail­able to assist you in identifying opportunities for improvement. 
+In the future, the ESRD Networks, in collaboration with dialysis facilities, will continue to assess the ESRD CPMs for dialysis patients in the U.S. The purpose of this effort will be to assess improvement in care and to encourage further improvements. The ultimate goal is to improve patient care and outcomes for all ESRD patients. 
+Serum Albumin 
+Although serum albumin is not a CPM for this data collection period, it is one of the original core indicators and was chosen as an indicator for assessing mortality risk for adult in-center hemodialysis patients and adult peritoneal dialysis patients. Lower serum albumin values have been shown to be associ­ated with diminished survival (6-8).This project collects the se­rum albumin value as well as the test method, (bromcresol green [BCG] method and bromcresol purple [BCP] method), because these two methods are commonly used for determining serum albumin concentrations and have been reported to yield sys­tematically different results—the BCG method yielding higher serum albumin concentrations than the BCP method (9). 
+
+For the history of this project, mean serum albumin values 
+< 3.5 g/dL (35 g/L) by the BCG method have been defined as an indicator of inadequate serum albumin. Since the percent of mean serum albumin values < 3.2 g/dL (32 g/L) by the BCP method was nearly the same as the percent of mean serum albumin values < 3.5 g/dL (35 g/L) by the BCG method, we have historically for the purpose of this report also defined a BCP result < 3.2 g/dL (32 g/L) as an indicator of inadequate serum albumin. In June 2000, the NKF-K/DOQI Guidelines for Nutrition in Chronic Renal Failure were published. Guideline 3 of the Clinical Practice Guidelines states that a pre-dialysis or stabilized serum albumin equal to or greater than the lower limit of normal range (approximately 4.0 g/dL [40 g/L] for the bro­mcresol green method) is the outcome goal (10). 
+Findings from this project allow us to report the percent of patients with mean serum albumin values = 4.0 g/dL (40 g/L) (BCG method) or = 3.7 g/dL (37 g/L) (BCP method) and the percent of patients with mean serum albumin values = 3.5 g/dL (35 g/L) (BCG method) or = 3.2 g/dL (32 g/L) (BCP method) for adult hemodialysis patients in each ESRD Network area and nationally, and nationally for adult peritoneal dialysis patients, pediatric hemodialysis, and pediatric peritoneal dialysis patients. 
+Pediatric In-Center Hemodialysis and Peritoneal Dialysis Patients 
+Although there are no CPMs established for the pediatric age group, demographic and clinical information from October-December 2006 were collected on all hemodialysis patients aged < 18 years and from October 2006-March 2007 on all perito­neal dialysis patients aged < 18 years in the U.S. in order to describe several core indicators of dialysis care. These core indicators include dialysis clearance, vascular access (hemodi­alysis only), anemia management, and serum albumin. 
+II.
+  BACKGROUND AND PROJECT METHODS 
+
+A.
+  MEDICARE’S ESRD PROGRAM 
+
+
+The Social Security Amendments of 1972 (PL 92-603) extended Medicare coverage to individuals with end-stage renal disease (ESRD) or chronic kidney failure who require dialysis or a kid­ney transplant to maintain life.To qualify for Medicare under the renal provision, a person must have ESRD and either be en­titled to a monthly insurance benefit under Title II of the Social Security Act (or an annuity under the Railroad Retirement Act); or be fully or currently insured under Social Security; or be the spouse or dependent child of a person who meets at least one of these last two requirements. There is no minimum age for eligibility under the renal disease provision. The incidence of treated ESRD in the United States is 347 per million population (11). As of December 31, 2006, there were 339,983 patients receiving dialysis therapy in the United States (12). 
+ESRD Health Care Quality Improvement Program (HCQIP) 
+The CMS, which oversees the Medicare program, contracts with 18 ESRD Network Organizations throughout the United States. The ESRD Networks stimulate and facilitate improvements in the quality of care for ESRD patients throughout the U.S. In 1994, CMS, with input from the renal community, reshaped the approach of the ESRD Network program to quality assurance and improvement in order to respond to the need to improve the care of Medicare ESRD patients (13). This approach was named the ESRD Health Care Quality Improvement Program (HCQIP). 
+The ESRD HCQIP gives the ESRD Networks and CMS an op­portunity to demonstrate that health care provided to Medicare beneficiaries with renal disease can be measurably improved. The HCQIP is based on the assumption that most health care providers welcome information and, where necessary, help in applying the tools and techniques of quality management (14). 
+ESRD Core Indicators Project 
+One activity included in the ESRD HCQIP was the national ESRD Core Indicators Project (CIP). This project was initiated in 1994 as a national intervention approach to assist dialysis providers in the improvement of patient care and outcomes.The ESRD CIP was CMS’s first nationwide population-based project designed to assess and identify opportunities to improve the care of patients with ESRD (15). This project established the first consistent clinical ESRD database. The elements included in the database represent clinical measures thought to be in­dicative of key components of care surrounding dialysis. As such, the data points are considered “indicators” for use in trig­gering improvement activities.The ESRD CIP was merged with the ESRD CPM Project in 1999. 
+ESRD Clinical Performance Measures Project 
+Section 4558(b) of the Balanced Budget Act (BBA) of 1997 re­quired CMS to develop and implement by January 1, 2000, a method to measure and report quality of renal dialysis services provided under the Medicare program. To implement this legis­lation, CMS funded the development of clinical performance measures (CPMs) based on the National Kidney Foundation (NKF) Dialysis Outcomes Quality Initiative (DOQI) Clinical Prac­tice Guidelines (16-19). 
+For information regarding the development of the CPMs, refer to the 1999 Annual Report, End-Stage Renal Disease Clinical Performance Measures Project on the Internet at www.cms.hhs.gov/esrdQualityImproveInit/08_Archives.asp 
+On March 1, 1999, the ESRD CIP was merged with the ESRD CPM Project, and this project is now known as the ESRD CPM Project. The ESRD CPMs are similar to the core indicators with the addition of measures for assessing vascular access. 
+This 2007 ESRD CPM Project Annual Report provides the re­sults of the CPMs on a sample of adult in-center hemodialysis patients and adult peritoneal dialysis patients. Findings on all pediatric (aged < 18 years) in-center hemodialysis patients and all pediatric (aged < 18 years) peritoneal dialysis patients are also included.The Report does not provide results on a dialysis facility-specific basis. The quality of dialysis services is reported for adult and pediatric in-center hemodialysis patients for the last quarter in 2006 and adult and pediatric peritoneal dialysis patients for the time period October 2006–March 2007. 
+
+CMS and the ESRD Networks are committed to improving ESRD patient care and outcomes by providing tools that can be used by the renal community in assessing patient care processes and outcomes and by identifying opportunities for improvement. One of these tools includes data feedback reports based on the clinical information obtained from the ESRD CPM Project. We invite the renal community to provide us with ideas and feed­back as to ways CMS and the Networks can best help the com­munity to improve patient care. 
+B.  PROJECT METHODS 
+The purpose of the ESRD CPM Project is to provide compara­tive data to ESRD caregivers to assist them in assessing and improving the care provided to dialysis patients. The data col­lected in 1994 (for the time period October-December 1993) established a baseline estimate for important clinical measures of care for adult in-center hemodialysis patients in the United States (20).  From 1994 to 1998, CMS collected ESRD data under the ESRD CIP. The purpose of these data collections was to determine whether patterns in these clinical measures had changed and if opportunities to improve care continued to exist (21-25). 
+The initial data collection effort for the ESRD CPMs was con­ducted in 1999. This effort examined data from October–De­cember 1998 for adult  in-center hemodialysis patients, and from October 1998 to March 1999 for adult peritoneal dialysis pa­tients. Information to calculate the CPMs was collected and fur­ther opportunities to improve care were identified (26). 
+This Report describes the findings from the ninth data collec­tion effort for the ESRD CPMs which was conducted in 2007. Data were collected from October-December 2006 for adult and pediatric in-center hemodialysis patients, and from October 2006 -March 2007 for adult and pediatric peritoneal dialysis patients. These data help to determine if there are opportunities to im­prove care and to evaluate patterns of care across the nation. 
+The Sample 
+Annually, each ESRD Network conducts a survey of ESRD fa­cilities to validate the census of ESRD patients in the ESRD Network at the end of the calendar year. In April 2007, a listing of adult (aged = 18 years as of September 30, 2006) in-center hemodialysis and adult peritoneal dialysis patients who were alive and dialyzing on December 31, 2006, was obtained from each of the 18 ESRD Networks. 
+From this universe of patients, a national random sample, strati­fied by ESRD Network, of adult in-center hemodialysis patients was drawn. The sample size of adult in-center hemodialysis patients was selected to allow estimation of a proportion with a 95% confidence interval (CI) around that estimate no larger than 10 percentage points (i.e., ± 5%) for ESRD Network-specific estimates of the key hemodialysis CPMs and other indicators. Additionally, a 30% over-sample was drawn to compensate for an anticipated non-response rate and to assure a large enough sample of the adult in-center hemodialysis patient population who were dialyzing at least six months prior to October 1, 2006. The final sample consisted of 8,937 adult in-center hemodialy­sis patients. 
+The peritoneal dialysis patient sample included a random se­lection of 5% of adult peritoneal dialysis patients in the nation. Additionally, a 10% over-sample was drawn to compensate for an anticipated non-response rate. The final sample consisted of 1,474 peritoneal dialysis patients. 
+All pediatric (aged < 18 years) in-center hemodialysis patients in the U.S. (n = 720) and all pediatric peritoneal dialysis pa­tients in the U.S. (n = 759) were included in the 2007 ESRD CPM Study. 
+C. SAMPLE SELECTION 
+Data Collection 
+Two data collection forms were used: a four-page in-center he­modialysis form and a four-page peritoneal dialysis form (Ap­pendices 3, 4); the use of these forms was authorized through the National Institutes of Health (NIH) clinical exemption pro­cess. Descriptive information on each selected patient and di­alysis facility was printed onto the data collection forms that were downloaded by ESRD Networks from a custom database application. If demographic information (e.g., name, date of birth, race) or clinical information (e.g., date that initial dialysis oc­curred) was incorrect, facility staff were asked to correct the information on the forms. Staff at ESRD facilities were also asked to abstract clinical information from the medical record of each selected patient, and were instructed to obtain ethnicity infor­mation from the patient. 
+Electronic data for some of the data elements were accepted from the large dialysis organizations (LDOs) (Fresenius Medi­cal Care N.A., Dialysis Clinic, Inc., and Davita, Inc.) The elec­tronically submitted data were printed onto paper forms, and these paper forms were sent to facilities for sampled patients. Facility staff were instructed to supply the data not already pro­vided on the paper form. These updated paper collection forms were then forwarded to the appropriate ESRD Network, where data were reviewed for acceptability and manually entered us­ing a custom database application. 
+Facilities that were not part of an LDO (non-LDO facilities) with one or more patients in the samples received a blank paper data collection form as in past study years. Clinical information contained in the medical record was abstracted for each patient in the adult hemodialysis sample and for all pediatric in-center hemodialysis patients who received in-center hemodialysis at any time during October, November, and December 2006. 
+
+Clinical information contained in the medical records was also abstracted for each patient in the adult peritoneal dialysis sample and for all pediatric peritoneal dialysis patients who were re­ceiving peritoneal dialysis at any time during October 2006­March 2007. The completed data collection forms were then forwarded to the appropriate ESRD Network, where data were reviewed for acceptability and manually entered using a cus­tom database application. 
+In September 2007, each ESRD Network completed data entry of the forms.The data were then forwarded to CMS’s contractor where the data were aggregated and analyzed. 
+Adult In-Center Hemodialysis 
+Initial analyses for the CPMs and other indicators focused on the following elements: paired pre- and post-dialysis BUN val­ues with patient height and weight and dialysis session length (used to calculate spKt/V values); hemoglobin values; vascular access information; and serum albumin. 
+Inclusion of a case in the analysis file required that data be available for at least one of the months in the three-month project period, with at least one paired pre- and post-dialysis BUN, at least one hemoglobin, and at least one serum albumin.We were able to include for analysis 8,740 of the 8,937 patients from the sample (response rate = 97.8%) (TABLE 1). In the vascular ac­cess section, some findings are presented for incident patients (see definition of incident patients, Table 9 page 25) alone. Other findings in this section are presented for prevalent or all pa­tients, which includes incident patients. 
+Characteristics regarding the gender, race, ethnicity, age, diag­nosis, and duration of dialysis (years) for these patients are shown in Table 2. As expected, the characteristics of this ran­dom sample were very similar to the characteristics of the over­all U.S. hemodialysis population (11). Data regarding erythropoetin stimulating agent (ESA) use, serum ferritin con­centrations, transferrin saturation, iron use, and actual time on dialysis were also analyzed. 
+For this Report, each patient’s mean value for the three-month project period was determined from the available data for the following items: spKt/V (calculated using the Daugirdas II for­mula [27]), dialysis session length,  hemoglobin, transferrin satu­ration, serum ferritin concentration, and serum albumin. Because we had data from a stratified random sample of patients (i.e., a separate random sample from each of the 18 ESRD Networks), it was necessary to weight the collected data in order to obtain unbiased estimates of mean clinical values for the total popula­tion. This weighting was done according to the proportion of each ESRD Network’s total population sampled. Aggregate na­tional results shown in this report were derived from weighted data using Statistical Package for the Social Science (SPSS) software (28).ESRD Network-specific comparisons were derived from unweighted data. 
+In 2005, CMS launched the Fistula First Breakthrough Initia­tive. The goal of this initiative is to increase the percentage of patients using an AV Fistula as their access to at least 66% by 
+TABLE 1:  Number of adult in-center hemodialysis patients in each Network in December 2006, sample size and response rate for the 2007 ESRD CPM Project. 
+Ntwk # HD Facs  # HD Pts # HD Facs  Pt Sample Accepted Response            Dec ‘06^  Dec ‘06  in Sample Size  Forms^^ Rate 
+1 158 10023 138 490 484 98.8% 2 240 21370 178 502 486 96.8% 3 150 13338 130 493 487 98.8% 4 248 14048 196 493 485 98.4% 5 303 18398 219 498 488 98.0% 6 506 29831 295 501 490 97.8% 7 313 17767 212 502 483 96.2% 8 302 17405 224 498 488 98.0% 9 408 22231 243 500 484 96.8% 10 205 12932 154 498 479 96.2% 11 376 19596 236 498 481 96.6% 12 249 11198 188 492 476 96.7% 13 264 12354 200 494 487 98.6% 14 399 28258 266 500 485 97.0% 15 237 14145 177 493 487 98.8% 16 139 7890 117 483 480 99.4% 17 183 15893 147 497 495 99.6% 18 261 25044 198 505 495 98.0% 
+Total 4941 311721 3518 8937 8740 97.8% 
+^ Source:  ESRD Networks 1-18 Annual Reports, 2006. 
+^^ A form was considered accepted if the patient met the selection criteria for inclusion in the study and if the data were provided for at least one of the months in the fourth quarter of 2006 for the following items: 1) hemoglobin; 2) paired pre- and post-dialysis BUN values; and 3) serum albumin value. 
+Two or more monthly values for these clinical measures were available for 96% of patients for hemoglobin and 96% for serum albumin by either BCG or BCP method. Monthly hemoglobin values were available for 91% of patients. At least one monthly paired pre-and post-dialysis BUN value was available for 100% of the patients, and two or more were available for 95%. Monthly paired pre-and post-dialysis BUN values were available for 85% of patients. 
+2010. Findings from this project allow us to report progress to­wards this goal. 
+Adult Peritoneal Dialysis 
+The initial analysis focused on the adequacy of peritoneal di­alysis CPMs, anemia management CPMs, and serum albumin values. Inclusion of a case for analysis required that the patient received peritoneal dialysis at least one month during the time period October 2006–March 2007, and that at least one hemo­globin and at least one serum albumin value were reported dur­ing the six-month study period. Of the 1,474 patients sampled, 1,433 patients were included in the sample for analysis (97.2% response rate) (TABLE 3). Selected patient characteristics of this sample for analysis were similar to the characteristics of the overall U.S. peritoneal dialysis population (TABLE 4). 
+For this Report, each patient’s mean value for the six-month study period was determined from available data for the follow­ing items: weekly Kt/V weekly creatinine clearance, hemo­
+urea,
+globin, serum albumin, prescribed epoetin or darbepoetin dose, serum ferritin concentration, and transferrin saturation. Informa­
+
+TABLE 2:  Characteristics of adult in-center hemodialysis patients in the 2007 ESRD CPM Project compared to those of all in-center hemodialysis patients in the U.S. in 2005. 
+Patient  Characteristic 2007 CPM Sample              for Analysis # ^ %  All U.S. in 2005* # in 1,000s %  
+TOTAL  8,740  100  311.9  100  
+GENDER Male Female  4911 3829  56 44  169.9 142.0  54 46  
+RACE American Indian/  Alaska Native Asian/Pacific Islander Black or African American White Other/Unknown  149 423 3185 4960 23  2 5 36 57 <1  4.7 13.4 119.2 169.9 4.7  2 4 38 54 2  
+ETHNICITY Hispanic Non-Hispanic  1253 7475  14 86  46.9 265.0  15 85  
+AGE GROUP (years) 18 - 49 50 - 59 60 - 64 65 - 69 70 - 79 80+  1858 1872 1018 997 1934 1060  21 21 12 11 22 12  69.0 66.3 36.2 36.4 67.1 37.0  22 21 12 12 22 12  
+CAUSE of ESRD Diabetes Mellitus Hypertension Glomerulonephritis Other/Unknown  3795 2293 848 1804  43 26 10 21  136.6 89.0 33.6 52.7  44 29 11 17  
+DURATION OF DIALYSIS (years) < 0.5 1052 0.5 - 0.9 989 1.0 - 1.9 1608 2.0 - 2.9 1150 3.0 - 3.9 935 4.0 + 2924  12 11 18 13 11 33  
+
+* USRDS:  2007 Annual Data Report, Bethesda, MD, National Institutes of Health, 
+2006. Table D.11 
+^ Subgroup totals may not equal total due to missing data 
+Note: Percentages may not add up to 100% due to rounding. 
+
+tion on iron prescription and route of administration was col­lected. The data are from a random sample, not stratified by ESRD Network; thus, only national aggregate data are reported. No ESRD Network-specific or facility-specific analyses were conducted. 
+In 2006, the KDOQI Clinical Practice Guidelines and Clinical Practice Recommendations for Peritoneal Dialysis Adequacy were updated and published. Guideline 2 (Peritoneal Dialysis Solute Clearance Targets and Measurements) of the Clinical Practice Guidelines for Peritoneal Dialysis Adequacy states for patients with and without renal kidney function the minimal “de-
+TABLE 3:  Number of adult peritoneal dialysis patients in each Network in December 2006, sample size and response rate for the 2007 ESRD CPM Project. 
+Network  # PD Pts  Sample  Acceptable   Response 
+ Dec 2006  Size  Forms^  Rate  
+1  1087  58  56  96.6%  
+2  1171  68  67  98.5%  
+3  876  39  38  97.4%  
+4  916  53  53  100.0%  
+5  1618  96  96  100.0%  
+6  2593  137  134  97.8%  
+7  1404  80  78  97.5%  
+8  1759  107  103  96.3%  
+9  2106  107  102  95.3%  
+10  1106  64  63  98.4%  
+11  1605  77  71  92.2%  
+12  1245  54  51  94.4%  
+13  1079  59  59  100.0%  
+14  2005  121  118  97.5%  
+15  1256  70  69  98.6%  
+16  1057  60  60  100.0%  
+17  1889  115  114  99.1%  
+18  2011  109  101  92.7%  
+TOTAL  26783  1474  1433  97.2%  
+
+A form was considered acceptable if the patient met the selection criteria for inclu­sion in the study and if data were provided at least once during the six-month study period for hemoglobin and serum albumin. 
+Two or more values were available for 98% of patients for hemoglobin and 97% for serum albumin by either BCG or BCP methods. Three hemoglobin values were available for 82% of patients; three serum albumin values were available for 84% of patients. 
+livered” dose of total small-solute clearance should be a total (peritoneal and kidney) Kt/Vurea of at least 1.7 per week (29). Findings from this project allow us to report the percent of pa­tients with mean Kt/Vurea values = 1.7 per week nationally for adult peritoneal dialysis patients. 
+Pediatric In-Center Hemodialysis Patients 
+Inclusion of a pediatric in-center hemodialysis record for analy­sis required that data were available for at least one of the months in the three-month project period, with at least one paired pre-and post-dialysis BUN, at least one hemoglobin, and at least one serum albumin. Of the 720 pediatric hemodialysis patients, 681 patients were included in the sample for analysis (95%). Selected patient characterstics of this sample for analysis are shown in Table 5. 
+For this Report, each patient’s mean value for the three-month project period was determined from the available data for the following items: spKt/V, dialysis session length, hemoglobin, transferrin saturation, serum ferritin concentration, prescribed epoetin or darbepoetin dose, and serum albumin. Information on iron prescription and route of iron administration was col­lected.The data were collected on all pediatric in-center hemo­dialysis patients aged < 18 years in the U.S. Only national ag­gregate data are reported. No ESRD Network-specific or facil­ity-specific analyses were conducted. 
+
+TABLE 4: Characteristics of adult peritoneal dialysis patients in the 2007 ESRD CPM Project compared to those of all peritoneal dialysis patients in the U.S. in 2005. 
+Patient  Characteristics  2007 CPM Sample for Analysis #^ % All U.S. in 2005* # in1,000s %  
+TOTAL  1,433  100  25.9  100  
+GENDER Male Female  744 689  52 48  13.4 12.5  52 48  
+RACE American Indian/  Alaska Native Asian/Pacific Islander Black or African American White Other/Uknown  12 107 366 946 *  1 6 26 66 *  0.3 1.5 6.8 16.9 0.4  1 6 26 65 2  
+ETHNICITY Hispanic Non-Hispanic  185 1246  13 87  3.3 22.6  13 87  
+AGE GROUP (years) 18 - 49 50 - 59 60 - 64 65 - 69 70 - 79 80+  525 327 186 130 191 74  37 23 13 9 13 5  8.3 6.1 2.8 2.5 4.0 1.3  32 24 11 10 15 5  
+CAUSE of ESRD Diabetes Mellitus Hypertension Glomerulonephritis Other/Unknown  487 317 261 368  34 22 18 26  8.8 6.3 4.8 6.0  34 24 19 23  
+DURATION OF DIALYSIS (years) < 0.5 159 0.5 - 0.9 221 1.0 - 1.9 324 2.0 - 2.9 211 3.0 - 3.9 147 4.0 + 357  11 15 23 15 10 25  
+
+*USRDS: 2007 Annual Data Report, Bethesda, MD, National Institutes of Health, 
+2007. Table D.11 
+^Subgroup totals may not equal total due to missing data. 
+Note: Percentages may not add up to 100% due to rounding. 
+
+Pediatric Peritoneal Dialysis Patients 
+Inclusion of a pediatric peritoneal dialysis record for analysis required that the patient received peritoneal dialysis at least one month during the time period October 2006-March 2007 and that at least one hemoglobin value and at least one serum albumin value were reported during the six-month study period. Of the 759 pediatric peritoneal dialysis patients identified, 740 (97%) were included in the sample for analysis (TABLE 6). 
+For this Report, each patient’s mean value for the six-month study period was determined from available data for the follow­ing items: weekly Kt/Vurea, weekly creatinine clearance, hemo­globin, serum albumin, prescribed epoetin or darbepoetin dose, serum ferritin concentration, and transferrin saturation.  Infor­mation on iron prescription and route of administration was col­lected.The data were collected on all pediatric peritoneal dialy­sis patients aged < 18 years in the U.S. Only national aggregate data are reported. No ESRD Network-specific or facility-spe­cific analyses were conducted. 
+In 2006, the KDOQI Clinical Practice Guidelines and Clinical Practice Recommendations for Peritoneal Dialysis Adequacy were updated and published. Clinical Practice Recommenda­tions for Guideline 6 (Pediatric Peritoneal Dialysis) states for patients with and without renal kidney function the minimal “de­livered” dose of total small-solute clearance should be a total (peritoneal and kidney) Kt/Vurea of at least 1.8 per week (29). Findings from this project allow us to report the percent of pa­tients with mean Kt/Vurea values = 1.8 per week nationally for pediatric peritoneal dialysis patients. 
+D.  REPORT FORMAT 
+This Report describes the clinical performance measures and other findings for both the adult in-center hemodialysis patient sample and the adult peritoneal dialysis patient sample for the following study periods: October–December 2006 for the adult in-center hemodialysis patients, and October 2006–March 2007 for the adult peritoneal dialysis patients. This report also de­scribes findings on clinical parameters of care for pediatric in-center hemodialysis and peritoneal dialysis patients in the U.S. for October-December 2006 (hemodialysis) and October 2006­March 2007 (peritoneal dialysis). 
+The national results are presented separately in tables by gen­der, race, ethnicity, age group (for adult patients: 18-44, 45-54, 55-64, 65-74, and 75+ years of age, for pediatric patients: 0-4, 5-9, 10-14, and 15 to < 18 years of age), diagnosis of ESRD, and duration of dialysis. The diagnoses are categorized as dia­betes mellitus, hypertension, glomerulonephritis, and other/un­known for adult patients. In some instances clinical characteris­tics for patients in each ESRD Network area are also shown. 
+
+TABLE 5:  Characteristics of pediatric (aged < 18 years) TABLE 6: Characteristics of pediatric (aged < 18 years) in-center hemodialysis patients in the 2007 ESRD CPM peritoneal dialysis patients in the 2007 ESRD CPM Project. Project. 
+Patient                                     2007 CPM Project Patient Characteristics  2007 CPM ProjectCharacteristic #^ % #^ % 
+TOTAL 	740 
+
+100 TOTAL 681 100 
+GENDER GENDER Male 411 56 Male 380 56 Female 329 44 Female 301 44 
+RACE RACE American Indian/Alaska Native 15 2 American Indian/Alaska Native 17 2 Asian/Pacific Islander 19 3 Asian/Pacific Islander 18 3 Black or African American 198 27 Black or African American 255 37 White 504 68 White 386 57 Other/Unknown * * Other/Unknown * * 
+ETHNICITY ETHNICITY Hispanic 245 33 Hispanic 213 31 Non-Hispanic 492 66 Non-Hispanic 466 68 
+AGE GROUP (years) AGE GROUP (years) 0 - 4 184 25 0 - 4 43 6 5 - 9 12917 5 - 9 65 10 10 - 14 216 29 10 - 14 211 31 15 to <18 211 29 15 to <18 362 53 
+CAUSE of ESRD CAUSE of ESRD Congenital / Urologic 253 34 Congenital / Urologic 172 25 Glomerulonephritis 55 7 Glomerulonephritis 89 13 FSGS^^ 103 14 FSGS^^ 99 15 SLE^^^ 19 3 SLE^^^ 42 6 Cystic Disease 32 4 Cystic Disease * * Hypertension 13 2 Hypertension 26 4 Other/Unknown 265 36 Other/Unknown 243 36 
+DURATION OF DIALYSIS (years) DURATION OF DIALYSIS (years) < 0.5 164 22 
+< 0.5 120 18 	0.5 - 0.9 146 20 
+0.5
+ - 0.9 107 16 	1.0 - 1.9 166 22 
+
+1.0
+ - 1.9 136 20 	2.0 - 2.9 93 13 
+
+2.0
+ - 2.9 84 12 	3.0 - 3.9 42 6 
+
+3.0
+ - 3.9 46 7 	4.0 + 123 17 
+
+4.0
+ + 	178 26 
+
+
+
+^ Subgroup totals may not equal total due to missing data. ^^ FSGS - Focal and Segmental Glomerulosclerosis ^ Subgroup totals may not equal total due to missing data. 
+^^^ SLE - Systemic Lupus Erythematosis ^^ FSGS - Focal and Segmental Glomerulosclerosis * Value suppressed because n < 11 ^^^ SLE - Systemic Lupus Erythematosis Note: Percentages may not add up to 100% due to rounding. 
+* Value suppressed because n < 11 
+
+Note: Percentages may not add up to 100% due to rounding. 	A form was considered acceptable if the patient met the selection criteria for inclusion in the study and if data were provided at least once during the six-month 
+A form was considered acceptable if the patient met the selection criteria for 
+study period for hemoglobin and serum albumin. 
+
+inclusion in the study and if data were provided at least one of the months in the fourth quarter of 2006 for the following items:  1) hemoglobin; 2) paired pre- and Two or more values were available for 98% of patients for hemoglobin and 97% for post-dialysis BUN values; and 3) serum albumin value. serum albumin by either BCG or BCP methods. Three hemoglobin values were available for 84% of patients; three serum albumin values were available for 78% of 
+Two or more monthly values for these clinical measures were available for 95% of 
+patients. 
+patients for hemoglobin and 94% for serum albumin by either BCG or BCP method. Monthly hemoglobin values were available for 86% of patients. At least one monthly paired pre- and post-dialysis BUN value was available for 100% of patients, and two or more were available for 92%. Monthly paired pre- and post-dialysis BUN values were available for 79% of patients. 
+
+III. 	CLINICAL PERFORMANCE MEASURES (CPMs) 
+The clinical information abstracted by facility staff is used in this Report to describe some of the CPMs that were developed from the NKF-DOQI Guidelines and other quality indicators for sev­eral aspects of care for adult dialysis patients. These CPMs do not apply to patients under the age of 18 years.The CPMs were developed in the areas of hemodialysis and peritoneal dialysis adequacy, vascular access and anemia management. A complete description of the 13 CPMs appears in Appendix 2 
+(p. 47). 
+The Hemodialysis Adequacy CPMs described in this Report are: 
+CPM I. The patient’s delivered dose of hemodialysis is mea­sured at least once per month. 
+CPM II. The patient’s delivered dose of hemodialysis reported in the patient’s chart is calculated by using formal urea kinetic modeling (UKM) or the Daugirdas II formula for spKt/V. 
+CPM III. The patient’s (for those patients on hemodialysis six months or longer and dialyzing three times per week) delivered dose calculated from data points on the data collection form (monthly measurement averaged over the three-month study period) of hemodialysis is spKt/V > 1.2. 
+The clinical information collected to calculate these adequacy CPMs also allows us to describe other aspects of dialysis adequacy (or indicators), such as the mean spKt/V values for hemodialysis patients in each ESRD Network area and in the US. 
+The Peritoneal Dialysis Adequacy CPMs described in this Report are: 
+CPM I. The patient’s total solute clearance for urea and creati­nine is measured routinely (defined for this report as at least once during the six-month study period). 
+CPM II.  The patient’s total solute clearance for urea (weekly Kt/Vurea ) and creatinine (weekly creatinine clearance) is calcu­lated in a standard way. (See Peritoneal Dialysis Adequacy  CPM II in Appendix 2, p. 48). 
+CPM III.  For patients on continuous ambulatory peritoneal di­alysis (CAPD), the delivered peritoneal dialysis dose is a total Kt/Vurea of at least 2.0 per week and a total creatinine clearance (CrCl) of at least 60 L/week/1.73 m2 OR evidence that the dialy­sis prescription was changed if the adequacy measurements were below these thresholds. 
+For cycler patients, the weekly delivered peritoneal dialysis dose is a total Kt/Vurea of at least 2.1 and a weekly total creatinine clearance of at least 63L/week/1.73 m2 OR evidence that the dialysis prescription was changed if the adequacy measure­ments were below these thresholds. 
+The Vascular Access CPMs described in this Report are: 
+CPM I.  A primary arteriovenous fistula (AVF) should be the access for at least 50% of all new patients initiating hemodialy­sis. A native AVF should be the primary access for 40% of preva­lent patients undergoing hemodialysis. 
+CPM II. Less than 10% of chronic maintenance hemodialysis patients should be maintained on catheters continuously for = 90 days as their permanent chronic dialysis access. 
+CPM III. A patient’s AV graft should be routinely monitored for stenosis. (See Vascular Access CPM III in Appendix 2, p. 49 for a list of techniques and frequency of monitoring used to screen for the presence of stenosis). 
+The Anemia Management CPMs described in this Report are: 
+CPM I. The target hemoglobin for patients prescribed epoetin is 11-12 g/dL (110-120 g/L).  Patients with a mean hemoglobin > 12 g/dL (120 g/L) and not prescribed epoetin were excluded from analysis for this CPM. 
+CPM IIa.  For anemic patients (hemoglobin < 11 g/dL (110 g/L) in at least one study month) or patients prescribed epoetin, the percent transferrin saturation and serum ferritin concentration are assessed (measured) at least once in a three-month period for hemodialysis patients and at least two times during the six-month study period for peritoneal dialysis patients. 
+CPM IIb. For anemic patients (hemoglobin < 11 g/dL (110 g/L) in at least one study month) or patients prescribed epoetin, at least one serum ferritin concentration = 100 ng/mL and at  least one transferrin saturation = 20% were documented during the three-month study period for hemodialysis patients or during the six-month study period for peritoneal dialysis pa­tients. 
+CPM III.  All anemic patients (hemoglobin < 11 g/dL (110 g/L) in at least  one study month) or patients prescribed epoetin, and with at least one transferrin saturation < 20% or at least one serum ferritin concentration < 100 ng/mL during the study period  are prescribed IV iron; UNLESS the mean transferrin saturation was > 50% or the mean serum ferritin concentration was = 800 ng/mL; UNLESS the patient was in the first three months of dialysis and was prescribed oral iron. 
+The clinical information collected to calculate these CPMs al­lows us to describe other aspects of anemia management (or indicators). For example, the percents of patients with a mean hemoglobin = 11 g/dL (110 g/L) and < 10 g/dL (100 g/L) are profiled in this Report. Additionally, the percents of all patients with mean transferrin saturation = 20%, mean serum ferritin con­centration = 100 ng/mL, and the percents of patients prescribed ESA or IV iron are profiled. 
+
+Information was collected on epoetin and darbepoetin use and on IV iron doses again during this data collection period. All monthly recorded data were used in determining the percent of patients prescribed epoetin or darbepoetin. All monthly recorded data were used in determining the percent of patients prescribed any IV iron product. 
+The CPMs may have been calculated slightly differently than other findings reported in this Annual Report. Please refer to Appendix 2 (p. 47) for the specific inclusion and exclusion crite­ria for each CPM. 
+Note Regarding Race 
+In this Report several tables describe important clinical charac­teristics of adult in-center hemodialysis and peritoneal dialysis patients for the following race groups: American Indian/Alaska Native, Asian/Pacific Islander, Black, White, and Other/Unknown. In the figures, these clinical characteristics are compared by race group; however, the comparisons are limited to White vs. Black. The reason for this is sample size. Because of small sample size (TABLE 2), the 95% confidence intervals for esti­mates for the American Indian/Alaska Native, Asian/Pacific Is­lander, and Other/Unknown race groups are very broad. On the other hand, the sample size for White and Black patients was large enough to provide stable estimates; i.e., the 95% confi­dence intervals are narrow. 
+
+CPM HIGHLIGHTS FROM THE NATIONAL 2007 ESRD PROJECT 
+Random Sample of Adult In-Center Hemodialysis (HD) Patients (n=8,740 sample for analysis) The data are from OCT-DEC 2006: HD Adequacy • 87% of patients had monthly adequacy measurements per­formed (HD Adequacy CPM I) • 74% of patients had their delivered spKt/V calculated using either UKM or the Daugirdas II formula (27) (HD Adequacy CPM II) • 93% of patients on dialysis for 6 months or more and dia­lyzing three times a week had a mean delivered adequacy dose of spKt/V = 1.2 calculated using the Daugirdas II formula (HD Adequacy CPM III) Vascular Access (VA) • 41% of incident patients were dialyzed using an AV fistula (AVF) (VA CPM I) • 45% of prevalent patients were dialyzed using an AVF (VA CPM I) (FIGURE 1) • 22% of prevalent patients were dialyzed with a chronic catheter continuously for 90 days or longer (VA CPM II) (FIGURE 1) • 70% of prevalent patients with an AV graft were routinely monitored for the presence of stenosis (VA CPM III) Anemia Management (AM) • 33% of targeted patients prescribed epoetin had a mean hemoglobin 11.0-12.0 g/dL (110-120 g/L) (AM CPM I) • 97% of patients who met the inclusion criteria1 had at least one documented transferrin saturation value and one doc­umented serum ferritin concentration value during the study period (AM CPM IIa) • 82% of patients who met the inclusion criteria1 had at least one transferrin saturation = 20% and one serum ferritin concentration = 100 ng/mL during the study period (AM CPM IIb) • 83% of patients who met the inclusion criteria1 were pre­scribed intravenous iron in at least one month during the study period (AM CPM III)  
+1See Appendix 1 for a description of the inclusion and exclusion criteria.  
+
+Year ESRD CPM Trends (percent of patients meeting the CPMs)1 1998 2000 2002 2004 2005 2006  
+HD Adequacy HD Adequacy CPM I (monthly measurement of delivered HD dose) 79 80 83 83 82 87 HD Adequacy CPM II (method of measurement of delivered HD dose) 994 52 67 76 76 74 HD Adequacy CPM III (mean delivered HD dose = 1.2) 85 91 92 95 94 93 Vascular Access Vascular Access CPM Ia (incident patients with an AVF2 as access) 26 27 27 37 54 41 Vascular Access CPM Ib  (prevalent patients with an AVF as access) 26 30 33 39 44 45 Vascular Access CPM II  (dialyzed with a chronic catheter3) 14 17 21 21 21 22 Vascular Access CPM III  (AV graft was routinely monitored for stenosis) 37 47 61 67 69 70 Anemia Management Anemia CPM I (mean Hgb 11-12 g/dL) 36 38 36 34 35 33 Anemia CPM IIa 90 91 94 95 95 97 (iron stores assessed for anemic patients or patients prescribed Epoetin) Anemia CPM IIb (iron stores maintained at K/DOQI targets) 67 71 78 80 80 82 Anemia CPM III (administration of IV iron to anemic patients) 63 73 79 82 81 83  
+1 See Appendix 1 for a description of the inclusion and exclusion criteria. 2 Arteriovenous fistula 3 For 90 days or longer 4 For 1998 only, accepted HD dose calculated using urea kinetic modeling (UKM), Daugirdas II, or urea reduction ratio (URR); for all subsequent years, only UKM or Daugirdas II accepted.  
+
+NOTE: Please note that when a single year such as 2006 is used in displaying data, it refers to October, November, and December of that year for the hemodialysis patients. 
+CPM HIGHLIGHTS FROM THE NATIONAL 2007 ESRD PROJECT 
+Random Sample of Adult Peritoneal Dialysis (PD) Patients (n=1,433 sample for analysis) The data are from OCT 2006–MAR 2007: PD Adequacy • 84% of patients had at least one measured total solute clearance for urea and creatinine (PD Adequacy CPM I) during the six-month study period (FIGURE 2) • 49% of patients had their total solute clearance for urea and creatinine calculated in a standard way1 (PD Ade­quacy CPM II) (FIGURE 2) • 75% of CAPD patients had a mean weekly Kt/Vurea of = 2.0 and a mean weekly creatinine clearance = 60L/week/ 1.73m2 OR there was evidence the dialysis prescription was changed if the adequacy measurements were below these thresholds during the six-month study period (PD Adequacy CPM III) (FIGURE 3) • 64% of Cycler2 patients had a mean weekly Kt/Vurea of = 2.1 and a mean weekly creatinine clearance = 63 L/week/1.73m2 OR there was evidence the dialy­sis prescription was changed if the adequacy measure­ments were below these thresholds during the six-month study period (PD Adequacy CPM III) (FIGURE 3) Anemia Management (AM) • 37% of targeted patients prescribed epoetin had a mean he­moglobin between 11.0-12.0 g/dL (110-120 g/L) (AM CPM I) • 74% of patients who met the inclusion criteria3 for this CPM had at least two documented transferrin saturation values and two documented serum ferritin concentration values during the six-month study period (AM CPM IIa) • 85% of patients who met the inclusion criteria3 for this CPM had at least one transferrin saturation = 20% and one serum ferritin concentration = 100 ng/mL during the six-month study period (AM CPM IIb) • 41% of patients who met the inclusion criteria3 for this CPM were prescribed intravenous iron in at least one of the two-month periods during the six-month study period (AM CPM III)  
+1 See Appendix 1 for a description of standard ways for calculating total solute clearance. 2 For the Oct 2006-Mar 2007 collection, CCPD and NIPD modalities were not distinguishable. 3 See Appendix 1 for a description of the inclusion and exclusion criteria. Using the 1997 NKF-DOQI guidelines (17):  For CAPD patients: weekly Kt/Vurea = 2.0; weekly CrCl = 60 L/week/1.73m2  For cycler patients: weekly Kt/Vurea = 2.1; weekly CrCl = 63 L/week/1.73m2  
+
+Year ESRD CPM Trends (percent of patients meeting the CPMs)1 1999 2001 2003 2005  2006  2007  
+PD Adequacy PD Adequacy CPM 1 (measurement of total solute clearance at regular intervals) 82 85 88 82 PD Adequacy CPM II 55 62 65 41 (weekly Kt/Vurea & weekly CrCl calculated in a standard way)2 PD Adequacy CPM III (delivered PD dose meets K/DOQI thresholds) CAPD 55 69 71 73 Cycler with daytime dwell 58 62 66 59 Cycler without daytime dwell 45 64 67 58 Cycler3 Anemia Management Anemia CPM I (mean Hgb 11-12 g/dL) 32 39 39 33 Anemia CPM IIa 70 72 77 77 (iron stores assessed for anemic patients or patients prescribed epoetin) Anemia CPM IIb (iron stores maintained at K/DOQI targets) 72 75 81 82 Anemia CPM III (administration of IV iron to anemic patients) 17 23 32 31  80 41 72 59 30 76 83 39  84 49 7564 37 7485 41  
+1 See Appendix 1 for a description of the inclusion and exclusion criteria. 2 See Appendix 1 for a description of standard ways for calculating total solute clearance. 3 For the Oct 2005-Mar 2006 and the Oct 2006-Mar 2007 collections, CCPD and NIPD modalities were not distinguishable.  
+
+NOTE: When a single year, such as 2007, is used for the peritoneal dialysis patients, it refers to January, February, and March of that year as well as October, November, and December of the previous year. 
+IV.  OTHER SIGNIFICANT FINDINGS AND TRENDS 
+ESRD Data Trends 
+
+The figures on the following pages show the trends in the ESRD data for various study periods. 
+Please note that when a single year such as 2006 is used in displaying data, it refers to October, November, and December of that year for the hemodialysis patients. When a single year, such as 2007, is used for the peritoneal dialysis patients, it refers to January, February, and March of that year as well as October, November, and December of the previous year. Also, “adult” refers to ages = 18 years and “pediatric” refers to ages < 18 years. 
+Vascular Access Trends Peritoneal Dialysis Adequacy Trends 
+Figure 1:  Vascular access type for all adult in-center hemodi-Figure 2:  Percent of adult peritoneal dialysis patients with total alysis patients on their last hemodialysis session during the solute clearance for urea and creatinine measured at least once study period. 2007 ESRD CPM Project. during the study period (PD Adequacy CPM I) and with total 
+solute clearance calculated in a standard way* (PD Adequacy 
+AV Fistula* AV Graft Temporary Catheter Chronic Catheter** 
+CPM II), October 2006-March 2007 compared  to previous study 
+100 
+periods. 2007 ESRD CPM Project. 
+Percent of Patients 
+
+80  100  PD Adequacy CPM I  PD Adequacy CPM II  
+50 70 60  90 80  82  85  88  82  80  84  
+
+Percent of Patients
+65
+70 
+62 
+60 
+55 
+50 
+41 
+40
+40 
+1998 2000 2002 2004 2005 2006 
+30 
+* CMS has set a goal to have = 66% of prevalent hemodialysis patients 
+20 
+using an AV Fistula as their access by the year 2010. 
+** Chronic catheter defined as use of a catheter access continuously for 90 
+days or longer. 
+
+Peritoneal Dialysis Adequacy Trends 
+Figure 3: Percent of adult peritoneal dialysis patients meeting 1997 NKF-DOQI guidelines for weekly Kt/Vurea and weekly creatinine clearance (PD Adequacy CPM III). 2007 ESRD CPM 
+Project.  
+100  CAPD  
+90  Cycler Patients with a Daytime Dwell Cycler Patients, No Daytime Dwell 
+80   Cycler Patients  75  
+
+10 
+0 
+1999 2001 2003 2005 2006 2007 
+*See Appendix 1 for a complete description of the standard methods to calculate the solute clearance for urea and creatinine. 
+Hemodialysis Adequacy Trends 
+Figure 4: Percent of adult in-center hemodialysis patients with mean delivered calculated, single session single pool (sp)Kt/V = 1.2 in October-December 2006 compared to previous study periods. 2007 ESRD CPM Project. 
+73 72
+7166 67
+Percent of Patients
+100
+69 
+91 91
+86 89
+64 
+64
+62 
+90
+59
+59 58 
+58 
+80
+55 
+80 
+74
+50 
+45 
+Percent of Patients
+70 
+60 
+50 
+40 
+30 
+1999 2001 2003 2005 2006* 
+2007* 20 
+10
+*For collection years 2006 and 2007, CCPD and NIPD modalities were not distinguishable. 
+0 
+1996 1998 2000 2002 2004 2005 2006 
+
+Anemia Management Trends 
+
+Figure 5:  Percent of adult in-center hemodialysis patients with Figure 6:  Distribution of mean hemoglobin values for adult in-mean hemoglobin = 11 g/dL, October-December 2006 compared center hemodialysis patients, October-December 2006 compared to previous study periods. 2007 ESRD CPM Project. to previous study periods. 2007 ESRD CPM Project. 
+
+1997 1999 2001 2003 2005 2006 
+50  1997 10.7 ± 1.2 Mean ± SD Hemoglobin (g/dL)  
+45 1999 11.4 ± 1.3 2001 11.7 ± 1.2  
+40  2003 11.9 ± 1.2 2005 11.9 ± 1.2  
+
+
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Figure 7:  Percent of adult peritoneal dialysis patients with mean hemoglobin = 11 g/dL, October 2006-March 2007 compared to previous study periods. 2007 ESRD CPM Project. 
+100 
+90 
+8382 8176
+80 
+69
+
+70 < 9 9—9.9 10—10.9 11—11.9 12—12.9 13—13.9 14.0 + 
+Hemoglobin (g/dL) 
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Figure 8:  Distribution of mean hemoglobin values for adult peritoneal dialysis patients, October 2006-March 2007 com­pared to previous study periods. 2007 ESRD CPM Project. 
+50  
+45 Mean ± 1998 11.1 ± 1.4 SD Hemoglobin (g/dL)  
+2000 11.6 ±  1.4  
+40  2002 11.8 ±  1.4  
+2004 12.0 ±  1.3  
+
+35 
+
+2006 12.0 ± 1.3 
+
+
+< 9 9—9.9 10—10.9 11—11.9 12—12.9 13—13.9 14.0 + 
+Percent of Patients
+60 
+55 
+50 40 30 20 10 0 
+
+1998 2000 2002 2004 2006 2007 
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply 
+Hemoglobin (g/dL)
+
+Pediatric Dialysis Trends 
+Figure 9:  Distribution of mean delivered calculated, single session spKt/V values for pediatric (aged < 18 years) in-center hemodialysis patients, October-December 2006 compared to previous study periods. 2007 ESRD CPM Project. 
+50  
+45 Mean ±  SD spKt/V  
+40  Oct–Dec 2001 Oct–Dec 2003  1.55 ±1.55 ±  0.32 0.32  
+
+Figure 10:  Vascular access type for pediatric (aged < 18 years) in-center hemodialysis patients on their last hemodialysis session during the study period, October-December 2006 compared to previous study periods. 2007 ESRD CPM Project. 
+AV Fistula 
+
+AV Graft 
+
+Temporary Catheter Chronic Catheter* 
+100 
+
+
+
+Oct–Dec 2005 1.58 ± 0.33 90
+35 
+Oct–Dec 2006 1.62 ± 0.34 
+80
+30
+
+Percent of Patients 
+
+70 
+60 
+50 
+40 
+30 
+25 20 
+
+<
+ 1.0 1.0—1.19 1.2—1.39 1.4—1.59 1.6—1.79 1.8—1.99 2.0 + 20 
+
+spKt/V 10 
+0 
+
+*Chronic catheter use defined as continous catheter use 90 days or longer. 
+
+Figure 11:  Distribution of mean hemoglobin values for pediatric (aged  < 18 years) in-center hemodialysis patients, October-December 2006 compared to previous study periods. 2007 ESRD CPM Project. 
+50 
+Mean ± SD Hemoglobin (g/dL)
+45
+
+Oct–Dec 2001 11.2 ± 1.6 
+40 
+Oct–Dec 2003 11.4 ± 1.6 
+
+
+0 
+
+<9.0 9—9.9 10—10.9 11—11.9 12—12.9 13—13.9 14.0+ 
+Hemoglobin (g/dL) 
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. 
+SELECTED SIGNIFICANT FINDINGS FROM THE NATIONAL 2007 ESRD CPM PROJECT 
+Random Sample of Adult In-Center Hemodialysis (HD) Patients (n=8,740 sample for analysis) 
+The data are from OCT-DEC 2006: 
+
+HD Adequacy • 	5% of patients had a mean hemoglobin < 10.0 g/dL (100 
+• 	90% of prevalent patients had a mean delivered calcu-g/L) (TABLE 13) lated, single session adequacy dose of spKt/V = 1.2 
+• Mean ± SD hemoglobin was 12.0 ± 1.2 g/dL
+(FIGURE 4) 
+
+(120 ± 12 g/L) (FIGURE 6, TABLE 13) 
+• 	94% of female patients and 87% of male patients were 
+
+• 79% of patients had a mean transferrin saturation = 20% receiving dialysis with a mean delivered calculated, single 
+(TABLE 15) 
+session spKt/V = 1.2 in OCT-DEC 2006 (TABLE 7) 
+
+• 	95% of patients had a mean serum ferritin concentration 
+• 	Mean ± SD spKt/V was 1.55 ± 0.27 
+= 100 ng/mL (TABLE 15) 
+• 	87% of patients had a mean URR = 65% 
+• 	23% of patients had a mean serum ferritin > 800 ng/mL 
+
+• 	
+Mean ± SD URR was 72.0 ± 7% (TABLE 15) 
+
+• 	
+Mean ± SD dialysis session length was 217 ± 32 minutes • 70% of patients were prescribed IV iron during the study period (TABLE 15) 
+
+
+Opportunity to Improve Adequacy 
+
+• 	10% of patients did not have a mean spKt/V = 1.2 during Opportunities to Improve Anemia Management 
+the three-month study period 	• 16% of patients did not have a mean hemoglobin = 11 g/dL (110 g/L) during the three-month study period 
+Vascular Access • 	21% of patients did not have a mean transferrin satura­
+• 	41% of incident and 45% of prevalent patients1 were dia-tion = 20% and 5% of patients did not have a mean serum lyzed with an AVF during their last hemodialysis session ferritin = 100 ng/mL OCT-DEC 2006 (TABLE 9) 
+Serum Albumin 
+
+• 	
+68% of patients with an AVF or AV graft had their access 
+
+
+routinely monitored for the presence of stenosis during • 34% of patients had a mean serum albumin = 4.0/3.7 g/dL the three-month study period (40/37 g/L) (BCG/BCP)2 (TABLE 16) 
+
+• 
+81% of patients had a mean serum albumin = 3.5/3.2 g/dL Opportunities to Improve Vascular Access (35/32 g/L) (BCG/BCP) (TABLE 16) 
+
+• 	
+58% of incident patients and 55% of all patients were not 
+
+
+
+•	 Mean ± SD serum albumin was 3.8 ± 0.4/3.5 ± 0.5 g/dLdialyzed with an AVF during their last hemodialysis (38 ± 4/35 ± 5 g/L) (BCG/BCP)
+session OCT-DEC 2006 
+
+• 	32% of patients with an AVF or AV graft did not have their Opportunity to Improve Serum Albumin access routinely monitored for the presence of stenosis 
+• 66% of patients did not have a mean serum albumin during the three-month study period 
+= 4.0/3.7 g/dL (40/37 g/L) (BCG/BCP) during the three-month study period 
+Anemia Management (AM) 
+• 	19% of patients did not have a mean serum albumin 
+• 	84% of patients had a mean hemoglobin = 11 g/dL (110 = 3.5/3.2 g/dL (35/32 g/L) (BCG/BCP) during the three-g/L) in the last quarter of 2004 (FIGURE 5, TABLE 14) month study period 
+
+1 CMS has set a goal to have = 66% of prevalent hemodialysis patients using an AV Fistula as their access by the year 2010. 2 BCG = bromcresol green, BCP = bromcresol purple; these are two different laboratory methods for assaying serum albumin. 
+SELECTED SIGNIFICANT FINDINGS FROM THE NATIONAL 2007 ESRD CPM PROJECT SELECTED SIGNIFICANT FINDINGS FROM THE NATIONAL 2007 ESRD CPM PROJECT 
+Random Sample of Adult Peritoneal Dialysis (PD) Patients (n=1,433 sample for analysis) The data are from OCT 2006–MAR 2007: PD Adequacy1 • 85% of all peritoneal dialysis patients had a mean weekly Kt/Vurea = 1.7 • Mean weekly Kt/Vurea for CAPD patients was 2.31 ± 0.65 • Mean weekly Kt/Vurea for Cycler patients was 2.22 ± 0.64 (TABLE 18) Opportunities to Improve Adequacy • The adequacy of dialysis was not assessed during the 2007 study period for 16% of the sampled peritoneal dialysis patients • 15% of all peritoneal dialysis patients did not achieve the newly identified minimal “delivered” dose of Kt/Vurea = 1.7 Anemia Management (AM) • 82% of patients had a mean hemoglobin = 11 g/dL (FIGURE 7) • 5% of patients had a mean hemoglobin < 10.0 g/dL • Mean ± SD hemoglobin was 12.0 ± 1.3 g/dL (120 ± 13 g/L) (FIGURE 8, TABLE 19) • 85% of patients had a mean transferrin saturation = 20% • 90% of patients had a mean serum ferritin concentration = 100 ng/mL • 18% of patients had a mean serum ferritin > 800 ng/mL • 29% of patients were prescribed IV iron during the six-month study period. Opportunities to Improve Anemia Management • 18% of patients did not have a mean hemoglobin = 11 g/dL (110 g/L) in the 2007 study period • 15% of patients did not have a mean transferrin satura­tion = 20% and 10% of patients did not have a mean serum ferritin = 100 ng/mL Serum Albumin • 19% of patients had a mean serum albumin = 4.0/3.7 g/dL (40/37 g/L) (BCG/BCP)2 (TABLE 20) • 63% of patients had a mean serum albumin = 3.5/3.2 g/dL (35/32 g/L) (BCG/BCP) (TABLE 20) • Mean ± SD serum albumin was 3.6 ± 0.5/3.3 ± 0.6 g/dL (36 ± 5/33 ± 6 g/L) (BCG/BCP) Opportunities to Improve Serum Albumin • 81% of PD patients did not have mean serum albumin = 4.0/3.7 g/dL (40/37 g/L) (BCG/BCP) during the six-month study period • 37% of PD patients did not have mean serum albumin = 3.5/3.2 g/dL (35/32 g/L) (BCG/BCP) during the six-month study period  
+1Using the 2006 KDOQI guidelines and recommendations (29):  For peritoneal dialysis patients with and without renal kidney function: weekly KtVurea = 1.7. 2BCG = bromcresol green, BCP = bromcresol purple; these are two different laboratory methods for assaying serum albumin.  
+
+100% Sample Pediatric In-Center Hemodialysis Patients (HD) (aged < 18 years) 
+(n=681 sample for analysis) 
+The data are from OCT–DEC 2006: 
+
+Clearance 	• Mean ± SD hemoglobin was 11.5 ± 1.6 g/dL (115 ± 16) 
+• 	91% of patients had a mean delivered calculated, single g/L (FIGURE 11, TABLE 23) session adequacy dose of spKt/V = 1.2 calculated using 
+• 	76% of patients had a mean transferrin saturation = 20% the Daugirdas II formula (26) (TABLE 21) 
+• 	82% of patients had a mean serum ferritin concentration 
+• 	
+Mean ± SD spKt/V was 1.62 ± 0.34 (FIGURE 9) 
+
+
+= 100 ng/mL 
+• 	
+Mean ± SD dialysis session length was 203 ± 30 
+
+• 	19% of patients had a mean serum ferritin > 800 ng/mL minutes 
+Opportunity to Improve Anemia Management Opportunity to Improve Clearance 
+• 	31% of patients did not have a mean hemoglobin = 11 
+• 	10% of patients did not have a mean spKt/V = 1.2 
+g/dL (110 g/L) during the three-month study period during the three-month study period 
+Serum Albumin 
+Vascular Access 
+• 	49% of patients had a mean serum albumin = 4.0/3.7
+• 	31% of patients were dialyzed using an AV fistula (AVF) g/dL (40/37 g/L) (BCG/BCP)1 (TABLE 24) (FIGURE 10, TABLE 22) 
+• 	82% of patients had a mean serum albumin  = 3.5/3.2
+• 	52% of patients were dialyzed with a chronic catheter g/dL (35/32 g/L) (BCG/BCP) (TABLE 24) continuously for 90 days or longer (FIGURE 10) 
+• 	Mean ± SD serum albumin was 3.9 ± 0.5/3.5 ± 0.5 g/dL
+• 	64% of patients with an AVF or an AV graft had their (39 ± 5/35 ± 5 g/L) (BCG/BCP)access routinely monitored for the presence of stenosis 
+Opportunity to Improve Serum Albumin Opportunitiy to Improve Vascular Access 
+• 	51% of patients did not have a mean serum albumin 
+• 	36% of patients with an AVF or AV graft did not have = 4.0/3.7 g/dL (40/37 g/L) (BCG/BCP) during the three-this access routinely monitored for the presence of month study period stenosis during the three-month study period 
+• 	18% of patients did not have a mean serum albumin = 3.5/3.2 g/dL (35/32 g/L) (BCG/BCP) during the three-
+Anemia Management 
+month study period. 
+• 	69% of patients had a mean hemoglobin = 11 g/dL (110 g/L) 
+
+1 BCG = bromcresol green, BCP = bromcresol purple; these are two different laboratory methods for assaying serum albumin. 
+SELECTED SIGNIFICANT FINDINGS FROM THE NATIONAL 2007 ESRD CPM PROJECT 
+Clearance^ • 87% of all peritoneal dialysis patients had a mean weekly Kt/Vurea = 1.8 • Mean weekly Kt/Vurea for CAPD was 2.20 ± 0.74 (TABLE 25) • Mean weekly Kt/Vurea for cycler patients was 2.52 ± 0.74 (TABLE 25) Opportunities to Improve Clearance • 13% of all PD patients did not have a mean weekly Kt/Vurea = 1.8 during the six-month study period Anemia Management • 71% of patients had a mean hemoglobin = 11 g/dL (110 g/L) (TABLE 26) • Mean ± SD hemoglobin was 11.6 ± 1.4 g/dL (116 ± 14 g/L) (TABLE 26) • 81% of patients had a mean transferrin saturation = 20% • 71% of patients had a mean serum ferritin concentration = 100 ng/mL • 9% of patients had a mean serum ferritin concentration > 800 ng/mL Opportunity to improve Anemia Management • 29% of patients did not have a mean hemoglobin = 11 g/dL (110 g/L) during the six-month study period Serum Albumin • 27% of patients had a mean serum albumin = 4.0/3.7 g/dL (40/37 g/L) (BCG/BCP) (TABLE 27) • 64% of patients had a mean serum albumin = 3.5/3.2 g/dL (35/32 g/L) (BCG/BCP) (TABLE 27) • Mean serum albumin was 3.6 ± 0.6/3.3 ± 0.6 g/dL (36 ± 6/33 ± 6 g/L) (BCG/BCP) Opportunity to Improve Serum Albumin • 73% of patients did not have a mean serum albumin = 4.0/3.7 g/dL (40/37 g/L) (BCG/BCP) during the six-month study period • 36% of patients did not have a mean serum albumin = 3.5/3.2 g/dL (35/32 g/L) (BCG/BCP) during the six-month study period 100% Sample Pediatric Peritoneal Dialysis Patients (PD) (aged < 18 years) (n=740 sample for analysis) The data are from OCT 2006 – MAR 2007:  
+^Using the 2006 KDOQI guidelines and recommendations (29):  For pediatric peritoneal dialysis patients with and without renal kidney function: weekly KtVurea = 1.8.  
+
+IMPORTANT NOTE 
+The data in this Report are intended to stimulate the development of quality improvement (QI) projects in dialysis facilities. The data collected for this project were necessarily limited: not all dialytic parameters that influence patient care for these clinical measures were collected. In addition, the project did not attempt to develop facility-specific profiles of care. 
+As you review this Report, ask yourself questions about how your patients’ clinical characteristics compare to these national hemodialysis and peritoneal dialysis patient profiles and Network hemodialysis patient profiles. Additional information must be collected at your facility if you wish to answer these questions and develop ways to improve patient care for your patients. Your ESRD Network staff and Medical Review Board members are available to assist you in using these data in your QI activities and in developing facility-specific QI projects. 
+V.  ADULT IN-CENTER HEMODIALYSIS PATIENTS 
+This section describes the findings for the sampled adult in-center hemodialysis patients for selected CPMs and other quality indicators related to adequacy of dialysis, vascular access, ane­mia management and serum albumin. 
+A national random sample of adult ( = 18 years) in-center he­modialysis patients, stratified by Network, who were alive on December 31, 2006, was selected (n=8,937). 8,740 patients (97.8%) were included in the sample for analysis. 
+A.   ADEQUACY OF HEMODIALYSIS 
+CPM Findings for October–December 2006 CPMs 
+Data to assess three hemodialysis adequacy CPMs were col­lected in 2007. The time period from which these data were abstracted was October–December 2006. The results for these CPMs are included in this section of the report (Hemodialysis Adequacy CPMs I–III). 
+Hemodialysis Adequacy CPM I — The patient’s delivered dose of hemodialysis is measured at least once per month. 
+FINDING: 87% of adult in-center hemodialysis patients in the sample for analysis had documented measurements of hemo­dialysis adequacy (URR and/or spKt/V) for each month during the three-month study period (October–December 2006). These measurements were recorded in the patient’s chart, not calcu­lated from individual data points. An additional 9% of the pa­tients in the sample for analysis had documented adequacy mea­surements for two out of the three months, and another 4% of the patients had documented adequacy measurements for one of the three months. 
+Hemodialysis Adequacy CPM II — The patient’s delivered dose of hemodialysis recorded in the patient’s chart is calculated by using formal urea kinetic modeling (UKM) or the Daugirdas II formula (for spKt/V) (26). 
+FINDING: 74% of adult in-center hemodialysis patients in the sample for analysis had delivered hemodialysis doses reported as spKt/V calculated using formal UKM or the Daugirdas II for­mula. 
+Hemodialysis Adequacy CPM III — The patient’s delivered dose of hemodialysis calculated from data points on the data collection form (monthly measurement averaged over the three-month study period) is spKt/V > 1.2 using the Daugirdas II for­mula (26).This CPM is calculated on the subset of patients who had been on hemodialysis therapy for six months or longer and who were dialyzing three times per week (n=7,404). 
+FINDING:  For the last quarter of 2006, 93% of the adult in-center hemodialysis patients who met the inclusion criteria (only those patients who had been on hemodialysis therapy for six months or longer and who were dialyzing three times per week [n=7,404]) had a mean delivered calculated, single session (hereafter referred to as delivered) hemodialysis dose of spKt/V > 1.2. 
+B. ADEQUACY OF HEMODIALYSIS TABLES 
+Hemodialysis Adequacy Findings for October-December 2006 
+TABLE 7:  Mean delivered calculated, single session spKt/V and percent of adult in-center hemodialysis patients with mean delivered calculated, single session spKt/V = 1.2 and = 1.3 by characteristics, October-December 2006. 2007 ESRD CPM Project 
+Patient  Percent of Patients with 
+Characteristics Mean spKt/V spKt/V = 1.2 spKt/V = 1.3 
+
+TOTAL 1.55 90 83 
+GENDER Male 1.48 87 78 Female 1.63 94 89 
+RACE American Indian/Alaska Native 1.65 93 89 Asian/Pacific Islander 1.68 97 92 Black or African American 1.51 89 81 White 1.56 91 84 
+Other/Unknown 1.53 91 86 
+ETHNICITY Hispanic 1.61 93 89 Non-Hispanic 1.54 90 82 
+AGE GROUP (years) 18 - 44 1.51 87 78 45 - 54 1.50 88 79 55 - 64 1.54 90 83 65 - 74 1.57 93 85 75+ 1.59 93 87 
+CAUSE of ESRD Diabetes Mellitus 1.54 90 82 Hypertension 1.55 91 84 Glomerulonephritis 1.55 91 84 Other/Unknown 1.56 91 83 
+DURATION OF DIALYSIS (years) 
+< 0.5 1.39 73 60 
+0.5
+ - 0.9 1.49 86 76 
+
+1.0
+ - 1.9 1.55 91 83 
+
+2.0
+ - 2.9 1.57 94 88 
+
+3.0
+ - 3.9 1.58 94 89 
+
+4.0
+ + 1.61 95 90 
+
+
+QUINTILE POST-DIALYSIS BODY WEIGHT (kg) 
+32.0 - 60.1 1.72 97 95 
+60.2 - 69.6 1.60 95 89 
+69.7 - 79.4 1.54 91 85 
+79.5 - 92.9 1.49 88 79 
+93.0 - 226.0 1.39 80 67 
+ACCESS TYPE 
+AV Fistula 1.57 93 86 
+AV Graft* 1.62 96 92 
+Catheter 1.45 82 70 
+
+MEAN HGB (g/dL) 
+= 11 1.56 92 85 
+
+< 11 1.49 83 74 
+MEAN SERUM ALBUMIN (g/dL) = 3.5/3.2 BCG/BCP^ 1.56 91 85 < 3.5/3.2 BCG/BCP^ 1.50 86 77 
+*Includes grafts with and without AVF. 
+^BCG/BCP = bromcresol green/bromcresol purple laboratory methods 
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Note: To convert serum albumin conventional units of g/dL to SI units (g/L), multiply by 10. 
+
+
+Table 8:  Percent of adult in-center hemodialysis patients receiving dialysis with a mean delivered, single session spKt/V = 1.2, by gender, race, ethnicity, body weight, dialysis session length and Network, October-December 2006. 2007 ESRD CPM Project 
+PATIENTCHARACTERISTIC       NETWORK  
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18    U.S.  
+ALL 95 91 92 91 89 91 88 91 91 89 89 91 88 95 91 89 87 87 GENDER  90  
+Male 94 88 91 89 86 87 86 88 89 85 86 88 84 93 88 86 83 83  87  
+Female 97 95 93 95 95 94 92 94 94 94 93 95 91 97 95 95 92 93 RACE Black or 94  
+  African American 93 89 92 91 90 91 88 89 89 85 88 91 88 93 89 83 83 82  89  
+White 95 92 91 91 87 91 88 93 93 91 89 91 86 96 91 89 84 87 ETHNICITY  91  
+Hispanic 96 94 95 88 94 * 88 * * 100 92 86 * 96 93 98 88 91  93  
+Non-Hispanic 95 91 90 91 89 91 88 91 91 87 89 92 88 94 90 88 86 84 POST-DIALYSIS BODY WEIGHT (kg)^  90  
+< 74.83 99 97 96 96 95 94 92 96 98 97 92 95 96 98 96 94 94 92  95  
+= 74.83 90 84 87 87 84 88 84 87 86 79 87 88 80 92 86 84 76 79 DIALYSIS SESSION LENGTH  86  
+< 212.67 94 92 90 88 91 90 85 89 91 87 88 90 83 94 88 80 84 86  89  
+= 212.67 97 91 93 93 87 92 91 92 92 90 91 93 92 95 94 94 93 91  92  
+
+* Value suppressed because n < 11 ^ Post-dialysis body weight (kg) and dialysis session length categories were created at the median value for the study period Note:  A delivered spKt/V of 1.2 does not necessarily correlate with a delivered URR of 65% 
+C. VASCULAR ACCESS CPMs 
+CPM Findings for October-December 2006 
+Data to assess three vascular access CPMs were collected in 2007. The time period from which these data were abstracted was October–December 2006. Results for these CPMs are in­cluded in this report. 
+Vascular Access CPM I — A primary arteriovenous fistula (AVF) should be the access for at least 50% of all new patients initiat­ing hemodialysis.  A native AVF should be the primary access for 40% of all prevalent patients undergoing hemodialysis. 
+FINDING: 41% of incident patients (initiating their most recent course of hemodialysis, on or between January 1, 2006 and August 31, 2006, [n = 1,302]) were dialyzed using an AVF on their last hemodialysis session during October–December 2006 (TABLE 9). 
+45% of all patients in the sample for analysis were dialyzed using an AVF during their last hemodialysis session October– December 2006 (TABLE 9). 
+Vascular Access CPM II — Less than 10% of chronic mainte­nance hemodialysis patients should be maintained on catheters (continuously for 90 days or longer) as their permanent chronic dialysis access. 
+FINDING:  22% of all patients in the sample for analysis were dialyzed with a chronic catheter continuously for 90 days or longer during October–December 2006. 
+Vascular Access CPM III — A patient’s AV graft should be routinely monitored for stenosis. (See Vascular Access CPM III in Appendix 1 for a list of techniques and frequency of monitor­ing used to screen for the presence of stenosis). 
+FINDING:  70% of patients with an AV graft (n=2,170) had this graft routinely monitored for the presence of stenosis during October–December 2006. 
+D. VASCULAR ACCESS TABLES 
+Vascular Access Findings for Oct-Dec 2006 
+TABLE 9:  Vascular access type for incident^ and all adult in-center hemodialysis patients during the last hemodialysis session of the study period, by selected patient characteristics, October-December 2006. 2007 ESRD CPM Project. 
+Incident (n = 1302)  Prevalent (n = 8740)  
+Patient  AVCharacteristic AVF  Graft Cath % % %           AV AVF^^ Graft  Cath % % %  
+TOTAL 41 13 45 GENDER Male 49 12 39 Female 31 15 53 RACE American Indian/  Alaska Native * * * Asian/Pacific Islander 53 * 29 Black or African  American 34 16 50 White 44 12 44 Other/Unknown * * * ETHNICITY Hispanic 44 17 40 Non-Hispanic 41 13 46 AGE GROUP (years) 18 - 44 46 * 45 45 - 54 46 15 38 55 - 64 39 11 50 65 - 74 42 14 44 75+ 37 17 47 CAUSE of ESRD Diabetes Mellitus 41 15 44 Hypertension 39 16 45 Glomerulonephritis 50 * 44 Other/Unknown 41 8 51 DURATION OF DIALYSIS (years) < 0.5 33 10 57 0.5 - 0.9 44 14 41 1.0 - 1.9 N/A N/A N/A 2.0 - 2.9 N/A N/A N/A 3.0 - 3.9 N/A N/A N/A 4.0 + N/A N/A N/A  45 26 29 53 22 25 35 32 38 59 24 17 56 24 20 40 23 28 48 22 30 * * * 52 26 22 44 26 30 52 20 27 48 27 25 44 27 29 43 29 28 41 26 33 43 28 29 45 28 27 54 24 22 45 20 34 23 8 69 44 14 41 49 25 26 53 27 19 51 32 17 46 36 18  
+
+^An incident patient is defined as a patient initiating in-center hemodialysis on or 
+between January 1, 2006 and August 31, 2006. 
+^^CMS has set a goal to have = 66% of prevalent hemodialysis patients using an 
+AV Fistula as their access by the year 2010. 
+Note:  Percentages may not add up to 100% due to rounding. 
+*Value suppressed because n < 11. 
+
+
+Table 10:  Percent of all adult in-center hemodialysis patients with an AV fistula access^ on their last hemodialysis session during October-December 2006, by gender, race, ethnicity, age, cause of ESRD, and Network. 2007 ESRD CPM Project 
+PATIENT CHARACTERISTIC  NETWORK  
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18    U.S.  
+ALL 57 47 44 43 38 41 44 42 44 42 40 45 36 42 55 61 53 51 GENDER  45  
+Male 64 55 53 51 44 50 53 53 53 52 45 51 46 51 63 66 62 59  53  
+Female 47 37 33 33 32 32 31 28 32 25 36 38 25 34 45 55 40 39 RACE Black or 35  
+  African American 48 41 40 41 37 40 44 41 40 38 35 41 34 38 39 57 47 42  40  
+White 59 50 48 46 39 44 44 44 45 44 41 46 38 45 55 60 58 51 ETHNICITY  48  
+Hispanic 57 62 44 61 * * 49 * * 45 * 52 * 47 53 70 57 54  52  
+Non-Hispanic 57 44 45 43 38 41 44 42 43 41 41 45 36 39 56 61 52 48 AGE GROUP (years)  44  
+18 - 44 67 60 40 48 53 52 57 52 53 41 44 55 43 48 59 71 52 58  52  
+45 - 54 53 47 57 44 38 45 50 38 47 47 45 47 42 52 54 68 57 51  48  
+55 - 64 60 42 34 48 34 46 42 44 44 47 35 50 45 38 57 61 52 50  44  
+65 - 74 52 52 43 44 43 36 39 38 43 41 34 39 31 40 56 52 49 47  43  
+75+ 56 41 51 37 30 27 38 35 38 31 46 40 21 35 51 60 56 50 CAUSE OF ESRD  41  
+Diabetes Mellitus 50 49 41 38 33 38 38 40 44 40 39 43 34 42 57 61 50 48 Other Causes 43  
+Combined 61 46 47 47 43 43 48 43 44 42 42 46 38 43 53 62 55 53  47  
+
+* 
+Value suppressed because n < 11 
+^ CMS has set a goal to have = 66% of prevalent hemodialysis patients using an AV Fistula as their access by the year 2010. 
+
+
+* 
+Value suppressed because n < 11 
+
+
+
+Table 11:  Percent of all adult in-center hemodialysis patients with a catheter access on their last hemodialysis session during October-December 2006, by gender, race, ethnicity, age, cause of ESRD, and Network. 2007 ESRD CPM Project 
+PATIENTCHARACTERISTIC                NETWORK  
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18    U.S.  
+ALL 27 27 35 32 30 26 33 25 32 33 35 32 36 24 30 22 23 20 GENDER  29  
+Male 24 23 29 31 28 21 30 23 26 29 33 28 32 20 25 20 18 17  25  
+Female 32 33 43 33 32 31 39 28 40 40 38 36 41 28 37 25 30 25 RACE Black or 33  
+  African American 31 28 34 27 27 23 29 23 31 36 26 34 32 28 40 * 31 19  28  
+White 26 29 35 34 34 34 37 29 33 32 41 31 43 22 31 23 22 21 ETHNICITY  30  
+Hispanic * 21 31 * * * 31 * * 34 * * * 18 28 * 18 19  22  
+Non-Hispanic 28 29 37 32 30 26 34 25 33 33 35 33 36 28 30 22 24 22 AGE GROUP (years)  30  
+18 - 44 28 25 44 28 27 25 26 20 28 39 30 29 33 26 29 18 28 22  27  
+45 - 54 23 24 30 34 27 17 29 31 34 25 30 27 28 16 29 19 17 22  25  
+55 - 64 24 30 37 25 34 26 37 22 34 27 38 26 33 25 26 19 25 21  27  
+65 - 74 27 20 30 31 23 24 33 26 28 36 38 36 34 28 30 29 24 23  28  
+75+ 31 34 34 38 37 39 38 29 35 41 36 39 50 24 33 22 21 15 CAUSE OF ESRD  33  
+Diabetes Mellitus 31 25 36 33 32 25 38 24 32 34 36 35 37 23 25 24 23 20 Other Causes 29  
+Combined 25 29 34 31 28 27 30 26 32 33 34 30 35 26 34 21 23 21  29  
+
+Table 12: Reasons for catheter placement in adult in-center hemodialysis patients using catheters on their last hemodialysis session during October-December 2006 compared to previous study periods. 2007 ESRD CPM Project.
+ 2002 2003 2004 2005 2006 
+No fistula or graft 
+surgically planned 22% 24% 27% 19% 29% 
+
+Fistula or graft maturing, 
+not ready to cannulate 27% 23% 26% 25% 30% 
+
+Temporary interruption of fistula or 
+graft due to clotting or revisions 14% 12% 11% 10% 12% 
+
+No fistula or graft surgically 
+created at this time 18% 22% 21% 19% 34% 
+
+All fistula or graft sites 
+have been exhausted 12% 13% 11% 18% 19% 
+
+E.  ANEMIA MANAGEMENT CPMs 
+CPM Findings for October–December 2006 
+Data were collected to assess three anemia management CPMs. The time period from which these data were abstracted was October–December 2006. 
+Anemia Management CPM I — The target hemoglobin is 11– 12 g/dL (110-120 g/L).  Patients with a mean hemoglobin > 12 g/dL (120 g/L) and not prescribed epoetin were excluded from analysis for this CPM. 
+FINDING: For the last quarter of 2006, 33% of the in-center hemodialysis patients who met the inclusion criteria (n=8,110) had a mean hemoglobin 11–12 g/dL (110-120 g/L). 
+Anemia Management CPM IIa  — For all anemic patients (he­moglobin < 11 g/dL [110 g/L]) or patients prescribed epoetin, the percent transferrin saturation and the serum ferritin con­centration are assessed (measured) at least once in a three-month period. 
+FINDING: For the last quarter of 2006, 97% of the in-center hemodialysis patients who met the inclusion criteria (n=7,993) had at least one documented (measured) transferrin saturation value and at least one documented (measured) serum ferritin concentration value during the study period. 
+Anemia Management CPM IIb — For all anemic patients (he­moglobin < 11 g/dL [110 g/L]) or patients prescribed epoetin, at least one serum ferritin concentration >100 ng/mL and at least one transferrin saturation > 20% were documented during the three-month study period. 
+FINDING: For the last quarter of 2006, 82% of the in-center hemodialysis patients who met the inclusion criteria (n=7,993) had at least one documented transferrin saturation > 20% and at least one documented serum ferritin concentration > 100 ng/mL during the study period. 
+Anemia Management CPM III — All anemic patients (hemo­globin < 11 g/dL [110 g/L]), or patients prescribed epoetin, and with at least one transferrin saturation < 20% or at least one serum ferritin concentration < 100 ng/mL during the study pe­riod are prescribed intravenous iron; UNLESS the mean trans­ferrin saturation was > 50% or the mean serum ferritin concen­tration was > 800 ng/mL; UNLESS the patient was in the first three months of dialysis and was prescribed a trial dose of oral iron. 
+FINDING: 83% of the in-center hemodialysis patients who met the inclusion criteria (n=2,874) were prescribed intravenous iron in at least one month during October–December 2006. 
+F.  ANEMIA MANAGEMENT TABLES 
+Anemia Management Findings for October-December 2006 
+TABLE 13:  Mean hemoglobin values (g/dL) for adult in-center hemodialysis patients in the U.S., by patient characteristics, October-December 2006. 2007 ESRD CPM Project 
+Patient  Characteristics  Mean Hgb (g/dL)  <10  Percent of Patients with hemoglobin values10-11-12-13­10.9 11.9 12.9 13.9  14+  
+ALL GENDER  12.0  5  11 30 35 14  5  
+Male  12.1  5  11 30 34 14  6  
+Female RACE American Indian/ 12.0  5  12 31 35 13  4  
+  Alaska Native  12.2  *  * 30 35 14  *  
+Asian/Pacific Islander Black or 12.1  *  10 33 35 15  5  
+  African American  12.0  6  11 30 34 14  6  
+White  12.0  4  12 31 36 13  5  
+Other/Unknown ETHNICITY  11.9  *  * * * *  *  
+Hispanic  12.1  3  11 29 35 15  5  
+Non-Hispanic AGE GROUP (years)  12.0  5  11 31 35 13  5  
+18 - 44  12.0  7  12 29 32 14  6  
+45 - 54  12.0  6  12 30 32 15  5  
+55 - 64  12.0  5  12 30 35 13  6  
+65 - 74  12.0  5  12 30 36 14  4  
+75+ CAUSE of ESRD  12.1  4  10 32 36 13  5  
+Diabetes Mellitus  12.0  5  12 31 34 14  5  
+Hypertension  12.1  4  11 31 36 14  5  
+Glomerulonephritis  12.1  5  10 30 37 13  6  
+Other/Unknown DURATION OF DIALYSIS (years)  12.0  7  12 29 34 13  5  
+< 0.5  11.6  15  21 26 23 11  6  
+0.5 - 0.9  12.3  4  8 25 35 20  8  
+1.0 - 1.9  12.1  4  10 32 36 14  5  
+2.0 - 2.9  12.0  4  9 34 38 13  3  
+3.0 - 3.9  12.1  3  9 33 39 13  4  
+4.0 + MEAN spKt/V  12.1  4  12 31 36 13  5  
+= 1.2  12.1  4  11 31 36 14  5  
+< 1.2 MEAN SERUM ALBUMIN (g/dL)  11.7  12  17 28 27 12  5  
+= 3.5/3.2 BCG/BCP^  12.2  3  9 31 37 15  6  
+< 3.5/3.2 BCG/BCP^ ACCESS TYPE  11.5  14  20 30 25 9  3  
+AV Fistula  12.2  3  9 32 37 14  5  
+AV Graft**  12.1  4  10 31 37 13  5  
+Catheter  11.8  10  17 27 30 12  5  
+
+*Value suppressed because n < 11 
+**Includes grafts with and without AVF. 
+^BCG/BCP = bromcresol green/bromcresol purple laboratory methods. 
+Note:  Percentages may not add up to 100% due to rounding. 
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Note: To convert serum albumin conventional units of g/dL to SI units (g/L), multiply by 10. 
+
+
+Table 14:  Percent of all adult in-center hemodialysis patients with mean hemoglobin = 11 g/dL, by gender, race, ethnicity, age, access type, mean serum albumin, and Network, October-December 2006. 2007 ESRD CPM Project 
+PATIENTCHARACTERISTIC             NETWORK  
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18    U.S.  
+ALL 83 84 83 82 82 84 82 79 83 81 85 81 83 86 86 87 85 85 GENDER  84  
+Male 85 85 81 81 79 85 83 79 84 82 84 79 85 88 89 86 87 84  84  
+Female 81 82 84 83 86 84 80 79 82 81 85 85 80 83 84 88 84 87 RACE Black or 83  
+  African American 87 81 82 80 82 86 82 78 83 78 84 80 83 87 93 79 81 87  83  
+White 81 85 83 83 82 81 82 81 84 84 84 83 83 85 86 88 89 85 ETHNICITY  84  
+Hispanic 76 89 84 78 94 * 88 * * 79 * 91 * 86 87 81 87 84  85  
+Non-Hispanic 84 83 82 82 82 84 81 79 83 81 85 81 83 85 86 87 85 86 AGE GROUP (years)  83  
+18 - 44 75 78 81 77 86 82 78 76 81 74 75 82 75 86 87 86 86 86  81  
+45 - 54 84 78 76 71 76 84 83 74 82 76 82 80 82 88 88 83 87 82  82  
+55 - 64 88 82 84 82 85 85 82 79 84 85 80 82 88 88 82 89 81 86  84  
+65 - 74 78 90 81 85 86 86 77 79 86 83 82 79 86 83 88 81 85 83  84  
+75+ 86 86 89 86 79 85 88 88 82 84 93 84 80 82 89 92 90 90 ACCESS TYPE  86  
+AV Fistula 86 89 87 91 88 87 87 84 90 86 89 87 90 90 91 87 89 87  88  
+AV Graft** 86 85 89 82 86 86 84 83 80 88 90 78 87 91 85 91 83 88  86  
+Catheter 75 73 73 69 70 78 74 65 77 70 75 76 73 69 78 81 80 79 MEAN SERUM ALBUMIN (g/dL)  74  
+= 3.5/3.2 BCG/BCP^ 88 87 88 86 87 88 87 82 88 84 91 84 86 91 89 90 89 89  88  
+< 3.5/3.2 BCG/BCP^ 65 72 62 61 59 69 61 62 68 61 67 72 70 62 70 73 71 66  66  
+
+* Value suppressed because n < 11 **Includes grafts with and without AVF ^BCG/BCP = bromcresol green/bromcresol purple laboratory methods. 
+
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. Note: To convert serum albumin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Table 15:  Regional variation for various anemia management measures for adult in-center hemodialysis patients including the percent of patients with mean hemoglobin = 11 g/dL, mean hemoglobin (g/dL), and mean serum albumin = 4.0 (BCG)^ for these patients nationally and by Network, October-December 2006. 2007 ESRD CPM Project. 
+PatientCharacteristic                                              Network  
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18  U.S.  
+% patients with mean hemoglobin  
+= 11 g/dL 83 84 83 82 82 84 82 79 83 81 85 81 83 86 86 87 85 85 Mean hemoglobin  84  
+(g/dL) 11.9 12.0 12.0 11.9 12.0 12.1 12.1 11.9 12.0 12.0 12.0 11.9 12.0 12.1 12.2 12.1 12.1 12.1 % patients with mean serum albumin = 4.0  12.0  
+g/dL (BCG)^ 31 35 30 30 36 34 35 31 29 37 28 27 31 34 35 35 40 40 Average transferrin saturation  34  
+(TSAT) (%) 29 29 28 27 29 28 29 27 27 27 28 27 29 29 28 26 28 29 % patients with  28  
+mean TSAT = 20% 80 79 76 78 82 80 82 79 78 78 79 73 81 82 77 74 78 79 Average serum ferritin concentration  79  
+(ng/mL) 572 570 596 586 579 586 596 565 586 586 566 556 623 600 544 504 571 631 % patients with mean serum ferritin concentration  583  
+= 100 ng/mL 95 91 95 94 94 93 93 95 95 96 96 96 96 97 93 93 94 96 % patients with mean serum ferritin concentration  95  
+> 800 ng/mL 20 22 24 22 25 23 26 19 24 20 21 20 27 24 18 14 21 29 % of all patients with IV iron  23  
+prescribed 68 65 71 71 63 69 69 72 72 75 72 72 73 72 65 72 64 68 % of patients  70  
+prescribed ESA^^ 94 94 95 95 93 94 92 94 92 95 89 92 93 95 90 95 95 95 % of patients with mean hemoglobin < 11 g/dL with  94  
+ESA prescribed 95 91 94 92 94 89 91 93 90 93 91 88 93 96 95 92 94 92  94  
+
+^ For subset of patients with serum albumin tested by the bromcresol green (BCG) laboratory method 
+^^ ESA – Erythropoetin Stimulating Agents 
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Note: To convert serum albumin conventional units of g/dL to SI units (g/L), multiply by 10. 
+
+G.  SERUM ALBUMIN TABLE 
+
+Serum Albumin Findings for October-December 2006 
+TABLE 16:  Percent of adult in-center hemodialysis patients with mean serum albumin values = 4.0/3.7 g/dL (BCG/BCP)* and = 3.5/3.2 g/dL (BCG/BCP) in the U.S., by patient characteristics, October-December 2006. 2007 ESRD CPM Project.
+                                                        Percent of Patients with Patient  Mean Serum Albumin Characteristics = 4.0/3.7 g/dL = 3.5/3.2 g/dL 
+TOTAL 34 81 
+GENDER Male 39 83 Female 28 78 
+RACE American Indian/Alaska Native 21 74 Asian/Pacific Islander 41 86 Black or African American 37 83 White 31 79 Other/Unknown 44 83 
+ETHNICITY Hispanic 38 83 Non-Hispanic 33 80 
+AGE GROUP (years) 18 - 44 49 86 45 - 54 41 86 55 - 64 33 81 65 - 74 29 79 75+ 23 76 
+CAUSE of ESRD Diabetes Mellitus 27 78 Hypertension 39 85 Glomerulonephritis 46 88 Other/Unknown 34 78 
+DURATION OF DIALYSIS (years) 
+
+< 0.5 17 60 
+0.5
+ - 0.9 27 78 
+
+1.0
+ - 1.9 33 82 
+
+2.0
+ - 2.9 38 85 
+
+3.0
+ - 3.9 38 85 
+
+4.0
+ + 40 86 
+
+
+MEAN spKt/V = 1.2 35 82 
+< 1.2 29 72 
+MEAN HGB (g/dL) = 11 3785 < 11 18 61 
+ACCESS TYPE AV Fistula 41 87 AV Graft** 36 85 Catheter 20 67 
+*BCG/BCP = bromcresol green/bromcresol purple laboratory methods 
+**Includes grafts with and without AVF 
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Note: To convert serum albumin conventional units of g/dL to SI units (g/L), multiply by 10. 
+
+VI.  ADULT PERITONEAL DIALYSIS PATIENTS 
+This section describes the findings for adult peritoneal dialysis patients for selected CPMs and other quality indicators related to adequacy of peritoneal dialysis, anemia management, and serum albumin. 
+A national random sample of adult  (= 18 years) peritoneal di­alysis patients who were alive on December 31, 2006, was se­lected (sample size=1,474). 1,433 patients (97.2%) were in­cluded in the sample for analysis. 
+A.  ADEQUACY OF PERITONEAL DIALYSIS CPMs 
+CPM Findings for October 2006–March 2007 
+Data to assess three peritoneal dialysis adequacy CPMs were collected in 2007. The time period from which these data were abstracted was October 2006–March 2007. Tidal peritoneal di­alysis patients (n=52) were excluded from the peritoneal dialy­sis adequacy CPM calculations. 
+Peritoneal Dialysis Adequacy CPM I — The patient’s total solute clearance for urea and creatinine is measured routinely (defined for this report as at least once during the six-month study period). 
+FINDING: 84% of adult peritoneal dialysis patients had both a weekly Kt/Vurea and a weekly creatinine clearance measurement reported at least once during the six-month study period (FIG­URE 2). 
+Peritoneal Dialysis Adequacy CPM II — The patient’s total solute clearance for urea (weekly Kt/Vurea) and creatinine (weekly creatinine clearance) is calculated in a standard way. (See Peri­toneal Dialysis Adequacy CPM II in Appendix 1). 
+FINDING:  49% of adult peritoneal dialysis patients who had reported adequacy measurements documented in their charts at least once during the six-month study period had these reported measurements (Kt/Vurea and creatinine clearance) calculated in a standard way as described in Peritoneal Dialysis Adequacy CPM II in Appendix 1 (FIGURE 2). 
+Peritoneal Dialysis Adequacy CPM III — For patients on CAPD, the delivered peritoneal dialysis dose is a weekly Kt/Vurea of at least 2.0 and a weekly creatinine clearance of at least 60 L/week/1.73 m2 OR there was evidence the dialysis prescription was changed if the adequacy measurements were below these thresholds during the six-month study period. 
+For CCPD patients (cycler patients with a daytime dwell), the delivered peritoneal dialysis dose is a weekly Kt/Vurea of at least 
+2.1 and a weekly creatinine clearance of at least 63 L/week/ 
+1.73 m2 OR there was evidence the dialysis prescription was changed if the adequacy measurements were below these thresholds during the six-month study period. 
+For NIPD patients (cycler patients without a daytime dwell), the delivered peritoneal dialysis dose is a weekly Kt/Vurea of at least 
+2.2 and a weekly creatinine clearance of at least 66 L/week/ 
+1.73 m2 OR there was evidence the dialysis prescription was changed if the adequacy measurements were below these thresholds during the six-month study period. 
+For the October 2006-March 2007 Study period, CCPD patients and NIPD patients were not distinguishable. For Cycler patients, the delivered peritoneal dialysis dose is a weekly Kt/Vurea of at least 2.1 and a weekly creatinine clearance of at least 63 L/week/1.73m2. 
+FINDING:  75% of CAPD patients had a mean weekly Kt/Vurea = 2.0 and a mean weekly creatinine clearance = 60 L/week/ 
+1.73 m2 OR there was evidence the dialysis prescription was changed if the adequacy measurements were below these thresholds during the six-month study period (FIGURE 3). 
+ALTERNATE FINDING: 85% (97/114) of CAPD patients with a Peritoneal Equilibration Test (PET) result within 12 months of or during the study pe­riod met the revised 2000 NKF-K/DOQI thresholds for peritoneal dialysis adequacy (3) (a mean weekly Kt/Vurea = 2.0 and for high and high-average transporters, a weekly creatinine clearance = 60 L/week/1.73m2, for low and low-average transporters, a weekly creatinine clearance = 50 L/week/ 1.73m2, OR there was evidence the dialysis prescription was changed if the adequacy measurements were below these thresholds during the six-month study period). 
+FINDING: 64% of cycler patients had a mean weekly Kt/Vurea = 2.1 and a mean weekly creatinine clearance = 63 L/week/ 
+1.73 m2 OR there was evidence the dialysis prescription was changed if the adequacy measurements were below these thresholds during the six-month study period (FIGURE 3). 
+TABLE 17:  Percent of adult CAPD patients with mean ± SD weekly adequacy values meeting 2000 NKF-K/DOQI guidelines and median adequacy values,by transporter type (4 hr. D/P Cr Ratio)*, October 2006–March 2007. 2007 ESRD CPM Project.
+
+Oct 2000-Mar 2001  Oct 2002-Mar 2003  Oct 2004-Mar 2005  Oct 2005-Mar 2006  Oct 2006-Mar 2007 
+Adequacy MeasureWeekly Kt/Vurea% meeting 1997 NKF-K/DOQI^% meeting 2006 KDOQI^^mean ± SD medianWeekly Creatinine Clearance(L/week/1.73m2 )% meeting 1997 NKF-K/DOQImean ± SD median  High-Avg/High75%2.35 ± 0.572.2676%82.6 ± 29.778.6  Low/Low-Avg71%2.35 ± 0.582.3279%73.0 ± 27.568.5  High-Avg/High74%2.36 ± 0.592.2666%80.1 ± 30.072.8  Low/Low-Avg81%2.37 ± 0.482.4079%72.9 ± 26.669.6  High-Avg/High68%2.41 ± 0.702.3673%81.0 ± 27.676.4  Low/Low-Avg62%2.28 ± 0.772.1061%75.4 ± 32.267.8  High-Avg/High62%2.29 ± 0.552.2770%81.1 ± 30.969.1  Low/Low-Avg71%2.26 ± 0.602.2572%77.1 ± 26.978.4  High-Avg/High64%88%2.29 ± 0.672.1769%77.4 ± 28.467.2  Low/Low-Avg69%90%2.38 ± 0.702.3180%79.8 ± 31.273.0  
+
+Transporter type (4 hr. D/P Cr Ratio):*   Low = 0.34-0.49; Low-Average = 0.50-0.64; High-Average = 0.65-0.81; High = 0.82-1.03^ For CAPD patients, the delivered PD dose was a weekly Kt/Vurea = 2.0 and a weekly creatinine clearance = 60 L/week/1.73m2 for high-average and high
+   transporters, and = 50 L/week/1.73m2 for low and low-average transporters.^^ Using the 2006 KDOQI guidelines and recommendations (29):  For peritoneal dialysis patients with and without renal kidney function: weekly KtVurea = 1.7 
+TABLE 18:  Percent of adult cycler patients with mean ± SD weekly adequacy values meeting 2000 NKF-K/DOQI guidelines and median adequacy values, October 2006 ­March 2007. 2007 ESRD CPM Project.
+
+Oct 2000-Mar 2001  Oct 2002-Mar 2003  Oct 2004-Mar 2005  Oct 2005-Mar 2006  Oct 2006-Mar 2007 
+Adequacy MeasureWeekly Kt/Vurea% meeting 1997 NKF-K/DOQI^% meeting 2006 KDOQI^^^mean ± SD medianWeekly Creatinine Clearance(L/week/1.73m2 )% meeting 1997 NKF-K/DOQImean ± SD median  w/daytimedwell64%2.33 ± 0.552.2455%71.9 ± 25.665.7  no daytimedwell53%2.33 ± 0.732.2261%77.6 ± 31.075.3  w/daytimedwell64%2.31 ± 0.542.2549%66.5 ± 22.262.3  no daytimedwell58%2.53 ± 0.802.3856%74.3 ± 33.070.2  w/daytimedwell57%2.23 ± 0.612.1949%66.8 ± 23.262.4  no daytimedwell60%2.37 ± 0.772.3450%72.4 ± 29.966.4  Cycler^^57%2.26 ± 0.622.1748%66.7 ± 24.561.9  Cycler^^55%83%2.22 ± 0.642.1747%68.4 ± 27.860.7  
+
+^For cycler patients with daytime dwell (CCPD patients): Kt/Vurea = 2.1; creatinine clearance = 63 L/week/1.73m2;
+  For nighttime cycler patients (no daytime dwell) (NIPD patients): Kt/Vurea = 2.2; creatinine clearance = 66 L/week/1.73m2^^ For Oct 2005-Mar 2006 and Oct 2006-Mar 2007 CCPD and NIPD modalities were not distinguishable; For Cycler patients: Kt/Vurea = 2.1; creatinine clearance = 63 L week/1.73m2 ^^^ Using the 2006 KDOQI guidelines and recommendations (29):  For peritoneal dialysis patients with and without renal kidney function: weekly KtVurea = 1.7 
+
+2007 ESRD CLINICAL PERFORMANCE MEASURES PROJECT ADULT PERITONEAL DIALYSIS  PATIENTS (Adequacy) 
+B.  ADEQUACY OF PERITONEAL DIALYSIS TABLES Peritoneal Dialysis Adequacy Findings for October 2006-March 2007 
+C.  ANEMIA MANAGEMENT CPMs 
+CPM Findings for October 2006–March 2007 
+Data to assess three anemia management CPMs were collected in 2007. The time period from which these data were abstracted was October 2006–March 2007. 
+Anemia Management CPM I — The target hemoglobin is 11– 12 g/dL (110-120 g/L). Patients with a mean hemoglobin > 12 g/dL (120 g/L) and not prescribed epoetin were excluded from analysis for this CPM. 
+FINDING:  For the six-month study period, 37% of the perito­neal dialysis patients who met the inclusion criteria (n=1,266) had a mean hemoglobin 11–12 g/dL (110-120 g/L) during October 2006—March 2007. 
+Anemia Management CPM IIa  — For all anemic patients (he­moglobin < 11 g/dL [110 g/L]) or patients prescribed epoetin, the percent transferrin saturation and serum ferritin concentra­tion are assessed (measured) at least two times during the six-month study period. 
+FINDING:  74% of the peritoneal dialysis patients who met the inclusion criteria (n=1,246) had at least two documented (mea­sured) transferrin saturation values and at least two documented (measured) serum ferritin concentration values during October 2006–March 2007. 
+Anemia Management CPM IIb — For all anemic patients (he­moglobin < 11 g/dL [110 g/L]) or patients prescribed epoetin, at least one serum ferritin concentration = 100 ng/mL and at least one transferrin saturation = 20% were documented during the six-month study period. 
+FINDING:  85% of the adult peritoneal dialysis patients who met the inclusion criteria (n=1,246) had at least one documented transferrin saturation = 20% and at least one documented se­rum ferritin concentration = 100 ng/mL during October 2006– March 2007. 
+Anemia Management CPM III — All anemic patients (hemo­globin < 11 g/dL [110 g/L]) or patients prescribed epoetin, with at least one transferrin saturation  < 20% or at least one serum ferritin concentration < 100 ng/mL during the study period are prescribed intravenous iron; UNLESS the mean transferrin satu­ration was = 50% or the mean serum ferritin concentration was = 800 ng/ml; UNLESS the patient was in the first three months of dialysis and was prescribed a trial dose of oral iron. 
+FINDING: 41% of the peritoneal dialysis patients who met the inclusion criteria (n=493) were prescribed intravenous iron at least once during October 2006–March 2007. 
+D.  ANEMIA MANAGEMENT TABLES 
+Anemia Management Findings for October 2006– March 2007 
+TABLE 19:  Mean hemoglobin values (g/dL) for adult peritoneal dialysis patients, by patient characteristics, October 2006-March 2007. 2007 ESRD CPM Project. 
+Patient  Characteristics  Mean Hgb (g/dL)  <10  Percent of Patients with hemoglobin values10-11-12-13­10.9 11.9 12.9 13.9 14+  
+TOTAL GENDER Male Female RACE American Indian/  Alaska Native Asian/Pacific Islander 12.0 Black or  African American White Other/Unknown ETHNICITY Hispanic Non-Hispanic AGE GROUP (years) 18 - 44 45 - 54 55 - 64 65 - 74 75+ CAUSE of ESRD Diabetes Mellitus Hypertension Glomerulonephritis Other/Unknown DURATION OF DIALYSIS (years) < 0.5 0.5 - 0.9 1.0 - 1.9 2.0 - 2.9 3.0 - 3.9 4.0 + MEAN SERUM ALBUMIN (g/dL) = 3.5/3.2 BCG/BCP^ < 3.5/3.2 BCG/BCP^ MEAN WEEKLY CREATININE CLEARANCE = 60 L/week/1.73m2 < 60 L/week/1.73m2  12.0 12.1 11.9 11.8 11.8 12.1 * 12.1 12.0 11.7 12.0 12.2 12.0 12.3 12.0 12.0 12.0 12.1 12.3 12.3 12.1 11.9 11.9 11.7 12.2 11.8 12.3 12.0  6 5 7 * * 10 4 * * 6 11 6 3 * * 4 7 5 7 * * 4 * * 11 4 8 * 6  12 31 32 13 6 11 29 34 15 7 14 33 30 12 4 * * * * * 13 33 33 15 * 13 35 24 13 4 12 29 35 13 7 * * * * * 10 28 37 14 6 13 31 31 13 6 15 27 30 10 6 15 28 31 12 7 10 34 30 17 5 11 34 38 13 * 9 33 33 14 9 13 32 34 13 3 11 27 33 14 7 15 33 28 14 6 10 30 32 13 8 9 25 38 18 8 11 25 34 18 9 10 33 35 13 6 15 36 29 11 * 16 35 29 10 * 13 31 28 11 5 10 30 35 14 7 16 32 27 12 5 9 27 39 15 8 12 33 32 10 7  
+
+Note: Percentages may not add up to 100% due to rounding. 
+^BCG/BCP = bromcresol green/bromcresol purple laboratory methods. 
+*Value suppressed because n < 11. 
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Note: To convert serum albumin conventional units of g/dL to SI units (g/L), multiply by 10. 
+
+
+E. SERUM ALBUMIN TABLE 
+
+Peritoneal Dialysis Serum Albumin Findings for October 2006-March 2007 
+TABLE 20:  Percent of adult peritoneal dialysis patients with mean serum albumin values = 4.0/3.7 g/dL (BCG/BCP)^ and = 3.5/3.2 g/dL (BCG/BCP) in the U.S., by patient characteristics, October 2006-March 2007. 2007 ESRD CPM Project.
+                                                             Percent of Patients with Patient  Mean Serum Albumin Characteristics = 4.0/3.7 g/dL = 3.5/3.2 g/dL 
+TOTAL 19 63 
+GENDER Male 22 64 Female 16 61 
+RACE American Indian/Alaska Native * * Asian/Pacific Islander 32 69 Black or African American 20 62 White 17 62 Other/Unknown * * 
+ETHNICITY Hispanic 21 65 Non-Hispanic 19 62 
+AGE GROUP (years) 18 - 44 31 73 45 - 54 24 70 55 - 64 18 62 65 - 74 8 49 75+ *46 
+CAUSE of ESRD Diabetes Mellitus 9 51 Hypertension 26 68 Glomerulonephritis 28 76 Other/Unknown 21 64 
+DURATION OF DIALYSIS (years) 
+
+< 0.5 21 62 
+0.5
+ - 0.9 22 67 
+
+1.0
+ - 1.9 21 62 
+
+2.0
+ - 2.9 15 63 
+
+3.0
+ - 3.9 22 63 
+
+4.0
+ + 17 61 
+
+
+MEAN HGB (g/dL) = 11 2066 < 11 14 49 
+MEAN WEEKLY CREATININE CLEARANCE = 60 L/week/1.73m2 23 67 < 60 L/week/1.73m2 22 65 
+MODALITY CAPD 20 64 Cycler 20 65 
+^ BCG/BCP = bromcresol green/bromcresol purple laboratory methods. 
+* Value suppressed because n < 11. 
+Note: To convert serum albumin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. 
+
+VII. PEDIATRIC IN-CENTER HEMODIALYSIS PATIENTS 
+All patients aged < 18 years identified as receiving in-center hemodialysis on December 31, 2006 were included in this study (n=720). 681 patients (95%) of this group met the case defini­tion and were included in the sample for analysis. (See footnote to Table 5 on page 11 for case definition). 
+This section describes the findings for pediatric (aged < 18 years) in-center hemodialysis patients for core indicators related to urea clearance, vascular access, anemia management and serum albumin. 
+A. CLEARANCE TABLE 
+Findings for October-December 2006 (for patients < 18 years) 
+TABLE 21:  Mean delivered calculated, single session spKt/V for all pediatric (aged < 18 years) in-center hemodialysis patients and percent of patients with mean single session spKt/V = 1.2, by patient characteristics, October-December 2006. 2007 ESRD CPM Project. 
+Patient Characteristics Mean spKt/V % spKt/V = 1.2 
+TOTAL 1.62 91 
+GENDER Male 1.57 89 Female 1.69 94 
+RACE American Indian/Alaska Native 1.73 87 Asian/Pacific Islander 1.66 88 Black or African American 1.59 89 White 1.64 92 Other/Unknown * * 
+ETHNICITY Hispanic 1.62 92 Non-Hispanic 1.62 90 
+AGE GROUP (years) 0 - 4 1.69 92 5 - 9 1.76 95 10 - 14 1.67 96 15 to <18 1.56 87 
+DIALYSIS SESSION LENGTH (minutes) < 180 1.55 87 180 - 209 1.57 90 210 - 239 1.66 94 240+ 1.72 94 
+DURATION OF DIALYSIS (years) 
+< 0.5 1.47 74 
+0.5
+ - 0.9 1.58 92 
+
+1.0
+ - 1.9 1.63 95 
+
+2.0
+ - 2.9 1.67 96 
+
+3.0
+ - 3.9 1.74 95 
+
+4.0
+ + 1.69 95 QUINTILE POST DIALYSIS BODY WEIGHT (kg) 
+
+
+4.7 - 29.2 1.73 95 
+29.3 - 38.9 1.78 100 
+39.0 - 48.8 1.66 95 
+48.9 - 61.7 1.57 93 
+61.8 - 141.9 1.41 73 
+ACCESS TYPE AV Fistula 1.62 94 AV Graft** 1.73 96 Catheter 1.61 89 
+MEAN HGB (g/dL) = 11 1.63 93 
+< 11 1.60 86 
+MEAN SERUM ALBUMIN (g/dL) = 3.5/3.2 BCG/BCP^ 1.62 93 < 3.5/3.2 BCG/BCP^ 1.65 83 
+*Value suppressed because n < 11. 
+**Includes grafts with and without AVF. 
+^BCG/BCP = bromcresol green/bromcresol purple laboratory methods. 
+
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. Note: To convert serum albumin conventional units of g/dL to SI units (g/L), multiply by 
+
+B. VASCULAR ACCESS TABLE 
+Findings for October-December 2006 (for patients < 18 years) 
+TABLE 22: Vascular access type for all pediatric (aged < 18 years) in-center hemodialysis patients on their last hemodialysis session during October-December 2006, by selected patient characteristics. 2007 ESRD CPM Project. 
+Patient Characteristics          Percent of Patients with                                       AV Fistula  AV Graft**  Catheter 
+GENDER 
+Male 339 58 
+Female 29 7 64 
+
+RACE 
+American Indian/Alaska Native * * * 
+Asian/Pacific Islander * * * 
+Black or African American 32 12 56 
+White 30 6 64 
+Other/Unknown * * * 
+
+ETHNICITY 
+Hispanic 32 * 64 
+Non-Hispanic 31 10 59 
+
+AGE GROUP (years) 
+< 12 13* 84 
+12 to <18 37 10 53 
+
+DURATION OF DIALYSIS (years) 
+
+<
+ 0.5 12* 86 
+
+0.5
+ - 0.9 31 * 67 
+
+1.0
+ - 1.9 43 8 49 
+
+2.0
+ - 2.9 31 * 61 
+
+3.0
+ - 3.9 28 * 61 
+
+4.0
+ + 38 15 47 
+
+
+NOTE:  Percentages may not add up to 100% due to rounding. 
+*Value suppressed because n < 11. 
+**Includes grafts with and without AVF. 
+
+C.  ANEMIA MANAGEMENT TABLE 
+Findings for October-December 2006 (for patients < 18 years) 
+TABLE 23:  Mean hemoglobin values (g/dL) and distribution of hemoglobin values for all pediatric (aged < 18 years) in-center hemodialysis patients, by patient characteristics, October-December 2006. 2007 ESRD CPM Project. 
+
+TOTAL 31 8 60 
+
+Patient  Characteristics  Mean Hgb (g/dL)  Percent of Patients with hemoglobin values9-10-11-12-13­<9 9.9 10.9 11.9 12.9 13.9 14+  
+ALL GENDER Male Female RACE American Indian/  Alaska Native Asian/Pacific Islander Black or African  American White Other/Unknown ETHNICITY Hispanic Non-Hispanic AGE GROUP (years) 0 - 4 5 - 9 10 - 14 15 to <18 DURATION OF DIALYSIS (years) < 0.5 0.5 - 0.9 1.0 - 1.9 2.0 - 2.9 3.0 - 3.9 4.0 + ACCESS TYPE AV Fistula AV Graft** Catheter MEAN spKt/V = 1.2 < 1.2 MEAN SERUM ALBUMIN (g/dL) = 3.5/3.2 BCG/BCP^ < 3.5/3.2 BCG/BCP^  11.5 11.6 11.4 11.8 12.3 11.3 11.6 * 11.6 11.5 10.9 10.9 11.5 11.7 11.0 12.0 11.7 11.4 11.3 11.6 12.0 11.8 11.2 11.6 11.0 11.7 10.8  8 9 15 26 25 13 4 8 7 15 26 26 13 4 9 12 14 27 23 13 * * * * * * * * * * * * * * * 11 11 17 24 21 13 * 7 8 14 28 27 12 3 * * * * * * * 7 9 14 28 28 12 * 9 9 15 25 24 14 4 * * * * * * * 17 * * 29 * * * 8 10 17 26 26 11 * 6 7 13 27 27 16 5 10 18 22 22 14 13 * * * 10 23 31 19 * * * 12 24 29 15 * * * 18 31 23 * * * * * 33 * * * 6 10 13 29 28 11 * * * 9 28 38 13 6 * * * 29 23 21 * 11 13 18 25 18 12 3 7 9 14 28 26 13 3 * * 24 * * * * 6 8 15 27 27 14 4 20 17 15 22 15 9 *  
+
+* Values suppressed because n < 11. 
+**Includes grafts with and without AVF. 
+^ BCG/BCP = bromcresol green/bromcresol purple laboratory methods. 
+Note:   Percentages may not add up to 100% due to rounding. 
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply 
+by 10. 
+Note: To convert serum albumin conventional units of g/dL to SI units (g/L), 
+multiply by 10. 
+
+
+D.  SERUM ALBUMIN TABLE 
+
+Findings for October-December 2006 (for patients < 18 years) 
+TABLE 24:  Percent of all pediatric (aged < 18 years) in-center hemodialysis patients with mean serum albumin values = 4.0/3.7 g/dL (BCG/BCP)^, and = 3.5/3.2 g/dL (BCG/BCP), by patient characteristics, October-December 2006. 2007 ESRD CPM Project.
+Patient  Characteristics                                                               Percent of Patients with Mean Serum Albumin = 4.0/3.7 g/dL = 3.5/3.2 g/dL  
+TOTAL  49  82  
+GENDER Male Female  54 43  84 78  
+RACE American Indian/Alaska Native Asian/Pacific Islander Black or African American White Other/Unknown  * * 47 50 *  82 72 81 83 *  
+ETHNICITY Hispanic Non-Hispanic  55 46  88 79  
+AGE GROUP (years) 0 - 4 5 - 9 10 - 14 15 to <18  40 45 42 55  81 80 75 86  
+DURATION OF DIALYSIS (years) < 0.5 0.5 - 0.9 1.0 - 1.9 2.0 - 2.9 3.0 - 3.9 4.0 +  39 47 51 56 46 53  73 83 82 86 80 85  
+ACCESS TYPE AV Fistula AV Graft** Catheter  60 50 43  90 86 77  
+MEAN spKt/V = 1.2 < 1.2  50 36  83 64  
+MEAN HGB(g/dL) = 11 < 11  56 33  87 71  
+
+^BCG/BCP = bromcresol green/bromcresol purple laboratory methods. 
+*Values suppressed because n < 11. 
+**Includes grafts with and without AVF. 
+Note:  Percentages may not add up to 100% due to rounding. 
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Note: To convert serum albumin conventional units of g/dL to SI units (g/L), multiply by 10. 
+
+VIII. PEDIATRIC PERITONEAL DIALYSIS PATIENTS 
+This is the third year data were collected for pediatric (aged < 18 years) peritoneal dialysis patients. All patients aged < 18 years identified as receiving peritoneal dialysis on December 31, 2006 were included in this study (n = 759). 740 patients (97%) of this group met the case definition and were included in the sample for analysis. (See footnote to Table 6 on pg 11 for case definition). 
+This section describes the national findings for pediatric (aged < 18 years) peritoneal dialysis patients for core indicators re­lated to peritoneal dialysis clearance, anemia management and serum albumin. 
+A.  CLEARANCE TABLE 
+Findings for October 2006 – March 2007 (for patients < 18 years) 
+TABLE 25:  Description of peritoneal dialysis clearance for pedi­atric (aged < 18 years) peritoneal dialysis patients, by modality, October 2006 – March 2007. 2007 ESRD CPM Project.
+ Weekly Kt/Vurea  CAPD         Patients^  = 2.0  CyclerPatients^^  = 2.1  AllPatients^^^ = 1.8  
+% meeting target  69%  73%  87% 
+ Mean ± SD Median  2.20 ± 0.74 2.19  2.52 ± 0.74 2.45  2.51 ± 0.742.44  
+Weekly creatinine  clearance  (L/week/1.73m2)  CAPD Patients  = 60  Cycler Patients = 63  
+% meeting target  *  25% 
+ Mean ± SD Median  55.3 ± 29.0 50.8  55.3 ± 25.248.8  
+
+*Value suppressed because n < 11. ^For CAPD patients, the delivered PD dose target has been a weekly Kt/V= 2.0 and a weekly creatinine clearance = 60 L/week/1.73m2 urea ^^For cycler patients, the target has been a weekly Kt/V= 2.1 and a weekly  creatinine clearance = 63 L/week/1.73m2 urea ^^^Using the 2006 KDOQI guidelines and recommendations (29):  For pediatric peritoneal dialysis patients with and without renal kidney function:  weekly KtV= 1.8. 
+urea 
+B.  ANEMIA MANAGEMENT TABLE 
+Findings for October 2006- March 2007 (for patients < 18 years) 
+TABLE 26: Mean hemoglobin values (g/dL) and distribution of mean hemoglobin categories for pediatric (aged < 18 years) peritoneal dialysis patients, by patient characteristics, October 2006 – March 2007. 2007 ESRD CPM Project. 
+Patient  Characteristics  Mean Hgb (g/dL)  Percent of Patients with hemoglobin values9-10-11-12-13­<9 9.9 10.9 11.9 12.9 13.9 14+  
+ALL GENDER Male Female RACE American Indian/  Alaska Native Asian/Pacific Islander Black or African  American White Other/Unknown ETHNICITY Hispanic Non-Hispanic AGE GROUP (years) 0 - 4 5 - 9 10 - 14 15 to <18 CAUSE OF ESRD Congenital/Urologic Other Causes Combined DURATION OF DIALYSIS (years) < 0.5 0.5 - 0.9 1.0 - 1.9 2.0 - 2.9 3.0 - 3.9 4.0 + MEAN WEEKLY Kt/Vurea = 2.0 < 2.0 MEAN SERUM ALBUMIN (g/dL) = 3.5/3.2 BCG/BCP^ < 3.5/3.2 BCG/BCP^  11.6 11.6 11.7 11.4 11.6 11.4 11.7 * 11.8 11.5 11.5 11.3 11.8 11.8 11.7 11.6 11.8 11.8 11.6 11.5 11.2 11.4 11.7 11.6 11.8 11.3  4 8 18 31 24 11 4 4 9 17 34 24 9 4 4 7 19 27 25 13 5 * * * * * * * * * * * * * * 7 8 21 30 23 10 * 3 8 17 31 25 11 6 * * * * * * * * 5 20 27 28 12 6 5 9 17 33 22 10 4 * 9 22 30 20 10 * * 12 16 33 24 * * * 6 16 31 26 12 5 * 6 17 29 26 13 6 * 6 17 31 28 10 * 4 8 18 31 22 11 5 * 7 14 29 27 13 * * 8 21 23 24 14 8 * * 18 38 23 8 * * * * 37 27 * * * * 26 29 29 * * * 9 22 29 19 11 * 3 6 18 32 28 10 4 * 12 18 29 21 11 * 2 6 16 31 27 12 5 7 10 20 32 20 8 *  
+
+*Value suppressed because n < 11 
+^ BCG/BCP = bromcresol green/bromcresol purple laboratory methods 
+Note: Percentages may not add up to 100% due to rounding. 
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Note: To convert serum albumin conventional units of g/dL to SI units (g/L), multiply by 10. 
+
+
+C.  SERUM ALBUMIN TABLE 
+
+Findings for October 2006 -  March 2007 (for patients < 18 years) 
+TABLE 27:  Percent of pediatric (aged < 18 years) peritoneal dialysis patients with mean serum albumin values = 4.0/3.7 g/dL (BCG/BCP)^ and = 3.5/3.2 g/dL (BCG/BCP) in the U.S., by patient characteristics, October 2006 – March 2007. 2007 ESRD CPM Project. 
+Patient  Percent of Patients with Mean Serum Albumin Characteristics = 4.0/3.7 g/dL = 3.5/3.2 g/dL 
+TOTAL 27 64 
+GENDER 
+Male 29 65 
+Female 25 63 
+
+RACE 
+American Indian/Alaska Native * * 
+Asian/Pacific Islander * * 
+Black or African American 23 58 
+White 29 67 
+Other/Uknown * * 
+
+ETHNICITY 
+Hispanic 36 73 
+Non-Hispanic 23 60 
+
+AGE GROUP (years) 
+0 - 4 20 51 
+5 - 9 20 59 
+10 - 14 29 69 
+15 to <18 37 74 
+
+CAUSE of ESRD 
+Congenital/Urologic 28 64 
+Other Causes Combined 27 64 
+
+DURATION OF DIALYSIS (years) 
+
+
+< 0.5 26 60 
+0.5
+ - 0.9 34 68 
+
+1.0
+ - 1.9 30 63 
+
+2.0
+ - 2.9 24 63 
+
+3.0
+ - 3.9 29 69 
+
+4.0
+ + 20 67 
+
+
+MEAN HGB (g/dL) = 11 3168 < 11 19 55 
+MEAN WEEKLY Kt/Vurea = 2.0 28 65 
+< 2.0 33 71 
+MODALITY CAPD * 56 Cycler 29 67 
+^ BCG/BCP = bromcresol green/bromcresol purple laboratory methods 
+* Value suppressed because n < 11. 
+Note: To convert serum albumin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. 
+
+IX.  References 
+1. 	
+Renal Physicians Association.  Clinical practice guideline on adequacy of hemodialysis:  Clinical practice guideline, number 1. December 1993 (pamphlet) 
+
+2. 	
+National Kidney Foundation.  K/DOQI Clinical Practice Guidelines for Hemodialysis Adequacy, 2000. Am J Kidney Dis 37:S7-S64, 2001 (suppl 1) 
+
+3. 	
+National Kidney Foundation.  K/DOQI Clinical Practice Guidelines for Peritoneal Dialysis Adequacy, 2000. Am J Kidney Dis 37:S65-S136, 2001 (suppl 1) 
+
+4. 	
+National Kidney Foundation.  K/DOQI Clinical Practice Guidelines for Vascular Access, 2000. Am J Kidney Dis 37:S137-S181, 2001 (suppl 1) 
+
+5. 	
+National Kidney Foundation. K/DOQI Clinical Practice Guidelines for Anemia of Chronic Kidney Disease , 2000. Am J Kidney Dis 37:S182-S238, 2001 (suppl 1) 
+
+6. 	
+Owen WF, Lew NL, Liu Y, Lowrie EG, Lazarus JM: The urea reduction ratio and serum albumin concentration as predictors of mortality in patients undergoing hemodialy­sis. N Engl J Med 329:1001-1006, 1993 
+
+7. 	
+Goldwasser P, Mittman N, Antignani A, Burrell D, Michel MA, Collier J, et al:  Predictors of mortality in hemodialysis patients. J Am Soc Nephrol 3:1613-1622, 1993 
+
+8. 	
+Soucie JM, McClellan WM:  Early death in dialysis patients: Risk factors and impact on incidence and mortality rates. J Am Soc Nephrol 7:2169-2175, 1996 
+
+9. 	
+Blagg CR, Liedtke RJ, Batjer JD, Racoosin B, Sawyer TK, Wick MJ, et al:  Serum albumin concentra-tion-related Health Care Financing Administration quality assurance criterion is method-dependent: revision is necessary. Am J Kidney Dis 21:138-144,1993 
+
+10. 
+National Kidney Foundation. K/DOQI Clinical Practice Guidelines for Nutrition in Chronic Renal Failure, 2000. Guideline No. 3. Am J Kidney Dis 35:S20-S21, 2000 (suppl 2) 
+
+11. 
+U.S. Renal Data System, USRDS 2007 Annual Data Re­port:  Atlas of End-Stage Renal Disease in the United States. National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases, Bethesda, MD, 2007 
+
+12. 
+2006 ESRD facility survey (CMS-2744) data, Centers for Medicare & Medicaid Services, Office of Clinical Standards and Quality (report) 
+
+13. 
+Lohr KN, Schroeder SA: A strategy for quality assurance in Medicare. N Engl J Med 322:707-712, 1990 
+
+14. 
+Gagel BJ:	  Health Care Quality Improvement Program: A New Approach.  Health Care Financ Rev 16(4):15-23, 1995 
+
+15. 
+Vladeck BC:	  From the HCFA ESRD Core Indicators Project. JAMA 273:1896, 1995 
+
+16. 
+NKF-DOQI Clinical Practice Guidelines for Hemodialysis Adequacy. Am J Kidney Dis 30:S15-S66, September 1997 (suppl 2) 
+
+
+17. 
+NKF-DOQI Clinical Practice Guidelines for Peritoneal Dialysis Adequacy.  Am J Kidney Dis 30:S67-S136, September 1997 (suppl 2) 
+
+18. 	
+NKF-DOQI Clinical Practice Guidelines for Vascular Access. Am J Kidney Dis 30:S150-S191, October 1997 (suppl 3) 
+
+19. 
+NKF-DOQI Clinical Practice Guidelines for the Treatment of Anemia of Chronic Renal Failure. Am J Kidney Dis 30:S192-S240, October 1997 (suppl 3) 
+
+20. 	
+Health Care Financing Administration. 1994 Core Indica­tors Project Initial Results.  Opportunities to Improve Care for Adult In-Center Hemodialysis Patients. Department of Health and Human Services, Health Care Financing Ad­ministration, Health Standards and Quality Bureau, Baltimore, Maryland, December 1994 
+
+21. 
+Health Care Financing Administration. 1995 Annual Report, End Stage Renal Disease Core Indicators Project.  Depart­ment of Health and Human Services, Health Care Financ­ing Administration, Health Standards and Quality Bureau, Baltimore, Maryland, December 1995 
+
+22. 
+Health Care Financing Administration.	 Highlights from the 1995 ESRD Core Indicators Project for Peritoneal Dialysis Patients. Department of Health and Human Services, Health Care Financing Administration, Health Standards and Quali­ty Bureau, Baltimore, Maryland, December 1995 
+
+23. 
+Health Care Financing Administration.	  1996 Annual Report, End Stage Renal Disease Core Indicators Project. Department of Health and Human Services, Health Care Financing Administration, Health Standards and Quality Bureau, Baltimore, Maryland, January 1997 
+
+24. 
+Health Care Financing Administration.	  1997 Annual Report, End Stage Renal Disease Core Indicators Project. Department of Health and Human Services, Health Care Financing Administration, Office of Clinical Standards and Quality, Baltimore, Maryland, December 1997 
+
+25. 
+Health Care Financing Administration.	  1998 Annual Report, End Stage Renal Disease Core Indicators Project. Department of Health and Human Services, Health Care Financing Administration, Office of Clinical Standards and Quality, Baltimore, Maryland, December 1998 
+
+26.	
+  Health Care Financing Administration. 1999 Annual Report, End Stage Renal Disease Clinical Performance Measures Project.  Department of Health and Human Services, Health Care Financing Administration, Office of Clinical Standards and Quality, Baltimore, Maryland, December 1999 
+
+27. 
+Daugirdas JT:  Second generation logarithmic estimates of single-pool variable volume Kt/V: An analysis of error. J Am Soc Nephrol 4:1205-1213, 1993 
+
+28. 
+Norusis MJ:	  SPSS for Windows Advanced Statistics Release 10.0. Chicago, IL, USA, 2001 
+
+29. 	
+National Kidney Foundation. KDOQI Clinical Practice Guide­lines and Clinical Practice Recommendations for 2006 Updates:  Hemodialysis Adequacy, Peritoneal Dialysis Adequacy and Vascular Access. Am J Kidney Dis 48:S1-S322, 2006 (suppl 1). 
+
+
+
+X.	  List of Tables and Figures 
+
+Table 	Title Page 
+1. 	
+Number of adult in-center hemodialysis patients in each Network in December 2006, sample size and response rate for the 2007 ESRD CPM Project. 8 
+
+2. 	
+Characteristics of adult in-center hemodialysis patients in the 2007 ESRD CPM Project compared to those of all in-center hemodialysis patients in the U.S. in 2005. 9 
+
+3. 	
+Number of adult peritoneal dialysis patients in each Network in December 2006, sample size and response rate for the 2007 ESRD CPM Project. 9 
+
+4. 	
+Characteristics of adult peritoneal dialysis patients in the 2007 ESRD CPM Project compared to those of all peritoneal dialysis patients in the U.S. in 2005. 10 
+
+5. 	
+Characteristics of pediatric (aged < 18 years) in-center hemodialysis patients in the 2007 ESRD CPM Project. 11 
+
+6. 	
+Characteristics of pediatric (aged < 18 years) peritoneal dialysis patients in the 2007 ESRD CPM Project. 11 
+
+7. 	
+Mean delivered calculated, single session spKt/V and percent of adult in-center hemodialysis patients with mean delivered calculated, single session spKt/V = 1.2 and = 1.3 by patient characteristics, October-December 2006. 2007 ESRD CPM Project. 23 
+
+8. 	
+Percent of adult in-center hemodialysis patients receiving dialysis with a mean delivered, single session spKt/V = 1.2, by  gender, race, ethnicity, body weight, dialysis session length, and Network, October-December 2006. 2007 ESRD CPM Project. 24 
+
+9. 	
+Vascular access type for incident and all adult in-center hemodialysis patients during the last hemodialysis session of the study period, by selected patient characteristics, October-December 2006. 2007 ESRD CPM Project. 25 
+
+10. 
+Percent of all adult in-center hemodialysis patients with an AV fistula access on their last hemodialysis session during October–December 2006, by gender, race, ethnicity, age, cause of ESRD, and Network. 2007 ESRD CPM Project. 26 
+
+11. 
+Percent of all adult in-center hemodialysis patients with a catheter access on their last hemodialysis session during October–December 2006, by gender, race, ethnicity, age, cause of ESRD, and Network. 2007 ESRD CPM Project. 27 
+
+12. 
+Reasons for catheter placement in adult in-center hemodialysis patients using catheters on their last hemodialysis session during October-December 2006 compared to previous study periods. 2007 ESRD CPM Project. 27 
+
+13. 
+Mean hemoglobin values (g/dL)  	for adult in-center hemodialysis patients in the U.S., by patient characteristics, October–December 2006. 2007 ESRD CPM Project. 28 
+
+14. 
+Percent of all adult in-center hemodialysis patients with mean hemoglobin = 11 g/dL, by gender, race, ethnicity, age, access type, mean serum albumin, and Network, October-December 2006. 2007 ESRD CPM Project. 29 
+
+15. 
+Regional variation for various anemia management measures for adult in-center hemodialysis patients including the percent of patients with mean hemoglobin = 11 g/dL, mean hemoglobin (g/dL), and mean serum albumin = 4.0 (BCG) for these patients nationally and by Network, October-December 2006. 2007 ESRD CPM Project. 30 
+
+16. 
+Percent of adult in-center hemodialysis patients with mean serum albumin values = 4.0/3.7 g/dL (BCG/BCP) and = 3.5/3.2 g/dL (BCG/BCP) in the U.S., by patient characteristics, October-December 2006. 2007 ESRD CPM Project. 31 
+
+
+2007 ESRD CLINICAL PERFORMANCE MEASURES PROJECT TABLES AND FIGURES  43  
+Table  Title  Page  
+17. Percent of adult CAPD patients with mean ± SD weekly adequacy values meeting 2000 NKF-K/DOQI guidelines and median adequacy values, by transporter type (4 hr. D/P Cr Ratio), October 2006–March 2007. 2007 ESRD CPM Project.  33  
+18. Percent of adult cycler patients with mean ± SD weekly adequacy values meeting 2000 NKF-K/DOQI guidelines and median adequacy values, October 2006–March 2007. 2007 ESRD CPM Project.  33  
+19. Mean hemoglobin values (g/dL) for adult peritoneal dialysis patients, by patient characteristics, October 2006-March 2007. 2007 ESRD CPM Project.  34  
+20. Percent of adult peritoneal dialysis patients with mean serum albumin values = 4.0/3.7 g/dL (BCG/BCP) and = 3.5/3.2 g/dL (BCG/BCP) in the U.S., by patient characteristics, October 2006-March 2007. 2007 ESRD CPM Project.  35  
+21. Mean delivered calculated, single session spKt/V for all pediatric (aged < 18 years) in-center hemodialysis patients and percent of patients with mean single session spKt/V = 1.2, by patient characteristics, October-December 2006. 2007 ESRD CPM Project.  36  
+22. Vascular access type for all pediatric (aged < 18 years) in-center hemodialysis patients on their last hemodialysis session during October-December 2006, by selected patient characteristics. 2007 ESRD CPM Project.  37  
+23. Mean hemoglobin values (g/dL) and distribution of hemoglobin values for all pediatric (aged < 18 years) in-center hemodialysis patients, by patient characteristics, October-December 2006. 2007 ESRD CPM Project.  37  
+24. Percent of all pediatric (aged < 18 years) in-center hemodialysis patients with mean serum albumin values = 4.0/3.7 g/dL (BCG/BCP), and = 3.5/3.2 g/dL (BCG/BCP), by patient characteristics, October-December 2006. 2007 ESRD CPM Project.  38  
+25. Description of peritoneal dialysis clearance for pediatric (aged < 18 years) peritoneal dialysis patients, by modality, October 2006 – March 2007. 2007 ESRD CPM Project.  39  
+26. Mean hemoglobin values (g/dL) and distribution of mean hemoglobin categories for pediatric (aged < 18 years) peritoneal dialysis patients, by patient characteristics, October 2006 – March 2007. 2007 ESRD CPM Project.  39  
+27. Percent of pediatric (aged < 18 years) peritoneal dialysis patients with mean serum albumin values = 4.0/3.7 g/dL (BCG/BCP) and = 3.5/3.2 g/dL (BCG/BCP) in the U.S., by patient characteristics, October 2006 – March 2007. 2007 ESRD CPM Project.  40  
+
+Figure Title 	Page 
+1. 	
+Vascular access type for all adult in-center hemodialysis patients on their last hemodialysis session during the study period. 2007 ESRD CPM Project. 16 
+
+2. 	
+Percent of adult peritoneal dialysis patients with total solute clearance for urea and creatinine measured at least once during the study period (PD Adequacy CPM I) and with total solute clearance calculated in a standard way (PD Adequacy CPM II), October 2006-March 2007 compared  to previous study periods. 2007 ESRD CPM Project. 16 
+
+3. 	
+Percent of adult peritoneal dialysis patients meeting 1997 NKF-DOQI guidelines for weekly Kt/Vurea and weekly creatinine clearance (PD Adequacy CPM III). 2007 ESRD CPM Project. 16 
+
+4. 	
+Percent of adult in-center hemodialysis patients with mean delivered calculated, single session single pool (sp)Kt/V = 1.2 in October-December 2006 compared to previous study periods. 2007 ESRD CPM Project. 16 
+
+5. 	
+Percent of adult in-center hemodialysis patients with mean hemoglobin = 11 g/dL, October-December 2006 compared to previous study periods. 2007 ESRD CPM Project. 17 
+
+6. 	
+Distribution of mean hemoglobin values for adult in-center hemodialysis patients, October-December 2006 compared to previous study periods. 2007 ESRD CPM Project. 17 
+
+7. 	
+Percent of adult peritoneal dialysis patients with mean hemoglobin = 11 g/dL, October 2006-March 2007 compared to previous study periods. 2007 ESRD CPM Project. 17 
+
+8. 	
+Distribution of mean hemoglobin values for adult peritoneal dialysis patients, October 2006-March 2007 compared to previous study periods. 2007 ESRD CPM Project. 17 
+
+9. 	
+Distribution of mean delivered calculated, single session spKt/V values for pediatric (aged < 18 years)
+
+ in-center hemodialysis patients, October-December 2006 compared to previous study periods. 2007 ESRD CPM Project. 18 
+
+10. 
+Vascular access type for pediatric (aged < 18 years) in-center hemodialysis patients on their last hemodialysis session during the study period, October-December 2006 compared to previous study periods. 2007 ESRD CPM Project. 18 
+
+11. 
+Distribution of mean hemoglobin values for pediatric (aged  	< 18 years) in-center hemodialysis patients, October-December 2006 compared to previous study periods. 2007 ESRD CPM Project. 18 
+
+
+Appendix 1.  Centers for Medicare & Medicaid Services (CMS) Offices and ESRD Networks 
+ESRD Network Organization No. 3 ESRD Network Organization No. 13 
+CMS Offices 
+
+TransAtlantic Renal Council 4200 Perimeter Center Drive, Suite 102 
+Centers for Medicare & Medicaid Services Office of Clinical Standards & Quality Quality Measurement and Health Assessment 
+Group Mailstop S3-02-01 7500 Security Boulevard Baltimore, MD 21244 
+(410) 786-6940 
+Centers for Medicare & Medicaid Services ­
+Region I Division of Clinical Standards and Quality, Clinical Standards Branch Room 2275 JFK Federal Building Boston, MA 02203-0003 
+(617) 565-3136 
+Centers for Medicare & Medicaid Services ­
+Region VI Division of Clinical Standards and Quality Room 714 1301 Young Street Dallas, TX 75202 
+(214) 767-4443 
+Centers for Medicare & Medicaid Services ­
+Region VII Division of Clinical Standards and Quality, Medical Review Branch Richard Bolling Federal Building 60l East l2th Street, Room 242 Kansas City, MO 64106-2808 
+(816) 426-5746 
+Centers for Medicare & Medicaid Services ­
+Region X Division of Clinical Standards and Quality 2201 Sixth Avenue, Mail Stop (RX-42) Seattle, WA 98121-2500 
+(206) 615-2317 
+ESRD Networks 
+ESRD Network Organization No. 1 ESRD Network of New England, Inc. 30 Hazel Terrace Woodbridge, CT 06525 Region I: ME, NH, VT, MA, CT, RI 
+(203) 387-9332 
+ESRD Network Organization No. 2 CKD Network of New York, Inc. 1979 Marcus Avenue, Suite 105 Lake Success, NY 11042-1002 Region I: NY 
+(516) 209-5578 Cranbury Gates Office Park 109 South Main Street, Suite 21 Cranbury, NJ 08512-3174 Region I: NJ, PR, VI 
+
+(609) 490-0310 
+
+ESRD Network Organization No. 4 40 24th Street, Suite 410 Pittsburgh, PA 15222 Region: DE, PA 
+(412) 325-2250 
+
+ESRD Network Organization No. 5 Mid-Atlantic Renal Coalition 1527 Huguenot Road Midlothian, VA 23113 Region I: DC, MD, VA, WV 
+(804) 794-3757 
+
+ESRD Network Organization No. 6 Southeastern Kidney Council, Inc. 1000 St. Albans Drive, Suite 270 Raleigh, NC 27609 Region VI: GA, NC, SC 
+(919) 855-0882 
+
+ESRD Network Organization No. 7 FMQAI: The Florida ESRD Network 5201 West Kennedy Boulevard, Suite 900 Tampa, FL  33609 Region: FL 
+(813) 383-1530 
+
+ESRD Network Organization No. 8 Network Eight, Inc. 
+P.O. Box 321475 Jackson, MS  39232-1475 Region VI: AL, MS, TN 
+(601) 936-9260 
+
+ESRD Network Organization No. 9 & 10 The Renal Network, Inc. 911 East 86th Street, Suite 202 Indianapolis, IN 46240-1858 Region VII: KY, IN, OH, IL 
+(317) 257-8265 
+
+ESRD Network Organization No. 11 Renal Network of the Upper Midwest, Inc. 1360 Energy Park Drive, Suite 200 St. Paul, MN  55108 Region: MI, MN, ND, SD, WI 
+(651) 644-9877 
+
+ESRD Network Organization No. 12 Heartland Kidney Network 7505 NW Tiffany Springs Parkway, Suite 230 Kansas City, MO 64153 Region VII: MO, IA, NE, KS 
+(816) 880-9990 Oklahoma City, OK  73112-2314 Region: AR, LA, OK 
+(405) 942-6000 
+ESRD Network Organization No. 14 ESRD Network of Texas, Inc. 4040 McEwen, Suite 350 Dallas, TX 75244-5015 Region VI: TX 
+(972) 503-3215 
+ESRD Network Organization No. 15 Intermountain ESRD Network, Inc. 1301 Pennsylvania Street, Suite 750 Denver, CO 80203-5012 Region X: NM, CO, WY, UT, AZ, NV 
+(303) 831-8818 
+ESRD Network Organization No. 16 Northwest Renal Network 4702 42nd Avenue, SW Seattle, WA 98116 Region X: MT, AK, ID, OR, WA 
+(206) 923-0714 
+ESRD Network Organization No. 17 Western Pacific Renal Network, LLC 505 San Marin Drive, Building A, Suite 300 Novata, CA  94945 Region X: No. CA, HI, Mariana Isl., GU, AS 
+(415) 897-2400 
+ESRD Network Organization No. 18 Southern California Renal Disease Council, 
+Inc. 6255 Sunset Boulevard, Suite 2211 Los Angeles, CA 90028 Region X: So. CA 
+(323) 962-2020 
+
+
+XI. Appendices 
+
+Appendix 2. ESRD Clinical Performance Measures (CPMs) for 2007 Data Collection Effort 
+Study period for HD patients is Oct, Nov, Dec 2006; for PD patients is Oct, Nov, Dec 2006 and Jan, Feb, Mar 2007. 
+Hemodialysis (HD) Adequacy 
+1.  HD Adequacy CPM I:  Monthly Measurement of Delivered Hemodialysis Dose. 
+HD Adequacy Guideline 1: Regular Measurement of the Delivered Dose of Hemodialysis (Evidence). 
+The dialysis care team should routinely measure and monitor the delivered dose of hemodialysis. 
+HD Adequacy Guideline 6: Frequency of Measurement of Hemodialysis Adequacy (Opinion). 
+The delivered dose of hemodialysis should be measured at least once a month in all adult and pediatric hemodialysis patients. The 
+frequency of measurement of the delivered dose of hemodialysis should be increased when: 
+
+1. 
+Patients are noncompliant with their hemodialysis prescriptions (missed treatments, late for treatments, early sign-off from hemodialysis treatments, etc.). 
+
+2. 
+Frequent problems are noted in delivery of the prescribed dose of hemodialysis (such as variably poor blood flows, or treatment interruptions because of hypotension or angina pectoris). 
+
+3. 
+Wide variability in urea kinetic modeling results is observed in the absence of prescription changes. 
+
+4. 
+The hemodialysis prescription is modified. 
+
+
+
+Numerator: 
+
+Number of patients in denominator with documented monthly adequacy measurements (URR or spKt/V) during the study period. (The study period for HD patients is Oct, Nov, Dec 2006). 
+Denominator: 
+All adult (> 18 years old) HD patients in the sample for analysis. 
+
+2.  HD Adequacy CPM II:  Method of Measurement of Delivered Hemodialysis Dose. 
+HD Adequacy Guideline 2: Method of Measurement of Delivered Dose of Hemodialysis (Evidence). 
+The delivered dose of hemodialysis in adult and pediatric patients should be measured using formal urea kinetic modeling (UKM), 
+employing the single-pool, variable volume model. 
+
+Numerator: 
+
+Number of patients in denominator for whom delivered HD dose was calculated using formal urea kinetic modeling or Daugirdas II during the study period. 
+Denominator: 
+All adult (> 18 years old) HD patients in the sample for analysis. 
+
+3.  HD Adequacy CPM III:  Minimum Delivered Hemodialysis Dose. 
+HD Adequacy Guideline 4: Minimum Delivered Dose of Hemodialysis (Adults-Evidence, Children-Opinion). The dialysis care team should deliver a spKt/V of at least 1.2 (single-pool, variable volume) for both adult and pediatric hemodialysis patients. For those using the urea reduction ratio (URR), the delivered dose should be equivalent to a spKt/V of 1.2, i.e., an average URR of 65%; however URR can vary substantially as a function of fluid removal. 
+Numerator: 
+
+Number of patients in denominator whose average delivered dose of HD (calculated from data points on the data collection form) was a spKt/V > 1.2 during the study period. 
+Denominator: 
+
+All adult (>18 years old) HD patients in the sample for analysis who have been on HD for six months or more and dialyzing three times per week. 
+Peritoneal Dialysis (PD) Adequacy 
+4.  PD Adequacy CPM I:  Measurement of Total Solute Clearance at Regular Intervals. 
+PD Adequacy Guideline 4: Measures of Peritoneal Dialysis Dose and Total Solute Clearance (Opinion). 
+Both total weekly creatinine clearance normalized to 1.73 m2 body surface area (BSA) and total weekly Kt/Vurea should be used to 
+measure delivered peritoneal dialysis doses. 
+PD Adequacy Guideline 11: Dialysate and Urine Collections (Opinion). 
+Two to three total solute removal measurements are required during the first six months of peritoneal dialysis (See Guideline 3). 
+
+After six months, if the dialysis prescription is unchanged: 
+
+1. 
+Perform both complete dialysate and urine collections every four months; and 
+
+2. 
+Perform urine collections every two months until the renal weekly Kt/Vurea is <0.1. 
+Thereafter, urine collections are no longer necessary, as the residual renal function contribution to total Kt/Vurea becomes negligible 
+(See Guideline 5). 
+
+
+
+Numerator: 
+
+Number of patients in denominator with total solute clearance for urea and creatinine measured at least once in a 6 month time period. (The study period for PD patients is Oct, Nov, Dec 2006 and Jan, Feb, Mar 2007). 
+Denominator: 
+
+All adult (> 18 years old) PD patients in sample for analysis, excluding tidal dialysis patients. 
+5.  PD Adequacy CPM II:  Calculate Weekly Kt/Vurea and Creatinine Clearance in a Standard Way. 
+PD Adequacy Guideline 4: Measures of Peritoneal Dialysis Dose and Total Solute Clearance (Opinion). 
+Both total weekly creatinine clearance normalized to 1.73 m2 body surface area (BSA) and total weekly Kt/Vurea should be used to 
+measure delivered peritoneal dialysis doses. 
+PD Adequacy Guideline 6: Assessing Residual Renal Function (Evidence). 
+Residual renal function (RRF), which can provide a significant component of total solute and water removal, should be assessed by 
+measuring the renal component of Kt/Vurea and estimating the patient’s glomerular filtration rate (GFR) by calculating the mean of 
+urea and creatinine clearance. 
+
+PD Adequacy Guideline 9: Estimating Total Body Water and Body Surface Area (Opinion). 
+V (total body water) should be estimated by either the Watson or Hume method in adults using actual body weight. 
+Watson method: 
+For Men: V (liters) = 2.447 + 0.3362*Wt(kg) + 0.1074*Ht(cm) - 0.09516*Age(years) 
+For Women: V = -2.097 + 0.2466*Wt + 0.1069*Ht 
+Hume method: 
+For Men: V = -14.012934 + 0.296785*Wt + 0.192786*Ht 
+For Women: V = -35.270121 + 0.183809*Wt + 0.344547*Ht 
+BSA should be estimated by either  the DuBois and DuBois method, the Gehan and George method, or the Haycock method using 
+actual body weight. 
+For all formulae, Wt is in kg and Ht is in cm: 
+DuBois and DuBois method: BSA (m2) = 0.007184*Wt0.425*Ht0.725 
+Gehan and George method: BSA (m2) = 0.0235*Wt0.51456*Ht0.42246 
+Haycock method: BSA (m2) = 0.024265*Wt0.5378*Ht0.3964 
+
+Numerator: 
+The number of patients in denominator with all of the following: 
+
+a. 
+Weekly creatinine clearance normalized to 1.73 m2 body surface area (BSA) and total weekly Kt/Vurea used to measure delivered PD dose; and 
+
+b.
+  Residual renal function (unless negligible*) is assessed by measuring the renal component of Kt/Vurea and estimating the patient’s glomerular filtration rate (GFR) by calculating the mean of urea and creatinine clearance; and 
+
+c. 
+Total body water (V) estimated by either the Watson or Hume method using actual body weight, and BSA estimated  by either the DuBois and DuBois method, the Gehan and George method, or the Haycock method of using actual body weight, during the study period. 
+
+
+* negligible = < 200 mL urine in 24 hours. 
+Denominator: 
+
+All adult (> 18 years old) PD patients in the sample for analysis, excluding tidal dialysis patients. 
+6.  PD Adequacy CPM III:  Delivered Dose of Peritoneal Dialysis. 
+PD Adequacy Guideline 15: Weekly Dose of CAPD (Evidence). 
+For CAPD, the delivered peritoneal dialysis dose should be a total Kt/Vurea of at least 2.0 per week and a total creatinine clearance 
+(CrCl) of at least 60 L/week/1.73 m2. 
+PD Adequacy Guideline 16: Weekly Dose of NIPD and CCPD (Opinion). 
+For NIPD, the weekly delivered peritoneal dialysis dose should be a total Kt/Vurea of at least 2.2 and a weekly total CrCL of at least 
+66 L/1.73 m2. 
+For CCPD, the weekly delivered peritoneal dialysis dose should be a total Kt/Vurea of at least 2.1 and a weekly total CrCl of at least 
+63 L/1.73 m2. 
+
+Numerator: 
+
+a. 
+For CAPD patients in the denominator, the delivered PD dose was a weekly Kt/Vurea of at least 2.0 and a weekly CrCl of at least 60 L/week/1.73 m2 or evidence that the prescription was changed according to NKF-K/DOQI recommendations, during the study period. 
+
+b. 
+For cycler patients in the denominator without a daytime dwell (NIPD), the delivered PD dose was a weekly Kt/Vurea of at least 
+
+
+2.2 and a weekly CrCl of at least 66 L/week/1.73 m2 or evidence that the prescription was changed according to NKF-K/DOQI recommendations, during the study period.  For cycler patients in the denominator with a daytime dwell (CCPD), the delivered PD dose was a weekly Kt/Vurea of at least 2.1 and a weekly CrCl of at least 63 L/week/1.73 m2  or evidence that the prescription was changed according to NKF-K/DOQI recommendations, during the study period. 
+Denominator: 
+
+All adult (> 18 years old) PD patients in the sample for analysis, excluding tidal dialysis patients. 
+Vascular Access 
+7. Vascular Access CPM I:  Maximizing Placement of Arterial Venous Fistulae (AVF). 
+Vascular Access Guideline 29A: Goals of Access Placement-Maximizing Primary Arterial Venous Fistulae (Opinion).   Primary arterial venous fistulae (AVF) should be constructed in at least 50% of all new patients electing to receive hemodialysis as their initial form of renal replacement therapy. Ultimately, 40% of prevalent patients should have a native AV fistula. (See Guideline 3, Selection of Permanent Vascular Access and Order of Preference of AV Fistulae). 
+Numerator: 
+
+a. 
+The number of incident patients in the denominator who were dialyzed using an AVF during their last HD treatment  during the study period. (The study period for HD patients is Oct, Nov, Dec 2006). 
+
+b. 
+The number of prevalent patients in the denominator who were dialyzed using an AVF during their last HD treatment during the study period. 
+
+
+Denominator: 
+
+a. 
+Incident adult (> 18 years old) HD patients (defined as those patients initiating their most recent course of HD on or between Jan 1 and Aug 31, 2006) in the sample for analysis. 
+
+b. 
+Prevalent adult (> 18 years old) HD patients in the sample for analysis. 
+
+
+8. Vascular Access CPM II:  Minimizing Use of Catheters as Chronic Dialysis Access. 
+Vascular Access Guideline 30A: Goals of Access Placement- Use of Catheters for Chronic Dialysis (Opinion). Less than 10% of chronic maintenance hemodialysis patients should be maintained on catheters as their permanent chronic dialysis access. In this context, chronic catheter access is defined as the use of a dialysis catheter for more than three months in the absence of a maturing permanent access. 
+Numerator: 
+
+The number of patients in the denominator who were dialyzed with a chronic catheter continuously for 90 days or longer prior to the last HD session during the study period. 
+Denominator: 
+All adult (> 18 years old) patients in the sample for analysis. 
+
+9. Vascular Access CPM III:  Surveillance of Arterial Venous Grafts for Stenosis. 
+Vascular Access Guideline 10: Surveillance of Dialysis AV Grafts for Stenosis (Evidence/Opinion). Physical examination of an access graft should be performed weekly and should include, but not be limited to, inspection and palpation for pulse and thrill at the arterial, mid, and venous sections of the graft (Opinion). Dialysis arterial venous graft accesses should be surveyed for hemodynamically significant stenosis. The DOQI Work Group recommends an organized surveillance approach with regular assessment of clinical parameters of the arterial venous access and dialysis adequacy. Data from the surveillance tests, clinical assessment, and dialysis adequacy measurements should be collected and maintained for each patient’s access and made available to all staff. The data should be tabulated and tracked within each dialysis center as part of a Quality Assurance/ Continuous Quality Improvement (QA/CQI) program (Opinion). Prospective surveillance of arterial venous grafts for hemodynamically significant stenosis, when combined with correction, improves patency and decreases the incidence of thrombo­sis (Evidence). Techniques, not mutually exclusive, that can be used to survey for stenosis in arterial venous grafts include: 
+A. Intra-access flow (Evidence) 
+
+B. Static venous pressures (Evidence) 
+
+
+C. Dynamic venous pressures (Evidence) 
+Other studies or information that can be useful in detecting arterial venous graft stenosis include: 
+
+D. Measurement of access recirculation using urea concentrations (See Guideline 12) (Evidence) 
+
+E. Measurement of recirculation using dilution flow techniques (nonurea-based) (Evidence) 
+F. Unexplained decreases in the measured amount of hemodialysis delivered (URR, Kt/V) (Evidence) 
+G. Physical findings of persistent swelling of the arm, clotting of the graft, prolonged bleeding after needle withdrawal, or altered 
+characteristics of pulse or thrill in a graft (Evidence/Opinion) 
+
+H. Elevated negative arterial pre-pump pressures that prevent increasing to acceptable blood flow (Evidence/Opinion) 
+
+I. Doppler ultrasound (Evidence/Opinion) 
+Persistent abnormalities in any of these parameters should prompt referral for venography (Evidence). 
+
+Numerator: 
+
+The number of patients in the denominator whose AV graft was routinely surveyed (screened) for the presence of stenosis during the study period by one of the following methods and with the stated frequency:  Color-flow Doppler at least once every 3 months; Static venous pressure at least once every 2 weeks; Dynamic venous pressure every HD session; Dilution technique at least once every 3 months. 
+Denominator: 
+
+All adult (> 18 years old) patients in the sample for analysis who were on HD continuously during the study period and who were dialyzed through an arterial venous graft during their last HD session during the study period. 
+Anemia Management 
+10.  Anemia Management CPM I: Target Hemoglobin for Epoetin Therapy. 
+Anemia Management Guideline 4: Target Hemoglobin (Hgb) for Epoetin Therapy (Evidence/Opinion). 
+The target range for hemoglobin should be 11-12 g/dL (110-120 g/L) (Evidence). This target is for epoetin therapy and is not an 
+indication for blood transfusion therapy (Opinion). 
+
+Numerator: 
+
+Number of patients in denominator with documented mean Hgb of 11-12 g/dL (110-120 g/L) during the study period. (The study period for HD patients is Oct, Nov, Dec 2006 and Oct, Nov, Dec 2006 and Jan, Feb, Mar 2007 for PD patients). 
+Denominator: 
+
+All adult (= 18 years old) HD or PD patients in the sample for analysis, exclude patients with mean Hgb  > 12 g/dL (120 g/L) who are not prescribed epoetin at any time during the study period. 
+11.  Anemia Management CPM IIa:  Assessment of Iron Stores among Anemic Patients or Patients Prescribed Epoetin. 
+Anemia Management Guideline 5: Assessment of Iron Status (Evidence). 
+Iron status should be monitored by the percent transferrin saturation and the serum ferritin concentration. 
+Anemia Management Guideline 6A: Target Iron Level (Evidence). 
+Chronic renal failure patients should have sufficient iron to achieve and maintain a Hgb of 11 to 12 g/dL (110-120 g/L). 
+Anemia Management Guideline 7A: Monitoring Iron Status (Opinion). 
+During the initiation of epoetin therapy and while increasing the epoetin dose in order to achieve an increase in hematocrit/hemo­globin, the transferrin saturation and the serum ferritin concentration should be checked every month in patients not receiving 
+intravenous iron, and at least once every 3 months in patients receiving intravenous iron, until target hematocrit/hemoglobin is 
+reached. 
+Anemia Management Guideline 7B: Monitoring Iron Status (Opinion). 
+Following attainment of the target hematocrit/hemoglobin, transferrin saturation and serum ferritin concentration should be deter­mined at least once every 3 months. 
+
+Numerator: 
+
+a. 
+The number of HD patients in the denominator with at least one documented transferrin saturation and serum ferritin concentra­tion result every three months. 
+
+
+b. 
+The number of PD patients in the denominator with at least two documented transferrin saturation and serum ferritin concentra­tion results over the six-month study period. 
+[Note: Not directly comparable to Numerator “a”, but most feasible given probable frequency of visits for PD patients.] 
+
+
+
+Denominator: 
+
+a. 
+All adult (> 18 years old) HD patients included in the sample for analysis, if first monthly Hgb is < 11 g/dL (110 g/L) for at least one of the study months or if prescribed epoetin at any time during the study period regardless of Hgb. 
+
+b. 
+All adult (> 18 years old) PD patients included in the sample for analysis, if first monthly Hgb is < 11 g/dL (110 g/L) for at least one of the two-month periods during the six-month study period or if prescribed epoetin at any time during the study period regardless of Hgb. 
+
+
+12.  Anemia Management CPM IIb:  Maintenance of Iron Stores-Target. 
+Anemia Management Guideline 6B: Target Iron Level (Evidence). 
+To achieve and maintain target Hgb of 11-12 g/dL (110-120 g/L) , sufficient iron should be administered to maintain a transferrin 
+saturation of = 20%, and a serum ferritin concentration of >100 ng/mL. 
+
+Numerator: 
+
+a. 
+The number of HD patients in the denominator with at least one documented transferrin saturation > 20% and at least one documented serum ferritin concentration > 100 ng/mL during a three-month period. 
+
+b. 
+The number of PD patients in the denominator with at least one documented transferrin saturation > 20% and at least one 
+documented serum ferritin concentration > 100 ng/mL during the six-month study period. 
+[Note: Not directly comparable to Numerator “a”, but most feasible given probable frequency of visits for PD patients.] 
+
+
+
+Denominator: 
+
+a. 
+All adult (> 18 years old) HD patients included in sample, if first monthly Hgb is < 11 g/dL (110 g/L) for at least one of the study months or if prescribed epoetin at any time during the study period regardless of Hgb. 
+
+b. 
+All adult (> 18 years old) PD patients included in sample, if first monthly Hgb is < 11 g/dL (110 g/L) for at least one of the two-month periods during the six-month study period or if prescribed epoetin at any time during the study period regardless of Hgb. 
+
+
+13.  Anemia Management CPM III:  Administration of Supplemental Iron. 
+Anemia Management Guideline 8A: Administration of Supplemental Iron (Evidence). 
+Supplemental iron should be administered to prevent iron deficiency and to maintain adequate iron stores so that chronic renal 
+failure patients can achieve and maintain a Hgb of 11 to 12 g/dL (110-120 g/L) in conjunction with epoetin therapy. 
+Anemia Management Guideline 8C: Administration of Supplemental Iron (Evidence/Opinion). 
+The adult pre-dialysis, home hemodialysis, and peritoneal dialysis patient may not be able to maintain adequate iron status with 
+oral iron.Therefore, 500 to 1000 mg of iron dextran may be administered intravenously in a single infusion, and repeated as needed, 
+after an initial one-time test dose of 25 mg. 
+Anemia Management Guideline 8D: Administration of Supplemental Iron (Opinion/Evidence). 
+A trial of oral iron is acceptable in the hemodialysis patient, but is unlikely to maintain the transferrin saturation > 20%, serum ferritin 
+concentration > 100 ng/mL, and Hgb at 11-12 g/dL (110-120 g/L). 
+Anemia Management Guideline 8G: Administration of Supplemental Iron (Opinion/Evidence). 
+Most patients will achieve a Hgb 11 to 12 g/dL (110-120 g/L) with transferrin saturation and serum ferritin concentration  < 50% and 
+< 800 ng/mL, respectively. In patients in whom transferrin saturation is = 50% and/or serum ferritin concentration is = 800 ng/mL, 
+intravenous iron should be withheld for up to three months, at which time the iron parameters should be re-measured before 
+intravenous iron is resumed.When the transferrin saturation and serum ferritin concentration have fallen to < 50% and < 800 ng/mL, 
+respectively, intravenous iron can be resumed at a dose reduced by one-third to one-half. 
+Anemia Management Guideline 8H: Administration of Supplemental Iron (Opinion). 
+It is anticipated that once optimal hematocrit/hemoglobin and iron stores are achieved, the required maintenance dose of intrave­nous iron may vary from 25 to 100 mg/week for hemodialysis patients. The goal is to provide a weekly dose of intravenous iron in 
+hemodialysis patients that will allow the patient to maintain the target hematocrit/hemoglobin at a safe and stable iron level. The 
+maintenance iron status should be monitored by measuring the transferrin saturation and serum ferritin concentration every three 
+months. 
+
+Numerator: 
+
+a. 
+The number of HD patients in the denominator prescribed intravenous iron in at least one of the study months. 
+
+b. 
+The number of PD patients in denominator prescribed intravenous iron in at least one of the two-month periods during the six-month study period 
+
+
+Denominator: 
+
+a. 
+All adult (> 18 years old) HD patients included in the sample for analysis if first monthly Hgb < 11 g/dL (110 g/L) for at least one month out of a three-month period or prescribed epoetin at any time during the study period regardless of  Hgb level, with at least one transferrin saturation < 20% or at least one serum ferritin concentration < 100 ng/mL.  EXCLUDE patients with mean transferrin saturation > 50% or mean serum ferritin concentration > 800 ng/mL and EXCLUDE patients in first three months of dialysis and prescribed oral iron. 
+
+b. 
+All adult (> 18 years old) PD patients included in the sample for analysis if the first Hgb in a two-month period < 11 g/dL (110 g/L) for at least one of the two-month periods during the six-month study period or prescribed epoetin at any time during the study period regardless of Hgb level, with at least one transferrin saturation < 20% or at least one serum ferritin concentration < 100 ng/ mL.  EXCLUDE patients with mean transferrin saturation > 50% or mean serum ferritin concentration > 800 ng/mL and EXCLUDE patients in first three months of dialysis and prescribed oral iron. 
+
+
+
+CMS - 820 (Rev 2/8/06) CMS - 820 (Rev 2/8/06) CMS - 820 (Rev 2/8/06) CMS - 820 (Rev 2/8/06) CMS - 820 (Rev 2/8/06) CMS - 820 (Rev 2/8/06) CMS - 821 (Rev 2/8/06) CMS - 821 (Rev 2/8/06) CMS - 821 (Rev 2/8/06) CMS - 821 (Rev 2/8/06) CMS - 821 (Rev 2/8/06) CMS - 821 (Rev 2/8/06) 
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX 5 2007 NATIONAL CPM DATA COLLECTION – NATIONAL AND NETWORK PROFILES
+for Adult (aged = 18 years)  In-Center Hemodialysis Patients 
+Network  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  U.S.  
+# Patients in sample  484  486  487  485  488  490  483  488  484  479  481  476  487  485  487  480  495  495  8740  
+# Facilities in sample  138  178  130  196  219  295  212  224  243  154  236  188  200  266  177  117  147  198  3518  
+
+DIALYSIS ADEQUACY
+% Pts with mean singlesession spKt/V = 1.2  95  91  92  91  89  91  88  91  91  89  89  91  88  95  91  89  87  87  90  
+Median spKt/V  1.56  1.55  1.56  1.58  1.52  1.54  1.54  1.53  1.57  1.59  1.53  1.53  1.49  1.62  1.57  1.58  1.50  1.53  1.55  
+% Pts with meanURR = 65%  91  88  88  88  87  86  85  88  89  87  85  88  85  91  88  89  83  84  87  
+Median URR %  74  73  74  74  73  73  73  73  73  74  73  73  72  74  73  74  72  73  73  
+Median dialysis sessionlength (min)  210  210  211  225  210  216  210  220  225  215  210  215  216  233  215  229  198  196  213  
+
+VASCULAR ACCESS
+
+% Prevalent Ptswith AVF^  57  47  44  43  38  41  44  42  44  42  40  45  36  42  55  61  53  51  45  
+% Incident Ptswith AVF  54  43  38  34  38  32  40  47  52  29  34  36  36  44  43  56  43  42  41  
+% Prevalent Ptswith Graft with AVF  *  *  *  *  2  3  *  *  *  *  *  *  *  *  *  *  3  3  2  
+% Prevalent Pts withGraft without AVF  15  25  20  23  29  30  22  31  22  24  23  21  26  32  13  15  22  26  24  
+% Pts with AVG andstenosis monitoring  58  55  73  73  66  77  57  61  70  71  72  60  63  72  72  99  78  77  70  
+% Prevalent Ptswith catheter  27  27  35  32  30  26  33  25  32  33  35  32  36  24  30  22  23  20  29  
+% Prevalent Pts withcatheter = 90 days  20  20  26  26  23  20  26  17  26  24  26  25  29  18  23  16  17  18  22  
+
+Value suppressed because n < 11
+*^ CMS has set a goal to have = 66% of prevalent hemodialysis patients using an AV Fistula as their access by the year 2010. 
+
+
+APPENDIX 5 2007 NATIONAL CPM DATA COLLECTION – NATIONAL AND NETWORK PROFILES (CONT.)
+for Adult (aged = 18 years)  In-Center Hemodialysis Patients 
+Network  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  U.S.  
+
+ANEMIA MANAGEMENT
+Median Hgb (g/dL)  11.9  12.0  12.0  12.0  12.1  12.1  12.0  11.9  11.9  12.0  12.1  11.9  12.0  12.1  12.2  12.1  12.1  12.1  12.1  
+% Pts with meanHgb = 11 g/dL  83  84  83  82  82  84  82  79  83  81  85  81  83  86  86  87  85  85  84  
+% Pts^ withmean Hgb 11-12.0  36  32  34  34  32  31  30  33  38  31  35  35  33  33  33  35  33  30  33  
+% Pts with meanHgb < 10 g/dL  5  6  8  5  7  4  6  7  3  7  5  6  5  5  3  4  4  3  5  
+
+^ Excludes pts. with mean Hgb > 12 g/dL (120 g/L) who are not prescribed ESA at anytime during the study period.Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. 
+IRON MANAGEMENT
+
+% Pts with meanTSAT = 20%  80  79  76  78  82  80  82  78  78  78  79  73  81  82  77  74  78  79  79  
+Median TSAT %  26  26  26  26  27  26  27  25  25  26  26  25  26  27  26  24  26  27  26  
+% Pts with meanFerritin = 100 ng/mL  95  91  95  94  94  93  93  95  95  96  96  96  96  97  93  93  94  96  95  
+Median ferritin ng/mL  534  466  523  538  529  539  530  476  536  493  481  500  556  520  476  445  536  564  529  
+% Pts prescribedIV Iron  68  65  71  71  63  69  69  72  72  75  72  72  73  72  65  72  64  68  70  
+
+APPENDIX 52007 NATIONAL CPM DATA COLLECTION – NATIONAL AND NETWORK PROFILES (cont.)
+for Adult (aged = 18 years)  In-Center Hemodialysis Patients 
+Network  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  U.S.  
+
+ALBUMIN 
+% Pts with meanserum alb = 4.0/3.7g/dL (BCG/BCP)^^  31  34  30  30  36  34  34  31  31  37  29  27  34  34  36  34  40  40  34  
+% Pts with meanserum alb = 3.5/3.2g/dL (BCG/BCP)^^  79  77  80  78  82  83  82  83  77  86  75  76  80  82  86  82  81  84  81  
+Median serumBCG albumin (g/dL)  3.8  3.9  3.8  3.8  3.9  3.8  3.9  3.9  3.8  3.9  3.8  3.8  3.8  3.9  3.8  3.9  3.9  3.9  3.8  
+Median serumBCP albumin (g/dL)  3.5  3.4  3.4  3.3  3.6  3.9  3.4  3.4  3.7  3.6  3.7  3.3  3.9  3.6  3.8  3.4  3.6  3.6  3.5  
+
+^^ BCG/BCP - Bromcresol Green/Bromcresol Purple Laboratory Methods
+Value suppressed because n < 11
+*Note: To convert serum albumin conventional units of g/dL to SI units (g/L), multiply by 10. 
+
+
+CALCIUM 
+Median Calcium  9.2  9.2  9.3  9.4  9.3  9.4  9.4  9.3  9.3  9.2  9.3  9.2  9.3  9.3  9.2  9.2  9.2  9.2  9.3  
+% Pts with adjustedcalcium 8.4 - 10.2 (mg/dL)  82  83  84  83  82  83  85  83  83  84  86  82  84  83  80  81  85  85  83  
+% Pts with monthlycalcium reported  89  93  87  89  82  88  83  89  89  89  91  90  88  92  89  86  91  92  89  
+
+PHOSPHORUS 
+MedianPhosphorus  5.2  5.2  5.3  5.0  5.2  5.4  5.3  5.4  5.3  5.3  5.1  5.1  5.3  5.4  5.4  5.2  5.3  5.4  5.2  
+% Pts with mean phosphorus3.5 - 5.5 (mg/dL)  55  52  49  58  51  51  53  48  53  52  57  56  52  48  51  54  52  50  52  
+% Pts with monthlyphosphorus reported  89  92  87  89  82  88  83  88  90  89  91  91  88  92  88  87  90  91  89  
+
+Note: To convert calcium conventional units of mg/dL to SI units (mg/L), multiply by 10.Note: To convert phosphorus conventional units of mg/dL to SI units (mg/L), multiply by 10. 
+
+Appendix 6. 2007 ESRD Outcome Comparison Tool —Adult In-Center Hemodialysis Patients — National Data are from October - December  2006 
+Enter your Network data from Appendix 5 and use this tool to document and compare your facility outcomes to the national data and your Network data. 
+U.S.      Network   Facility  
+ADEQUACY OF DIALYSIS  
+Percent of patients with a mean spKt/V > 1.2  90%  
+Mean ± SD spKt/V  1.55 ± 0.27  
+Mean ± SD dialysis session length (minutes)  217 ± 32  
+Mean ± SD URR (%)  72.0 ± 7 
+ VASCULAR ACCESS  
+Percent of prevalent patients dialyzed with an AV fistula^  45%  
+Percent of incident patients dialyzed with an AV fistula  41%  
+Percent of prevalent patients dialyzed with an AV Graft^^  26%  
+Percent of prevalent patients dialyzed with a catheter  29%  
+Percent of prevalent patients dialyzed with a catheter = 90 days  22%  
+ANEMIA MANAGEMENT  
+Percent of patients with mean Hgb > 11.0 g/dL  84%  
+Percent of patients^^^ with mean Hgb 11.0 – 12.0 g/dL  33%  
+Percent of patients with mean Hgb < 10.0 g/dL  5%  
+Mean ± SD Hgb (g/dL)  12.0 ± 1.2  
+Percent of patients with mean TSAT > 20%  79%  
+Mean ± SD TSAT (%)  28 ± 11.2  
+Percent of patients with mean serum ferritin concentration > 100 ng/mL  95%  
+Mean ± SD serum ferritin concentration (ng/mL)  583 ± 387  
+Percent of patients prescribed IV iron  70% 
+ SERUM ALBUMIN  
+Percent of patients with mean serum albumin > 4.0/3.7 g/dL (BCG/BCP)  34%  
+Percent of patients with mean serum albumin > 3.5/3.2 g/dL (BCG/BCP)  81%  
+Mean ± SD serum albumin (g/dL) 
+ BCG  3.8 ± 0.4 
+ BCP  3.5 ± 0.5  
+CALCIUM  
+Percent of patients with adjusted calcium 8.4 – 10.2 mg/dL  83%  
+Percent of patients with monthly calcium reported  89%  
+Mean ± SD calcium (mg/dL)  9.2 ± 0.7  
+PHOSPHORUS  
+Percent of patients with mean phosphorus 3.5 – 5.5 mg/dL  52%  
+Percent of patients with monthly phosphorus reported  89%  
+Mean ± SD phosphorus (mg/dL)  5.4 ± 1.5  
+
+^ CMS has set a goal to have = 66% of prevalent hemodialysis patients using an AV Fistula as their access by the year 2010. 
+^^ Includes grafts with and without AVF. 
+^^^ Excludes pts. with mean Hgb > 12 g/dL (120 g/L) who are not prescribed ESA at anytime during the study period. 
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Note: To convert serum albumin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Note: To convert calcium conventional units of mg/dL to SI units (mg/L), multiply by 10. 
+Note: To convert phosphorus conventional units of mg/dL to SI units (mg/L), multiply by 10. 
+
+Appendix 7. 2007 ESRD Outcome Comparison Tool —Adult Peritoneal Dialysis Patients — National Data are from October 2006 - March 2007 
+Use this tool to document and compare your facility outcomes to the national data.
+              U.S.             Facility  
+ADEQUACY OF DIALYSIS^  
+Percent of patients measured for adequacy at least once during the six month  
+study period (both weekly Kt/V and weekly creatinine clearance measured)  84%  
+urea 
+Percent of peritoneal dialysis patients with mean weekly Kt/V= 1.7  85%  
+urea  
+Mean ± SD weekly Kt/V for CAPD patients  2.31 ± 0.65  
+urea 
+Mean ± SD weekly Kt/V for Cycler patients^^  2.22 ± 0.64  
+urea 
+Mean ± SD weekly Kt/V for all peritoneal dialysis patients  2.24 ± 0.64  
+urea 
+ANEMIA MANAGEMENT  
+Percent of patients with mean Hgb = 11.0 g/dL  82%  
+Percent of patients^^^ with mean Hgb 11.0 - 12.0 g/dL  35%  
+Percent of patients with mean Hgb < 10.0 g/dL  6%  
+Mean ± SD Hgb (g/dL)  12.0 ± 1.3  
+Percent of patients with mean TSAT = 20%  85%  
+Mean ± SD TSAT (%)  30 ± 11  
+Percent of patients with mean serum ferritin concentration = 100 ng/mL  90%  
+Mean ± SD serum ferritin concentration (ng/mL)  477 ± 398  
+Percent of patients prescribed IV iron  29%  
+SERUM ALBUMIN  
+Percent of patients with mean serum albumin = 4.0/3.7 g/dL (BCG/BCP)  19%  
+Percent of patients with mean serum albumin = 3.5/3.2 g/dL (BCG/BCP)  63%  
+Mean ± SD Serum Albumin (g/dL) BCG  3.6 ± 0.5  
+Mean ± SD Serum Albumin (g/dL) BCP  3.3 ± 0.6  
+CALCIUM  
+Percent of patients with adjusted calcium 8.4 - 10.2 mg/dL  79%  
+Percent of patients with monthly calcium reported  84%  
+Mean ± SD calcium (mg/dL)  9.4 ± 0.8  
+PHOSPHORUS  
+Percent of patients with mean phosphorus 3.5 - 5.5 mg/dL  56%  
+Percent of patients with monthly phosphorus reported  83%  
+Mean ± SD phosphorus (mg/dL)  5.2 ± 1.4  
+
+^ Using the 2006 KDOQI guidelines and recommendations (29): For peritoneal dialysis patients with and without renal kidney function: weekly KtV= 1.7. 
+urea 
+^^ For the Oct 2006-Mar 2007 collection, CCPD and NIPD were not distinguishable. 
+
+^^^ Excludes pts. with mean Hgb > 12 g/dL (120 g/L) who are not prescribed ESA at anytime during the study period. 
+Note: To convert hemoglobin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Note: To convert serum albumin conventional units of g/dL to SI units (g/L), multiply by 10. 
+Note: To convert calcium conventional units of mg/dL to SI units (mg/L), multiply by 10. 
+Note: To convert phosphorus conventional units of mg/dL to SI units (mg/L), multiply by 10. 
+
+
+

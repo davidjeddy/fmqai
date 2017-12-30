@@ -1,0 +1,275 @@
+End Stage Renal Disease (ESRD) Quality Initiative 
+OVERVIEW 
+ 
+ 
+Background  
+ 
+  
+  
+Over 400,000 Americans suffer from kidney failure (end stage renal disease, or ESRD) and require either kidney dialysis or transplantation to live.  ESRD is Medicare’s only disease-specific program that entitles people of all ages to Medicare coverage on the basis of their diagnosis.  In 2003, more than 340,000 individuals received dialysis treatments in over 4,500 facilities across the United States.  In 2002, total Medicare costs for the ESRD program were $17 billion, an increase of 11 percent over costs in 2001. 
+ 
+Quality health care for people with Medicare is a high priority for the Bush administration, the Department of Health and Human Services (HHS), and the Centers for Medicare and Medicaid Services (CMS).  In November 2001, HHS Secretary Tommy G. Thompson announced the Quality Initiative to assure quality health care for all Americans through accountability and public disclosure.  The Initiative is intended to (a) empower consumers with quality of care information to make more informed decisions about their health care, and (b) encourage providers and clinicians to improve the quality of health care.  The Quality Initiative was launched nationally in November 2002 for nursing homes, and was expanded in 2003 to the nation’s home health care agencies (Home Health Quality Initiative) and hospitals (Hospital Quality Initiative).     
+ 
+In 2004, the Quality Initiative was further expanded to officially include kidney dialysis facilities that provide services for patients with ESRD (ESRD Quality Initiative). The ESRD Network Organizations assist dialysis providers with quality improvement activities.  
+ 
+ 
+ 
+Objective of the ESRD Quality Initiative 
+ 
+  
+  
+The objective of the ESRD Quality Initiative is to stimulate and support significant improvement in the quality of dialysis care. The initiative aims to refine and standardize dialysis care measures, ESRD data definitions, and data transmission to support the needs of Medicare’s ESRD program; empower patients and consumers by providing access to facility service and quality information; provide quality improvement support to dialysis providers; assure compliance with conditions of coverage; and build strategic partnerships with patients, providers, professionals, and other stakeholders. 
+ 
+ 
+ 
+Components of the ESRD Quality Initiative 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Components of the ESRD Quality Initiative 
+continued 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+• Dialysis Facility Compare (DFC) on www.medicare.gov  The DFC website contains dialysis facility service and quality information on all Medicare approved dialysis facilities in the United States, allowing consumers and patients to review and compare facilities and choose a dialysis facility that best meets their needs.   
+ 
+
+
+• Fistula First Breakthrough Initiative  This agency-wide quality initiative was developed as part of a CMS-wide breakthrough strategy to achieve 65% arterial venous fistula (AVF) utilization by 2009.  An AVF is the preferred vascular access (the site on the body where blood will be removed and returned during dialysis) type for patients undergoing hemodialysis because it provides adequate blood flow for dialysis, lasts a long time, and has a low complication rate.                              continued 
+ 
+
+
+• ESRD Conditions of Coverage These federal regulations that must be met by all facilities participating in Medicare have undergone the first comprehensive revision in 28 years. The new patient-centered regulations were published as a Notice of Proposed Rule Making (NPRM) on February 4, 2005.   
+ 
+
+
+• In-Center Hemodialysis Patient Survey (ICH CAHPS®)  CMS, in partnership with the Agency for Healthcare Research and Quality (AHRQ) and the renal community, is developing a patient experience of care survey for ESRD patients, focusing on hemodialysis patients in chronic dialysis facilities.  A draft survey will be pilot tested in early 2005. 
+ 
+
+
+• The ESRD Clinical Performance Measures (CPM)  This project collects data annually for a standard set of measures on a random national sample of dialysis patients to identify and track opportunities for improvement in areas that include adequacy of hemodialysis and peritoneal dialysis, anemia management, and vascular access management.   
+ 
+
+
+• The ESRD Disease Management Demonstration  Scheduled to begin summer of 2005 and last for four years, this initiative allows organizations serving ESRD patients to receive a capitation payment to test the effectiveness of disease management models in increasing quality of care and containing costs.   
+ 
+
+
+• Consolidated Renal Operations in a Web-based Network (CROWN)  The CROWN system is the backbone of CMS’s ESRD information system and contains all things critical to program administration.  CMS is currently collaborating with providers, the ESRD Networks, and the renal community to develop a standardized set of data elements and a standard data transmission methodology to administer and oversee Medicare’s ESRD program. 
+ 
+
+
+
+ 
+ 
+The ESRD Quality Strategy 
+ 
+ 
+ 
+Regulation and Enforcement 
+  
+  
+CMS will continue to conduct regulation and enforcement activities to ensure that Medicare dialysis facilities comply with federal standards for patient health and safety and quality of care. The survey and certification program is a joint effort of the federal and state governments. At the federal level, CMS establishes standards (or regulations) for safe and effective operation of dialysis facilities, develops guidelines and procedures, provides training for conducting surveys, and coordinates the survey activities of the individual states.  Currently, dialysis facilities are surveyed about every 36 months, and state survey agencies investigate complaints on an “as needed” basis. 
+ 
+CMS has revised existing regulations that dialysis facilities must meet in order to participate in Medicare to reflect improvements in clinical standards of care, the use of more advanced technology, and, most notably, a framework to incorporate performance measures related to the quality of care provided to dialysis patients.  The proposed regulations were February 4, 2005.    
+ 
+ 
+ 
+Consumer Information on Quality of Care 
+  
+  
+CMS is publicly reporting information on every Medicare-approved dialysis facility in the United States on the Dialysis Facility Compare (DFC) website tool at www.medicare.gov.  The DFC website currently includes nine facility characteristics and three quality measures. Facility quality information includes a survival measure and measures of how well a facility dialyzes its patients (dialysis adequacy) and manages its patients’ anemia (a common occurrence in patients with kidney failure). Additional quality measures are being explored, including a measure of how many patients receive dialysis with an arterial venous fistula (AVF). 
+ 
+In addition, pilot testing began in early 2005 for the In-Center Hemodialysis CAHPS (ICH CAHPS®) survey, which obtains information directly from dialysis patients on their experience of care in dialysis facilities.    Survey findings, when available, will be used for facility quality improvement activities and public reporting on DFC.    
+ 
+ 
+ 
+Community-based Quality Improvement 
+  
+  
+The ESRD Networks are currently focusing on helping dialysis providers increase the number of patients receiving hemodialysis with an arterial venous fistula (AVF) via the Fistula First Breakthrough Initiative, which strives to reach the goal of 65% AVF by 2009.  Currently, only about 30% of Medicare beneficiaries dialyze with an AVF. Work began on this “Fistula First” initiative in July 2003, when a multi-disciplinary team began exploring the challenges and successes for fistula placement within the dialysis and surgical communities.  The Institute for Healthcare Improvement is helping CMS and the ESRD Networks improve the coordination of care across providers and spread best practices based on 11 recommendations in the change package.  Areas that CMS is exploring as part of this initiative include aligning financial incentives, educating patients, and training health professionals. 
+ 
+ 
+ 
+Testing Payment Incentives 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Testing Payment Incentives 
+continued 
+  
+  
+The ESRD Disease Management Demonstration will increase the opportunity for Medicare beneficiaries with ESRD to join integrated care management systems. Organizations serving ESRD patients will receive a capitation payment to test the effectiveness of disease management models at increasing quality of care for ESRD patients.  Eligible organizations include companies with experience providing services to ESRD patients, including dialysis providers, disease management organizations, Medicare Advantage plans, and integrated health systems.  The demonstration will last for four years and will begin in mid 2005. 
+ 
+Organizations participating under capitation arrangements would be responsible for all Medicare covered services for participating beneficiaries. Under the fee-for-service model, organizations will provide an expanded bundle of dialysis services, including items additional to those under the Medicare composite rate of payment for outpatient dialysis. Organizations are responsible for working with providers and patients to coordinate their medical needs. All services other than those under the bundled payment will be reimbursed on a fee-for-service basis. 
+ 
+continued 
+ 
+The demonstration payment method includes a 5% incentive payment schedule for quality based on five quality measures: adequacy of dialysis treatment, adequate anemia management, vascular access, serum albumin, and bone disease.  Capitation payments will be set at 95% of the Medicare Advantage rate, and payments for the fee-for-service option will be set at 95% of the add-on payments for the expanded bundle.   
+ 
+ 
+ 
+Collaboration and Partnership 
+  
+  
+To continue to be effective, the ESRD Quality Initiative must build on the collaborative efforts already underway with the ESRD Networks, renal associations, dialysis providers, renal professionals, state survey agencies, other federal agencies, and other stakeholders. Current partnership efforts underway include the “Fistula First” project, standardizing ESRD data and measures to be reported and transmitted to CMS, the ICH CAHPS survey, patient safety, end-of-life issues, and patient-provider conflict resolution best practices. 
+ 
+ 
+ 
+ESRD Quality Measures 
+ 
+ 
+ 
+ESRD Clinical Performance Measures (CPMs) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ESRD Clinical Performance Measures (CPMs) 
+continued 
+ 
+  
+  
+In 1998, CMS developed ESRD Clinical Performance Measures (CPMs) based on the National Kidney Foundation’s Kidney Disease Quality Initiative Clinical Practice Guidelines, in response to the Balanced Budget Act of 1997. Sixteen CPMs were developed to measure and report the quality of dialysis services provided under Medicare in the areas of adequacy of hemodialysis and peritoneal dialysis, anemia management, and vascular access management. Additional measures related to kidney transplant referral and ESRD bone metabolism are currently in development. 
+ 
+CPM data are collected on a national random sample of adult in-center hemodialysis patients, all in-center hemodialysis patients less than 18 years of age, and a national random sample of adult peritoneal dialysis patients. Thirteen of the CPMs are calculated, and an annual report of these findings is published and made available to the public at www.cms.hhs.gov/esrd/1.asp.  CPM data are not collected in numbers sufficient for calculating dialysis facility-specific rates.  However, CMS is currently collaborating with the major large dialysis organizations to collect and transmit CPM data electronically on all their dialysis patients. 
+ 
+The ESRD CPMs include the following: 
+• Delivered hemodialysis dose is measured monthly 
+
+• Method used to calculate the delivered hemodialysis dose 
+
+• Adequacy of the delivered hemodialysis treatment 
+
+• Peritoneal dialysis total solute clearance is measured regularly 
+
+• Peritoneal dialysis dose and total solute clearances are measured in a standard way 
+
+• Adequacy of the delivered peritoneal dialysis dose 
+
+• Number of hemodialysis patients with an arterial venous fistula  
+
+
+
+continued 
+ 
+• Number of hemodialysis patients with a catheter 
+
+• Monitoring arterial venous grafts for stenosis 
+
+• Target hemoglobin for patients on Epoetin therapy 
+
+• Assessment of iron stores 
+
+• Maintenance of iron stores 
+
+• Administration of supplemental iron   
+
+
+
+ 
+ 
+ESRD Measures Reported on Dialysis Facility Compare 
+ 
+ 
+ 
+ 
+  
+  
+Also in response to the Balanced Budget Act of 1997, CMS contracted with PRO-West (now known as Qualis Health), to recommend dialysis facility-specific measures that could be provided to the public for consumer choice and information purposes.  A Consumer Workgroup, with input from a larger group of ESRD stakeholders, helped the contractor identify three quality measures for public reporting based on their importance in conveying how well patients are receiving quality care in a dialysis facility: 
+ 
+1. The percent of Medicare hemodialysis patients treated in the facility that received adequate dialysis treatments. 
+
+2. The percent of Medicare patients treated in the facility whose anemia was adequately managed. 
+
+3. Patient survival categories are reported as expected, better than expected, and worse than expected.   
+
+
+
+Medicare administrative data are the source for the three dialysis facility-specific quality measures reported on DFC.  These three measures are updated annually on DFC, using one year of data for the adequacy and anemia measure and four years of data for the patient survival measure. 
+ 
+ 
+ 
+In-Center Hemodialysis CAHPS – Patient Perspective on Care Measures 
+  
+  
+CMS, in partnership with the AHRQ, is developing a CAHPS® patient experience of care survey for ESRD patients, focusing on hemodialysis patients in chronic renal dialysis centers or facilities.  The survey is called In-Center Hemodialysis CAHPS® (ICH CAHPS) and will capture data on patients’ perspectives on care provided by doctors and dialysis center staff and about the dialysis center.  ICH CAHPS® will allow consumers and patients to make “apples to apples” comparisons among dialysis facilities. In addition, this information will allow dialysis facilities to benchmark their performance at local, regional and national levels, provide information for internal quality improvement, and assist CMS in monitoring dialysis facility performance.   
+ 
+CMS will be pilot testing the ICH CAHPS® in early 2005, following receipt of OMB approval. A Spanish version of the survey will also be developed. Internal CMS discussions are ongoing regarding how to implement this survey nationally so that survey findings, when available, can be used for facility quality improvement activities and public reporting on DFC.  
+ 
+ 
+
+
+ 
+

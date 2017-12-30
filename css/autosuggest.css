@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+#suggestedwordMenu {
+	border: 1px solid #999999;
+	background-color:#FFFFFF;
+	cursor: select;
+	padding: 0px;
+	position: relative;
+	left:160px;
+	width:400px;
+	text-align:left;
+}
+#suggestedwordMenu table {
+	margin: 0px;
+}
+#suggestedwordMenuSample {
+	position: relative;
+}
+.hover {
+	background-color: #CCCCCC;
+}

@@ -1,0 +1,67 @@
+Summary of Evidence Regarding Hemoglobin (HGB) Targets 
+Submitted to CMS by Arbor Research  
+for Contract No. HHSM-500-2005-00031I, Task Order No. 0001 
+May 5, 2008 
+
+This document summarizes recent evidence regarding patient mortality and HGB target ranges. 
+Upper limit 
+Observational studies analyzed at the patient level found progressively lower mortality among patients with higher HGB levels, up to HGB=13.  However, this type of analysis is especially susceptible to bias from the “Healthy patient effect” due to the fact that, on average, healthier patients both tend to achieve higher HGB levels and to have lower mortality.  Lacking other data, KDOQI guidelines prior to 2007 had been forced to rely in part on patient-based analyses of observational studies. KDOQI guidelines recommended an upper target of 12 g/dL in the 2000 update and had no clear upper target in the 2006 update.   
+Randomized clinical trials suggest higher mortality if the HGB target is above 12 or 13 g/dl in special populations with compromised kidney function (see the reports of the FDA(1) and KDOQI(2) committees for summaries of these studies). None of these studies has been carried out in the general ESRD population. 
+Based on the recent randomized trials, the FDA issued a boxed warning in 2007 for ESA treatment to avoid HGB>12.  Also in 2007, a KDOQI update set an upper HGB limit of 12 g/dL. 
+Analyses of practice patterns(5) at facilities (Wolfe et al) found that mortality was higher at those dialysis facilities that had more patients with HGB > 12.  In addition, when analyzing facilities as their own controls during 2002-2005, those that shifted more patients to HGB> 12 had increasing mortality and facilities that shifted more patients to HGB< 10.5 had increasing mortality during the same time. 
+NQF(3) did not endorse a measure related to an upper limit for HGB. 
+
+Lower limit 
+Randomized trials are unlikely to provide evidence about a HGB target below HGB=10, because such studies might be considered unethical.  In an initial warning, the FDA recommended the use of ESA treatment with a goal of managing HGB levels in order to avoid transfusions.  The current FDA(1) recommendation is to maintain HGB levels above 10. 
+The NQF(3) endorsed a measure indicating that HGB less than 10 should be avoided in all ESRD patients. 
+KDOQI(2) guidelines, including the 2007 update (CPR 2.1.2), recommended that target HGB levels should be in the range of 11 g/dL to 12 g/dL in ESA-treated CKD dialysis (i.e., stage 5 CKD is ESRD) and non-dialysis patients. 
+Analyses of practice patterns(5) at facilities found higher mortality at those facilities having more patients with HGB less than 11 and at facilities that shifted more patients to HGB less than 10.5.  Although these analyses are somewhat less prone to “healthy patient” bias than are patient-based analyses, they are still plausibly prone to some level of “resistant patient” bias.  That is, some facilities may have more ESA-resistant patients due to differences in patient mix, rather than due to differences in treatment practices.  Even practice-based analyses would be biased by such differences in patient mix, although likely less so than patient-level analyses. 
+Other studies, not specific to identifying an upper and lower limit: 
+Analysis of CMS data(4) between 1997-2005 found that facilities having more patients with HGB>11 had lower mortality.  Also, facilities that shifted more patients to HGB > 11 had greater reductions in mortality during the same time interval.   
+Current practice shows that 61% of patients have HGB in an interval +-1 around the median of 
+11.9 g/dL and that 36% of patients are in an interval of +-0.5 around the median (see table below). 
+
+Conclusion 
+Substantial evidence, including randomized trials and practice-based analyses, supports the contention that mortality is elevated when HGB is above 12.  Observational studies based on patient-level analyses showed reduced mortality for HGB as high as 13, but these studies are prone to bias from the “healthy patient effect,” and their findings require interpretation.   
+Substantial evidence from practice-based analyses supports the contention that mortality is elevated when HGB<10.5. These analyses cannot differentiate with confidence between a lower bound of 10 or 11. These studies are plausibly less prone to the “healthy patient effect” than are patient-based analyses, which found elevated mortality among all patients with HGB less than 
+13. The results from practice-based analyses are consistent with the two lower bounds suggested by 1) the FDA (lower bound=10) and 2) the KDOQI guidelines (lower bound=11).  The available evidence indicates that mortality is elevated for HGB levels below 10 to 11, but the evidence is ambiguous about the precise value in that range at which mortality becomes elevated.  Considerations in choosing a lower limit might include the relative elevation in excess mortality associated with deviations below a lower limit and deviations above the upper limit of 12.  Practice-based analyses of observational data found a greater elevated risk associated with HGB levels less than 10 than with HGB levels greater than 12.  However, even the practice-based analyses may be subject to bias from the “resistant patient effect”. 
+With the recent FDA warning and changes in KDOQI guidelines and CPM measures, anemia practices are very likely to change in the coming year.  Arbor Research recommends strongly that corresponding changes in the relationship of ESA and HGB with patient mortality should be evaluated as soon as possible in order to allow review of these guidelines based on analysis of CMS claims data.   
+A preliminary analysis of 2007 Medicare claims shows that HGB has recently shifted towards lower levels. 
+
+Hemoglobin practices by year (based on Medicare claims data), 2005-2007* 
+Measure  Year  
+2007 (Sep-Nov)  2007 (Jan-Aug)  2006  2005  
+% patients with HGB <10 g/dL  7.4  7.2  7.1  7.1  
+% patients with HGB 10-11 g/dL  14.8  13.9  13.3  13.3  
+% patients with HGB 11-12 g/dL  35.0  32.8  32.3  32.3  
+% patients with HGB 12+ g/dL  42.9  46.1  47.3  47.3  
+
+*December 2007 data is incomplete; among ESA-treated patients with ESRD for 90+ days 
+
+References 
+1.
+ FDA Reference Source: FDA Alert: Information for Healthcare Professionals-Erythropoiesis Stimulating Agents (ESA) [Aranesp (darbepoetin), Epogen (epoetin alfa), and Procrit (epoetin alfa)] (accessed at http://www.fda.gov/cder/drug/InfoSheets/HCP/RHE200711HCP.htm on May 1, 2008) Filenames : FDA_Information for Healthcare Professionals ESA.mht (alert on  FDA website), fda_aranesp_label.pdf & fda_epogen_label.pdf (label warnings) 
+
+2.
+ KDOQI Reference Source: KDOQI. KDOQI Clinical Practice Guideline and Clinical Practice Recommendations for anemia in chronic kidney disease: 2007 update of hemoglobin target. Am J Kidney Dis. 2007 Sep;50(3):471-530. Filename: KDOQI_Anemia_Guideline_Update_Sept_2007_AJKD.pdf 
+
+3.
+ NQF Reference Source: ESRD Measures for Second Round of Voting memo to NQF Members (accessed at http://www.qualityforum.org/pdf/projects/esrd/esrdmemoappendixa.pdf on May 1, 2008) Filename: ESRDmemo_2nd_vote.pdf 
+
+4.
+ Wolfe et al  
+Reference Source: Wolfe RA, Hulbert-Shearon TE, Ashby VB, Mahadevan S, Port FK. 
+Improvements in Dialysis Patient Mortality are Associated with Improvements in Urea 
+Reduction Ratio and Hematocrit, 1999-2002. Am J Kidney Dis Vol 45(1): 127–135, 2005. 
+Filename: Available to subscribers on-line from AJKD (accessed at http://www.ajkd.org/) 
+
+
+5.
+ Wolfe et al., Practice Based Analysis of CMS Anemia Data 
+
+
+Reference Source: Mortality and Hemoglobin (Hgb): An Analysis of Medicare Data 2002 – 2005 Presented at FDA session, Sept. 11, 2007. Washington, D.C. 
+http://www.fda.gov/ohrms/dockets/ac/07/slides/2007-4315s1-00-index.htm 
+Filename: Practice_Based_Analysis_of_CMS_Anemia_by_Arbor_Research.pdf  
+
+

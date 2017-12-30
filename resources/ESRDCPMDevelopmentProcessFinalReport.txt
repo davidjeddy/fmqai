@@ -1,0 +1,534 @@
+
+ESRD Special Project 
+
+Developing Clinical PerformanceMeasures For The Care Of Patients With End Stage Renal Disease 
+Deliverable #6 ESRD Special Project 
+Final ReportApril 1, 1998–January 31, 1999 
+Submitted to: 
+
+Mary Beth Ribar Nancy Tollison, Project Officer 
+Acute & Chronic Disease Health Care Financing Administration 
+
+Management Division Region X 
+QMHAG, OCSQ 2201 6th Avenue, MS/RX-42 
+Health Care Financing Administration Seattle, WA 98121 
+7500 Security Boulevard, S3-02-01 
+Baltimore, MD 21244 
+
+
+Submitted by: 
+
+Jonathan Sugarman, MD, MPH, Project Director 
+Colleen Olson, MA, Project Coordinator 
+PRO-West, A Professional Review Organization 
+10700 Meridian Avenue North, Suite 100 
+Seattle, WA 98133 
+
+
+This Final Report is intended to provide a synopsis of the activities and accomplishments completed by PRO-West between April 1, 1998 and January 31, 1999 in association with the Health Care Financing Administration (HCFA)­funded “ESRD Special Project: Developing Clinical Performance Measures for the Care of Patients with End-Stage Renal Disease.” Further supporting detail is provided in a series of nine progress reports and six project deliverables (including over one thousand pages in three volumes) previously submitted to HCFA throughout the course of the project. Throughout the process, various recommendations and technical specifications have evolved.  The information in this report represents PRO-West’s final set of recommendations and specifications associated with Phase I of this project. PRO-West understands that these recommendations to HCFA are advisory, and that HCFA may direct changes to the recommended technical specifications and instruments as the proposed data collection activity is implemented. 
+Contents 
+Executive Summary...........................................................................................................1 
+Step 1: Prioritization of the NKF-DOQI Guidelines .....................................................2 
+Step 2: Development of Clinical Performance Measures..............................................2 
+Step 3: Development of Sampling and Data Specifications ..........................................2 
+Step 4: Development of Data Collection and Analysis Strategies to be used 
+
+ to Implement a National Performance Measurement System.......................................3 
+
+Description of Project Activities.......................................................................................5 
+Background....................................................................................................................5 
+Scope of Work ...............................................................................................................5 
+Establishment of Collaborative Relationships with the Renal Community ..................5 
+Prioritization of the NKF-DOQI Clinical Practice Guidelines......................................7 
+Development of Sampling and Data Specifications ......................................................8 
+Development of the Plan for Data Collection, Processing, and an Analysis Strategy 29 
+Data Collection Instruments ..................................................................................29 
+Plan for Data Collection, Processing, and Analysis Strategy................................30 
+
+Selected Observations, Caveats, and Limitations of the Project ....................................................................................................................34 
+TOC 
+
+
+
+
+Executive Summary 
+
+Under Section 4558(b) of the Balanced Budget Act (BBA), the Health Care Financing Administration (HCFA) is required to develop a method to measure and report the quality of renal dialysis services covered by Medicare. In order to meet this objective, HCFA chose to focus its efforts on areas of care addressed in the National Kidney Foundation’s Dialysis Outcomes Quality Initiative (NKF-DOQI) clinical practice guidelines. To assist in developing a measurement strategy to meet its requirements under the BBA, HCFA contracted with PRO-West to develop clinical performance measures (CPMs) based on selected NKF-DOQI guidelines. PRO-West, a private non-profit health care quality improvement organization, joined with California Medical Review, Inc. (CMRI) and the Colorado Foundation for Medical Care (CFMC) to implement the project. In addition, PRO-West contracted with two firms -- Epidemiology for Action and Covance Health Economics and Outcomes Services, Inc. -- to consult on selected aspects of the project. 
+Due to timelines included in the BBA, HCFA required that the project activities be completed on an accelerated timetable.  Despite the aggressive timetables for a project of this magnitude -- less than nine months to convene workgroups, prioritize and select guidelines, develop CPMs, prepare and field-test data collection instruments, and prepare a data collection and analysis plan -- the project deliverables were provided to HCFA according to the required timelines. 
+Date of Contract Award   April 1, 1998  
+Prioritization of NKF­DOQI Clinical Practice Guidelines Completed  July 30, 1998  
+Development of Sampling and Data Specifications Completed  December 1, 1998  
+Data Collection, Processing and Analysis Strategy Plan Completed  December 31, 1998  
+
+A key requirement of the project was to involve a broad cross-section of stakeholders from the renal community in a meaningful manner. In order to facilitate this involvement, participation was solicited through contacts with professional and voluntary associations, presentations at national meetings, and invitations to individuals identified through a variety of sources. Ten renal organizations designated a member to serve on the Rapid Response Group, a committee established to offer advice and feedback on behalf of their organizations at various stages of the project. In addition, expert workgroups were convened to address each of the four topic areas covered by the NKF-DOQI guidelines -- Hemodialysis Adequacy, Peritoneal Dialysis Adequacy, Vascular Access, and Anemia Management. The workgroups, which included nephrologists, nurses, administrators, ESRD Network and dialysis facility personnel, methodologists, and others, conducted their activities through in-person meetings, teleconferences, and electronic communications. 
+The four key components of the project activity were: 
+•
+ Prioritization of the NKF-DOQI guidelines based on the strength of the evidence supporting the guidelines, the feasibility of developing performance measures, and the significance of the areas addressed to the quality of care delivered to the population of patients on dialysis. 
+
+•
+ Development of performance measures for a limited set of guidelines that will facilitate quality improvement activities and that, in aggregate, will assist HCFA in assessing the quality of dialysis care delivered to Medicare beneficiaries. 
+
+• 
+Development of sampling and data specifications to facilitate measurement. 
+
+• 
+Development of data collection and analysis strategies to be used to implement a national performance measurement system. 
+
+
+
+Step 1: Prioritization of the NKF­DOQI Guidelines 
+A questionnaire to facilitate prioritization of the NKF-DOQI guidelines with regard to their suitability for CPM development was completed by over 200 stakeholders representing a broad cross-section of the renal community from across the nation. The responses were reviewed by each workgroup, and 36 of the 114 numbered NKF­DOQI clinical practice guidelines were identified as appropriate candidates for conversion to CPMs. 
+Step 2: Development of Clinical Performance Measures 
+The four workgroups were convened to develop the specific review criteria, algorithms and clinical performance measures (CPMs) for the NKF-DOQI clinical practice guidelines selected through the prioritization process. Sixteen performance measures were developed based on 22 of the 36 selected clinical practice guidelines. The CPM development process was a modification of a methodology described by the Agency for Health Care Policy and Research.  
+The 16 CPMs developed address the following topics: 
+Hemodialysis Adequacy: 
+Hemodialysis Adequacy I  Monthly Measurement of Delivered Hemodialysis Dose  
+Hemodialysis Adequacy II  Method of Measurement of Delivered Hemodialysis Dose  
+Hemodialysis Adequacy III  Minimum Delivered Hemodialysis Dose  
+Hemodialysis Adequacy IV  Method of Post-Dialysis Blood Urea Nitrogen (BUN) Sampling  
+Hemodialysis Adequacy V  Baseline Total Cell Volume Measurement of Dialyzers Intended for Reuse  
+
+
+Peritoneal Dialysis Adequacy: 
+Peritoneal Dialysis Adequacy I  Measurement of Total Solute Clearance at Regular Intervals  
+Peritoneal Dialysis Adequacy II  Calculate Weekly Kt/Vurea and Creatinine Clearance in a Standard Way  
+Peritoneal Dialysis Adequacy III  Delivered Dose of Peritoneal Dialysis  
+
+
+Vascular Access: 
+Vascular Access I  Maximizing Placement  
+of Arterial Venous  
+Fistulae (AVF)  
+Vascular Access II  Minimizing Use of  
+Catheters as Chronic  
+Dialysis Access  
+Vascular Access III  Preferred/Non-Preferred Location of  
+Hemodialysis Catheters Located above the  
+Waist  
+Vascular Access IV  Monitoring Arterial  
+Venous Grafts for  
+Stenosis  
+
+
+Anemia Management: 
+Anemia Management I  Target Hematocrit for Epoetin Therapy  
+Anemia Management IIa  Assessment of Iron Stores among Anemic Patients or Patients Prescribed Epoetin  
+Anemia Management IIb  Maintenance of Iron Stores-Target  
+Anemia Management III  Administration of Supplemental Iron  
+
+Step 3: Development of Sampling and Data Specifications 
+As the project progressed, HCFA provided guidance that the data collection effort should be similar in magnitude and design to that used in the ESRD Health Care Quality Improvement Program Core Indicators Project. This guidance strongly influenced the design of the proposed sampling and data collection strategies. 
+The proposed sample size is similar in magnitude to that previously used for the ESRD Core Indicators Project. The hemodialysis sample size is adequate to develop Network-specific estimates for the Hemodialysis Adequacy and Anemia Management CPMs, and most of the Vascular Access CPMs. The peritoneal dialysis sample will yield national estimates for the Peritoneal Dialysis Adequacy and Anemia Management CPMs. Data from several Networks will need to be aggregated to obtain stable estimates for the Vascular Access CPMs that focus on incident (as opposed to prevalent) dialysis patients. 
+Explicit numerator and denominator specifications, medical review criteria, description of data sources, and exclusion criteria were developed for each CPM. 
+Step 4: Development of Data Collection and Analysis Strategies to be used to Implement a National Performance Measurement System 
+The proposed data collection strategy closely mirrors that used for the ESRD Core Indicators Project. As in the ESRD Core Indicators Project, data collection instruments will be sent by ESRD Networks to dialysis facilities selected in the random sample, and the instruments will be completed at the facility. Completed instruments will be sent to the Network office, where data entry will occur. A random sample of records will be reviewed by Network staff to assess the reliability of data abstraction. 
+Three data collection instruments were developed. The first instrument collects data for the Hemodialysis Adequacy, Anemia Management, and Vascular Access CPMs from hemodialysis patient records. The second is used to collect adequacy and anemia management data for peritoneal dialysis patients. The third instrument collects information about facility policies, procedures, and practices related to the Hemodialysis Adequacy CPMs. The medical record data collection instruments were pilot-tested in dialysis facilities across the United States. In total, 90 data collection instruments, including 52 hemodialysis and 38 peritoneal dialysis instruments, were completed by 25 facilities. 
+During the course of the project, a number of important issues emerged that must be considered in relation to the proposed CPMs and data collection strategy.  
+Among the key issues are the following:  
+• 
+The CPMs were derived primarily for the purpose of population-based quality improvement rather than as tools to evaluate care of specific patients, or for use as standards for quality assurance. During the course of the project, considerable concern was expressed by many participants that, if inappropriately used (particularly by regulators), the CPMs could potentially have a deleterious effect on the care of dialysis patients. 
+
+• 
+Although the data collection burden for the proposed project is similar in magnitude to that previously used for the ESRD Core Indicators Project, the data collection burden would increase enormously if the data collection instruments were completed for the universe of patients and facilities. While information management systems currently under consideration would substantially diminish the need for medical record abstraction for each case, further attention should be directed to the implications of extending the data collection effort beyond the current proposed sampling methodology. 
+
+•
+ The recommendations enclosed in this report do not include CPMs specific to pediatric ESRD patients. Although the focus of this “first round” selection and development of clinical performance measures did not include pediatric-specific measures, there is a clear need to 
+
+
+
+address CPMs for the pediatric ESRD population. 
+• The extremely compressed timeline for this project -- less than nine months to convene workgroups, prioritize and select guidelines, develop CPMs, prepare and field test data collection instruments, and prepare a data collection and analysis plan -- precluded the opportunity to have several rounds of stakeholder input for each phase of the project. In order to meet contract deliverables, PRO-West synthesized and analyzed thousands of comments and recommendations, many of which directly contradicted each other. Therefore, it is likely that the products of the project will require further refinement due to limitations that will become clear only after the national implementation of the pilot test. We are aware that some members of the workgroups and the Rapid Response Group would have preferred a substantially higher level of review and “approval” of work outputs at various stages of the project. However, PRO-West, rather than the workgroup members or other stakeholders, was solely accountable to HCFA to provide the required deliverables for the project and retained responsibility for conveying its recommendations to HCFA according to the required timeline. While we strove to achieve consensus on the development of the CPMs and related instruments, there was certainly not unanimity among all participants from the renal community that each component of the project resulted in an ideal product. Overall, however, the results of frequent written evaluations along with other feedback at various phases of the project indicate that most key stakeholders were pleased with the implementation of the project.  
+
+Despite the limitations mentioned above, and others summarized in the main report, we are confident that the proposed CPMs based on the NKF DOQI guidelines have the potential to serve as important tools in the efforts of the renal community to improve dialysis care in the United States. In order to facilitate this process, several presentations have been scheduled to describe the CPMs to important audiences within the renal community. 
+
+
+Description ofProject Activities 
+Background 
+Under Section 4558(b) of the Balanced Budget Act (BBA), the Health Care Financing Administration (HCFA) is required to develop a method to measure and report the quality of renal dialysis services covered by Medicare. In order to meet this objective, HCFA chose to focus its efforts on areas of care addressed in the National Kidney Foundation’s Dialysis Outcomes Quality Initiative (NKF-DOQI) clinical practice guidelines. To assist in developing a measurement strategy to meet its requirements under the BBA, HCFA contracted with PRO-West to develop clinical performance measures (CPMs) based on selected NKF-DOQI guidelines. PRO-West, a private, non-profit health care quality improvement organization joined with California Medical Review, Inc. (CMRI) and the Colorado Foundation for Medical Care (CFMC) to implement the project. In addition, PRO-West contracted with two firms -- Epidemiology for Action and Covance Health Economics and Outcomes and Services, Inc. -- to consult on selected aspects of the project. 
+
+Scope of Work 
+The key components of the project included: 
+• 	
+Prioritization of the NKF-DOQI guidelines based on the strength of the evidence supporting the guidelines, the feasibility of developing performance measures, and the significance of the areas addressed to the quality of care delivered to the population of patients on dialysis. 
+
+• 	
+Development of performance measures for a limited set of guidelines that will facilitate quality improvement activities and that, in aggregate, will assist HCFA in assessing the quality of dialysis care delivered to Medicare beneficiaries. 
+
+• 	
+Development of sampling and data 
+
+
+specifications to facilitate measurement. 
+• 	Development of data collection and analysis strategies to be used to implement a national performance measurement system. 
+
+
+Establishment of Collaborative Relationships with the Renal Community 
+The internal project team (see Appendix A) was committed to close collaboration with the renal community and to seeking input and collaboration from a broad cross-section of stakeholders in the process. In order to facilitate this involvement, participation was solicited through contacts with professional and voluntary associations, presentations at national meetings, and invitations to individuals identified through a variety of sources. 
+• 	
+In April 1998, several members of the renal community attended an informational meeting about the ESRD Special Project in Baltimore, Maryland. Meeting participants suggested that an advisory group be convened to provide quick feedback to PRO-West regarding various aspects of the ESRD Special Project. Following the meeting, Allen Nissenson, MD, offered to coordinate a Rapid Response Group (RRG), composed of representatives designated by key organizations in the renal community, to facilitate timely communication and act as a liaison between PRO-West and the renal community. Ten key organizations were invited to participate in the RRG, and positive responses were received from all organizations invited to designate a representative 
+
+• 	
+In May 1998, a letter inviting participation in the ESRD Special Project was mailed to over 125 stakeholders in the renal community, including ESRD Network personnel, renal organizations, and individuals recommended by HCFA, the Forum of ESRD Networks, and other representatives of the renal community. Recipients were urged to extend 
+
+
+
+additional invitations to others interested in participating. Recipients were asked to indicate their interest in participating in various components of the project, including the prioritization of the NKF­DOQI clinical practice guidelines and membership on an expert workgroup. 
+• 	In June 1998, four expert workgroups were convened to address each of the topic areas covered by the NKF-DOQI guidelines -- Hemodialysis Adequacy, Peritoneal Dialysis Adequacy, Vascular Access, and Anemia Management. Lists of potential workgroup members were developed based on the following: responses received to the letter inviting participation in the project, recommendations by members of the renal community and HCFA, and responses to the booth at the American Nephrology Nurses’ Association’s (ANNA’s) Annual Symposium. The four workgroups, which included nephrologists, nurses, administrators, ESRD Network and dialysis facility personnel, methodologists, and others, conducted their activities through in-person meetings, teleconferences, and electronic communications. 
+
+Throughout the ESRD Special Project, the internal project team disseminated information regarding project activities to the renal community.  
+• 	
+A summary of PRO-West’s contract with HCFA for the ESRD Special Project was developed by the PRO-West Communications Department. Copies were distributed to members of the renal community at the informational meeting in April 1998; ANNA’s Annual Symposium in May 1998; and the “Strategies for Influencing Outcomes in Pre-ESRD and ESRD Patients” conference, and the Forum of ESRD Networks Board of Directors meeting, both in June 1998. 
+
+• 	
+In July 1998, the PRO-West Communications Department developed 
+
+
+and distributed a press release providing background information on the ESRD Special Project. In October 1998, 
+Contemporary Dialysis and Nephrology 
+published an article on the project based on this press release and interviews with Jonathan Sugarman, MD, MPH, and Colleen Olson, MA. 
+• 	
+PRO-West maintained contact with the ESRD Network 16 staff throughout the project. Network personnel assisted in efforts to locate a patient interested in participating on the Peritoneal Dialysis Adequacy Workgroup, supported inquiries to locate additional support staff for the Seattle workgroup meeting, and assisted with the identification of several ESRD facilities in Network 16 interested in participating in preliminary field-testing of the data collection instruments.  
+
+• 	
+CFMC maintained contact with the ESRD Network 15 staff throughout the project. Network personnel nominated potential workgroup members, offered comments on other potential workgroup members from their region, assisted in efforts to locate a patient interested in participating on the Peritoneal Dialysis Adequacy Workgroup, and made arrangements for several ESRD facilities in Network 15 to participate in preliminary field-testing of the data collection instruments. 
+
+• 	
+PRO-West and CFMC maintained contact with the HCFA Regional Office staff throughout the project. Malvin White, Project Officer, HCFA Region X, attended both workgroup meetings and offered a welcome address at the Seattle workgroup meeting in July 1998. 
+
+
+
+PRO-West prepared this final report for HCFA in order to summarize the project results and describe issues that need to be addressed in the future. A summary of this report will be provided to interested parties throughout the renal community. 
+
+Prioritization of the NKF-DOQI Clinical Practice Guidelines 
+
+Between April and June 1998, the internal project team developed a questionnaire that facilitated ranking of the NKF-DOQI clinical practice guidelines based on the strength of the evidence supporting the guidelines, the feasibility of developing performance measures, and the significance of the areas addressed to the quality of care delivered to the population of patients on dialysis. The internal project team identified a broad-based list of organizations and individuals to whom a prioritization questionnaire was circulated. 
+• 	
+In April 1998, PRO-West requested and received the National Kidney Foundation’s permission to reproduce the NKF-DOQI clinical practice guidelines for purposes related to the ESRD Special Project. 
+
+• 	
+In April 1998, the Forum of ESRD Networks (Forum) provided to PRO-West a copy of the prioritization questionnaire developed by the Forum, the Renal Physicians Association (RPA), and the American Society of Nephrology (ASN). The format of the Forum/RPA/ASN prioritization questionnaire was adapted for development of the ESRD Special Project prioritization questionnaire. 
+
+• 	
+In May 1998, the internal project team developed a questionnaire to identify NKF-DOQI guidelines which could be eliminated, or culled, as potential candidates for CPM development.  This “culling tool” was distributed to members of the Rapid Response Group (RRG) and other consultants within the renal community. Respondents were asked to evaluate the suitability of the NKF-DOQI clinical practice guidelines according to their clinical importance, feasibility of measurement, and strength of the evidence. The culling tool assisted with the identification of NKF-DOQI clinical practice guidelines with a high proportion of respondents recommending consideration as candidates for clinical performance measure development. The 
+
+
+responses to the culling tool received from the RRG and other renal community consultants were analyzed, and the results were incorporated into the development of a preliminary prioritization questionnaire. 
+• 	
+From May 31 through June 2, 1998, Colleen Olson, MA, and Katrina Russell, RN, CNN, staffed an exhibit booth at ANNA’s Annual Symposium in San Antonio, Texas. Approximately 150 preliminary prioritization questionnaires were distributed to nephrology nurses and nephrology technicians in attendance. 
+
+• 	
+In June 1998, results from the culling tool and preliminary prioritization questionnaire were collated, and the NKF-DOQI clinical practice guidelines with a high proportion of respondents recommending consideration were included in the final prioritization questionnaire. Those with a high proportion of respondents recommending against consideration were placed in an appendix to the final prioritization questionnaire. Where significant controversy existed, the guidelines were either included in the final questionnaire, or the RRG and other consultants were approached to assist in reconciliation of responses. 
+
+• 	
+In June 1998, the Forum’s Board of Directors agreed to support the ESRD Special Project and encourage participation by ESRD Network Executive Directors, Medical Review Board (MRB) members, and Boards of Directors. The Forum Administrator, Denise Daly, contacted Network Executive Directors to invite their assistance in disseminating the final prioritization questionnaire to MRB and Board of Directors members. Eleven Executive Directors representing twelve Networks requested approximately 400 copies of the final prioritization questionnaire for distribution to key individuals in their Networks. 
+
+
+
+• 	
+In June 1998, the final prioritization questionnaire was distributed at the “Strategies for Influencing Outcomes in Pre-ESRD and ESRD Patients” conference in Washington, DC. The conference, which had over 600 attendees, included an evening informational meeting to describe the ESRD Special Project and solicit input from meeting attendees. Approximately 100 prioritization questionnaires were distributed to conference participants. 
+
+• 	
+In June 1998, the final prioritization questionnaire was mailed to approximately 200 renal community members who had previously expressed an interest in participating in the prioritization of the NKF-DOQI clinical practice guidelines. 
+
+
+
+In total, over 800 prioritization questionnaires were distributed to members of the renal community, and 212 responses were received. In June and July of 1998, the internal project team collated the results of the prioritization questionnaire. Data entry screens were developed to facilitate the collation and analysis of the responses, and all responses were entered in July 1998. 
+The internal project team convened the four expert workgroups to review the prioritization questionnaire results. The first workgroup meeting, which was dedicated to prioritization of the NKF-DOQI clinical practice guidelines, was conducted in July 1998 in Seattle, Washington. All workgroup participants attended an orientation session which introduced the project in detail, described the tasks of the workgroups, and provided direction for the prioritization process. The workgroups then met individually to review the responses to the prioritization questionnaire and to prioritize the NKF-DOQI guidelines. At the close of the meeting, each workgroup submitted a completed prioritization list to the internal project team. 
+At the end of July 1998, draft prioritization lists from each workgroup were circulated to workgroup members and to members of the RRG for review and comment. Allen Nissenson, MD, conducted a teleconference to solicit feedback from the RRG. The comments of the RRG were submitted to PRO-West and to the workgroup facilitators for consideration in making the final selections of NKF-DOQI guidelines to be developed into clinical performance measures. 
+On July 30, 1998, a list of 36 of the 114 numbered NKF-DOQI clinical practice guidelines identified by the workgroups and the internal project team as candidates for clinical performance measure development was submitted to HCFA. 
+
+Development of Sampling and Data Specifications 
+The second workgroup meeting, which began the development of clinical performance measures (CPMs) from those NKF-DOQI clinical practice guidelines selected at the previous workgroup meeting, was conducted in Denver, Colorado in August 1998. The four workgroups developed the specific review criteria, algorithms, and CPMs for the NKF-DOQI clinical practice guidelines selected through the prioritization process. The CPM development process was a modification of a methodology described by the Agency for Health Care Policy and Research (Using Clinical Practice Guidelines to Evaluate Quality of Care. Vol. 2. Methods. Rockville, MD: US Department of Health and Human Services, Public Health Service, Agency for Health Care Policy and Research, 1995, AHCPR Publication No. 95­0046). Sixteen CPMs were developed based on 22 of the 36 candidate NKF-DOQI clinical practice guidelines. 
+PRO-West contracted with Covance Health Economics and Outcomes Services, Inc. (Covance), represented by Earl Steinberg, MD, MPP, to provide assistance with the prioritization, CPM development, and measurement aspects of the project. Dr. Steinberg served as Director of Guideline Development for the National Kidney Foundation’s Dialysis Outcomes Quality Initiative Project. Upon their arrival at the Denver workgroup meeting, workgroup members received from Covance a report assessing the strength of the evidence associated with the evidence-based NKF-DOQI guidelines selected by the workgroups as candidates for CPM development (see Appendix F). 
+Following the Denver workgroup meeting, workgroup facilitators prepared tables to map the NKF-DOQI clinical practice guidelines selected for clinical performance measure development to their corresponding CPMs and to provide detailed information about the data specifications for each CPM under development such as numerator, denominator, and medical review criteria. 
+The tables were circulated to the Rapid Response Group (RRG) and to members of all four workgroups for review and comment in October 1998. Responses were tabulated and distributed to workgroup facilitators for discussion with the workgroup members during teleconferences in November 1998.  
+Following the final workgroup teleconference, the internal project team completed the revisions approved by the workgroups and submitted tables describing the proposed CPMs and their data specifications to HCFA on December 1, 1998. 
+For each of the proposed CPMs, the tables on the following pages describe the clinical performance measure name and number, the associated NKF­DOQI clinical practice guideline(s), the strength of evidence underlying the associated NKF-DOQI clinical practice guideline(s), and the data specifications for each CPM, including medical review criteria, numerator, denominator, and data source. Each of these elements is described briefly below: 
+• 	
+Clinical Performance Measure Name and Number—The descriptive name and number assigned to each CPM. 
+
+• 	
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s)—The text of the NKF­DOQI clinical practice guideline(s) associated with each proposed CPM as reproduced from the NKF-DOQI 
+
+
+Executive Summaries (© 1997 National Kidney Foundation, Inc.). 
+• 	
+Evidence Basis—An assessment of the strength of evidence underlying each NKF-DOQI clinical practice guideline or portion thereof from which the CPM is derived, as determined by Covance Health Economics and Outcomes Services, Inc. 
+
+• 	
+Medical Review Criteria—A brief summary of the criteria to be applied retrospectively by abstractors to identify whether a case satisfies the corresponding CPM. 
+
+• 	
+Numerator—A description of the subset of cases in the denominator that meet the medical review criteria for the corresponding CPM. Reporting period dates noted in the numerators refer to the 1999 data collection effort to abstract data from patients’ 1998 medical records, except where specified in Hemodialysis Adequacy CPMs II and II.  These reporting period dates will need to be adjusted in subsequent years as appropriate. 
+
+• 	
+Denominator—A description of the criteria for inclusion and exclusion of a case from the sample for the corresponding CPM. Reporting period dates noted in the numerators refer to the 1999 data collection effort to abstract data from patients’ 1998 medical records.  These reporting period dates will need to be adjusted in subsequent years as appropriate. 
+
+• 	
+Data Source—The source to be consulted to identify cases which satisfy the medical review criteria for inclusion in the denominator and numerator for the corresponding CPM. 
+
+
+
+
+Hemodialysis Adequacy I Hemodialysis Adequacy II Hemodialysis Adequacy III Hemodialysis Adequacy IV Hemodialysis Adequacy V Peritoneal Dialysis Adequacy I Peritoneal Dialysis Adequacy II Peritoneal Dialysis Adequacy II cont’d Peritoneal Dialysis Adequacy III Vascular Access I Vascular Access II Vascular Access III Vascular Access IV Vascular Access IV cont’d Anemia Management I Anemia Management IIa Anemia Management IIa cont’d 
+Clinical Performance Measure Name and Number Hemodialysis Adequacy I: Monthly Measurement of Delivered Hemodialysis Dose  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Hemodialysis Adequacy 1: Regular Measurement of the Delivered Dose of Hemodialysis (Evidence). The dialysis care team should routinely measure and monitor the delivered dose of hemodialysis. Hemodialysis Adequacy 6: Frequency of Measurement of Hemodialysis Adequacy (Opinion). The delivered dose of hemodialysis should be measured at least once a month in all adult and pediatric hemodialysis patients. The frequency of measurement of the delivered dose of hemodialysis should be increased when: 1. Patients are noncompliant with their hemodialysis prescriptions (missed treatments, late for treatments, early sign-off from hemodialysis treatments, etc.). 2. Frequent problems are noted in delivery of the prescribed dose of hemodialysis (such as variably poor blood flows, or treatment interruptions because of hypotension or angina pectoris). 3. Wide variability in urea kinetic modeling results is observed in the absence of prescription changes. 4. The hemodialysis prescription is modified.  
+Evidence Basis Hemodialysis Adequacy 1: Overall Rating of Evidence: Good Highest Methods Review Score: 0.48 Average Methods Review Score: 0.29 Hemodialysis Adequacy 6: Opinion-Based  
+Medical Review Criteria Delivered dose of hemodialysis was measured at least once per month.  
+Numerator Numerator A: Patients in the denominator having three documented measurements of hemodialysis adequacy (urea reduction ratio (URR) and/or Kt/V) during the three-month reporting period (three measurements, one for each month, between October 1, 1998 and December 31, 1998). Numerator B: Patients in the denominator having two documented measurements of hemodialysis adequacy (URR and/or Kt/V) during the three-month reporting period (two measurements, one in each of two months, between October 1, 1998 and December 31, 1998). Numerator C: Patients in the denominator having one documented measurement of hemodialysis adequacy (URR and/or Kt/V) during the three-month reporting period (one measurement between October 1, 1998 and December 31, 1998).  
+Denominator All hemodialysis patients = 18 years of age diagnosed with end-stage renal disease April 1, 1998 or earlier, prescribed in-center hemodialysis three times per week between October 1, 1998 and December 31, 1998, and alive as of December 31, 1998.  
+Data Source Facility dialysis record.  
+
+
+Clinical Performance Measure Name and Number Hemodialysis Adequacy II: Method of Measurement of Delivered Hemodialysis Dose  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Hemodialysis Adequacy 2: Method of Measurement of Delivered Dose of Hemodialysis (Evidence). The delivered dose of hemodialysis in adult and pediatric patients should be measured using formal urea kinetic modeling (UKM), employing the single-pool, variable volume model.  
+Evidence Basis Hemodialysis Adequacy 2:  Overall Rating of Evidence: Good Highest Methods Review Score: 0.44 Average Methods Review Score: 0.28  
+Medical Review Criteria Year One (1998): Delivered hemodialysis dose was calculated using formal urea kinetic modeling (UKM), Daugirdas II, or urea reduction ratio (URR). Year Two (1999 and beyond): Delivered hemodialysis dose was calculated using UKM or Daugirdas II.  
+Numerator Year One (1998): Patients in the denominator for whom each delivered hemodialysis dose was calculated using urea kinetic modeling (UKM), Daugirdas II, or urea reduction ratio (URR). Year Two (1999 and beyond): Patients in the denominator for whom each delivered hemodialysis dose was calculated using UKM or Daugirdas II.  
+Denominator All hemodialysis patients = 18 years of age diagnosed with end-stage renal disease April 1, 1998 or earlier, prescribed in-center hemodialysis three times per week between October 1, 1998 and December 31, 1998, and alive as of December 31, 1998.  
+Data Source Facility dialysis record.  
+
+
+Clinical Performance Measure Name and Number Hemodialysis Adequacy III: Minimum Delivered Hemodialysis Dose  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Hemodialysis Adequacy 4: Minimum Delivered Dose of Hemodialysis (Adults-Evidence, Children-Opinion). The dialysis care team should deliver a Kt/V of at least 1.2 (single-pool, variable volume) for both adult and pediatric hemodialysis patients. For those using the urea reduction ratio (URR), the delivered dose should be equivalent to a Kt/V of 1.2, i.e., an average URR of 65%; however URR can vary substantially as a function of fluid removal.  
+Evidence Basis Hemodialysis Adequacy 4: Overall Rating of Evidence: Good Highest Methods Review Score: 0.48 Average Methods Review Score: 0.29  
+Medical Review Criteria Year One (1998): The average delivered dose of hemodialysis was either Kt/V = 1.2 or urea reduction ratio (URR) = 65%. Year Two (1999 and beyond): The average delivered dose of hemodialysis was Kt/V = 1.2.  
+Numerator Year One (1998): Patients in the denominator whose average delivered dose of hemodialysis was either Kt/V = 1.2 or urea reduction ratio (URR) = 65%. Year Two (1999 and beyond): Patients in the denominator whose average delivered dose of hemodialysis was Kt/V = 1.2. NOTE: The Kt/V and URR values for this measure will be those calculated by the party responsible for data analysis, rather than the values reported by the facilities.  
+Denominator All hemodialysis patients = 18 years of age diagnosed with end-stage renal disease April 1, 1998 or earlier, prescribed in-center hemodialysis three times per week between October 1, 1998 and December 31, 1998, and alive as of December 31, 1998.  
+Data Source Facility dialysis record.  
+
+
+Clinical Performance Measure Name and Number Hemodialysis Adequacy IV: Method of Post-Dialysis Blood Urea Nitrogen (BUN) Sampling  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Hemodialysis Adequacy 8: Acceptable Methods for Blood Urea Nitrogen (BUN) Sampling (Evidence). Blood samples for BUN measurement must be drawn in a particular manner. Pre-dialysis BUN samples should be drawn immediately prior to dialysis, using a technique that avoids dilution of the blood sample with saline or heparin. Post-dialysis BUN samples should be drawn using the Slow Flow/Stop Pump Technique that prevents sample dilution with recirculated blood and minimizes the confounding effects of urea rebound.  
+Evidence Basis Hemodialysis Adequacy 8: Overall Rating of Evidence: Good Highest Methods Review Score: 0.38 Average Methods Review Score: 0.32  
+Medical Review Criteria Post-dialysis blood samples for blood urea nitrogen (BUN) analysis were drawn using the slow-flow/stop­pump technique.  
+Numerator Numerator A: Facilities in the denominator with written policies as of October 1, 1998 requiring post-dialysis blood urea nitrogen (BUN) sampling to be done using the slow-flow/stop-pump technique (20-60 seconds after slowing or stopping blood flow). Numerators B - G: Facilities in the denominator with written policies as of October 1, 1998 requiring post-dialysis BUN sampling to be done: immediately without slowing/stopping blood flow; immediately after slowing/stopping blood flow; 1-2 minutes after slowing/stopping blood flow; between 2 and 15 minutes after slowing/stopping blood flow; 15 minutes or more after slowing/stopping blood flow; or no policy regarding post-dialysis BUN sampling. NOTE: Numerators B - G are optional and supply additional information.  
+Denominator All facilities included in the sample.   
+Data Source Facility-specific data collection questionnaire.  
+
+
+Clinical Performance Measure Name and Number Hemodialysis Adequacy V: Baseline Total Cell Volume Measurement of Dialyzers Intended for Reuse  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Hemodialysis Adequacy 11: Baseline Measurement of Total Cell Volume (Evidence). If a hollow-fiber dialyzer is to be reused, the total cell volume (TCV) of that hemodialyzer should be measured prior to its first use. Batch testing and/or use of an average TCV for a group of hemodialyzers is not an acceptable practice.  
+Evidence Basis Hemodialysis Adequacy 11: Opinion-Based  
+Medical Review Criteria Facilities which reprocess (reuse) dialyzers assessed total cell volume prior to the initial use of every dialyzer intended for reuse.  
+Numerator Numerator A: Facilities in the denominator that, during the three-month reporting period, October 1, 1998 through December 31, 1998, pre-volumed 100% of dialyzers intended for reuse. Numerator B: Facilities in the denominator that, during the three-month reporting period, October 1, 1998 through December 31, 1998, used the manufacturer’s product information to infer total cell volume (TCV). Numerator C: Facilities in the denominator that, during the three-month reporting period, October 1, 1998 through December 31, 1998, did not prevolume any dialyzers intended for reuse. Numerator D: (which may have subsets) Facilities in the denominator that, during the three-month reporting period, October 1, 1998 through December 31, 1998, prevolumed a percentage greater than zero and less than 100 percent of dialyzers intended for reuse. Numerator E: Facilities in the denominator that, during the three-month reporting period, October 1, 1998 through December 31, 1998, inferred TCV for dialyzers intended for reuse by batch testing and/or use of an average TCV for a group of hemodialyzers. NOTE: Numerators B - E are optional and provide additional information.  
+Denominator All facilities in the sample that reuse dialyzers.   
+Data Source Facility-specific data collection questionnaire.  
+
+
+Clinical Performance Measure Name and Number Peritoneal Dialysis Adequacy I: Measurement of Total Solute Clearance at Regular Intervals  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Peritoneal Dialysis Adequacy 4: Measures of Peritoneal Dialysis Dose and Total Solute Clearance (Opinion). Both total weekly creatinine clearance normalized to 1.73 m2 body surface area (BSA) and total weekly Kt/Vurea should be used to measure delivered peritoneal dialysis doses. Peritoneal Dialysis Adequacy 11: Dialysate and Urine Collections (Opinion). Two to three total solute removal measurements are required during the first six months of peritoneal dialysis. (See Guideline 3.) After six months, if the dialysis prescription is unchanged: 1. Perform both complete dialysate and urine collections every four months; and  2. Perform urine collections every two months until the renal weekly Krt/Vurea is <0.1. Thereafter, urine collections are no longer necessary, as the residual renal function contribution to total Kt/Vurea becomes negligible. (See Guideline 5.)  
+Evidence Basis Peritoneal Dialysis Adequacy 4: Opinion-Based Peritoneal Dialysis Adequacy 11: Opinion-Based  
+Medical Review Criteria The total solute clearance for urea and creatinine was measured.  
+Numerator Patients in denominator with total solute clearance for urea and creatinine measured at least once between October 1, 1998 and March 31, 1999.  
+Denominator ESRD patients = 18 years old as of October 1, 1998 on peritoneal dialysis from October 1, 1998 through December 31, 1998, inclusive, and alive on December 31, 1998.  
+Data Source Facility dialysis record.  
+
+
+Clinical Performance Measure Name and Number Peritoneal Dialysis Adequacy II: Calculate Weekly Kt/Vurea and Creatinine Clearance in a Standard Way  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Peritoneal Dialysis Adequacy 4: Measures of Peritoneal Dialysis Dose and Total Solute Clearance (Opinion). Both total weekly creatinine clearance normalized to 1.73 m2 body surface area (BSA) and total weekly Kt/Vurea should be used to measure delivered peritoneal dialysis doses. Peritoneal Dialysis Adequacy 6: Assessing Residual Renal Function (Evidence). Residual renal function (RRF), which can provide a significant component of total solute and water removal, should be assessed by measuring the renal component of Kt/Vurea (Krt/Vurea) and estimating the patient's glomerular filtration rate (GFR) by calculating the mean of urea and creatinine clearance. Peritoneal Dialysis Adequacy 9: Estimating Total Body Water and Body Surface Area (Opinion). V (total body water) should be estimated by either the Watson or Hume method in adults using actual body weight. Watson method: For Men: V (liters) = 2.447 + 0.3362*Wt(kg) + 0.1074*Ht(cm) - 0.09516*Age(years) For Women: V = -2.097 + 0.2466*Wt + 0.1069*Ht Hume method: For Men: V = -14.012934 + 0.296785*Wt + 0.192786*Ht For Women: V = -35.270121 + 0.183809*Wt + 0.344547*Ht BSA should be estimated by either the DuBois and DuBois method, the Gehan and George method, or the Haycock method using actual body weight. For all formulae, Wt is in kg and Ht is in cm: DuBois and DuBois method: BSA (m2) = 71.84*Wt0.425*Ht0.725 Gehan and George method: BSA (m2) = 0.0235*Wt0.51456*Ht0.42246 Haycock method: BSA (m2) = 0.024265*Wt0.5378*Ht0.3964  
+Evidence Basis Peritoneal Dialysis Adequacy 4: Opinion-Based Peritoneal Dialysis Adequacy 6: Overall Rating of Evidence: Good Highest Methods Review Score: Not Available Average Methods Review Score: Not Available Peritoneal Dialysis Adequacy 9: Opinion-Based  
+Medical Review Criteria Weekly Kt/Vurea and creatinine clearance were calculated in a standard way according to DOQI recommendations: a. Weekly creatinine clearance normalized to 1.73 m2 body surface area (BSA) and total weekly Kt/Vurea used to measure delivered peritoneal dialysis dose; AND b. Residual renal function (unless negligible*) is assessed by measuring the renal component of Kt/Vurea (Krt/Vurea) and estimating the patient’s glomerular filtration rate (GFR) by calculating the mean of urea and creatinine clearance; AND c. Total body water (V) estimated by either the Watson or Hume method using actual body weight, and BSA estimated by either the DuBois and DuBois method, the Gehan and George method, or the Haycock method of using actual body weight. *negligible = < 200 cc urine in 24 hours  
+
+
+Numerator Patients in denominator with all of the following: a. Weekly creatinine clearance normalized to 1.73 m2 body surface area (BSA) and total weekly Kt/Vurea used to measure delivered peritoneal dialysis dose; AND b. Residual renal function (unless negligible*) is assessed by measuring the renal component of Kt/Vurea (Krt/Vurea) and estimating the patient’s glomerular filtration rate (GFR) by calculating the mean of urea and creatinine clearance; AND c. Total body water (V) estimated by either the Watson or Hume method using actual body weight, and BSA estimated by either the DuBois and DuBois method, the Gehan and George method, or the Haycock method of using actual body weight. *negligible = < 200 cc urine in 24 hours  
+Denominator ESRD patients = 18 years old as of October 1, 1998 on peritoneal dialysis from October 1, 1998 through December 31, 1998, inclusive, and alive on December 31, 1998.  
+Data Source Facility dialysis record.  
+
+
+Clinical Performance Measure Name and Number Peritoneal Dialysis Adequacy III: Delivered Dose of Peritoneal Dialysis  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Peritoneal Dialysis Adequacy 15: Weekly Dose of CAPD (Evidence). For CAPD, the delivered peritoneal dialysis dose should be a total Kt/Vurea of at least 2.0 per week and a total creatinine clearance (CCr) of at least 60 L/week/1.73 m2 . Peritoneal Dialysis Adequacy 16: Weekly Dose of NIPD and CCPD (Opinion). For NIPD, the weekly delivered peritoneal dialysis dose should be a total Kt/Vurea of at least 2.2 and a weekly total creatinine clearance of at least 66 L/1.73 m2 . For CCPD, the weekly delivered peritoneal dialysis dose should be a total Kt/Vurea of at least 2.1 and a weekly total creatinine clearance of at least 63 L/1.73 m2 .  
+Evidence Basis Peritoneal Dialysis Adequacy 15: Overall Rating of Evidence: Good Highest Methods Review Score: 0.40 Average Methods Review Score: 0.40 Peritoneal Dialysis Adequacy 16: Opinion-Based  
+Medical Review Criteria The Kt/Vurea was at least 2.0 per week or the prescription was changed according to DOQI recommendations: For CAPD, the delivered peritoneal dialysis dose was a total Kt/Vurea of at least 2.0 per week and a total creatinine clearance (CCr) of at least 60 L/week/1.73 m2 . For NIPD, the weekly delivered peritoneal dialysis dose was a total Kt/Vurea of at least 2.2 and a weekly total creatinine clearance of at least 66 L/1.73 m2 . For CCPD, the weekly delivered peritoneal dialysis dose was a total Kt/Vurea of at least 2.1 and a weekly total creatinine clearance of at least 63 L/1.73 m2 .  
+Numerator Patients in denominator with a Kt/Vurea of at least 2.0 per week or evidence that prescription was changed according to DOQI recommendations: For CAPD, the delivered peritoneal dialysis dose was a total Kt/Vurea of at least 2.0 per week and a total creatinine clearance (CCr) of at least 60 L/week/1.73 m2 . For NIPD, the weekly delivered peritoneal dialysis dose was a total Kt/Vurea of at least 2.2 and a weekly total creatinine clearance of at least 66 L/1.73 m2 . For CCPD, the weekly delivered peritoneal dialysis dose was a total Kt/Vurea of at least 2.1 and a weekly total creatinine clearance of at least 63 L/1.73 m2 .  
+Denominator ESRD patients = 18 years old as of October 1, 1998 on peritoneal dialysis from October 1, 1998 through December 31, 1998, inclusive, and alive on December 31, 1998.  
+Data Source Facility dialysis record.  
+
+
+Clinical Performance Measure Name and Number Vascular Access I: Maximizing Placement of Arterial Venous Fistulae (AVF)  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Vascular Access 29A: Goals of Access Placement-Maximizing Primary Arterial Venous Fistulae (Opinion). Primary arterial venous fistulae (AVF) should be constructed in at least 50% of all new patients electing to receive hemodialysis as their initial form of renal replacement therapy. Ultimately, 40% of prevalent patients should have a native AV fistula. (See Guideline 3, Selection of Permanent Vascular Access and Order of Preference of AV Fistulae.)  
+Evidence Basis Vascular Access 29A: Opinion-Based  
+Medical Review Criteria A primary AVF was used in an incident ESRD patient selecting hemodialysis as the maintenance form of renal replacement. An AVF was used in a prevalent ESRD patient on maintenance hemodialysis.  
+Numerator Numerator A: Incident patients in the denominator who were dialyzed using an arterial venous fistula (AVF) during their last hemodialysis treatment on or between October 1, 1998 and December 31, 1998. Numerator B: Prevalent patients in the denominator who were dialyzed using an AVF during their last hemodialysis treatment on or between October 1, 1998 and December 31, 1998.  
+Denominator Denominator A: Incident ESRD patients = 18 years old who initiated their first maintenance course of hemodialysis for end-stage renal disease on or between January 1, 1998 and August 31, 1998, who were alive on December 31, 1998, and who were on hemodialysis continuously between October 1, 1998 and December 31, 1998, inclusive.  Denominator B: Prevalent ESRD patients = 18 years old who were alive on December 31, 1998 and who were on hemodialysis continuously between October 1, 1998 and December 31, 1998, inclusive. Prevalent patients include patients incident between January 1, 1998 and August 31, 1998.  
+Data Source Facility dialysis record.  
+
+
+Clinical Performance Measure Name and Number Vascular Access II: Minimizing Use of Catheters as Chronic Dialysis Access  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Vascular Access 30A: Goals of Access Placement- Use of Catheters for Chronic Dialysis (Opinion). Less than 10% of chronic maintenance hemodialysis patients should be maintained on catheters as their permanent chronic dialysis access. In this context, chronic catheter access is defined as the use of a dialysis catheter for more than three months in the absence of a maturing permanent access.  
+Evidence Basis Vascular Access 30A: Opinion-Based  
+Medical Review Criteria A chronic catheter was used as hemodialysis access continuously for 90 days or longer prior to the last hemodialysis session in an ESRD patient on maintenance hemodialysis. A chronic catheter is defined as one or more catheter(s) used continuously in the patient for 90 days or longer.  
+Numerator Patients in the denominator who were dialyzed with a chronic catheter continuously for 90 days or longer prior to the last hemodialysis session on or between October 1, 1998 and December 31, 1998.  
+Denominator Patients = 18 years old who were alive on December 31, 1998, who were on hemodialysis continuously between October 1, 1998 and December 31, 1998, inclusive, and who received their last hemodialysis session on or between October 1, 1998 and December 31, 1998.  
+Data Source Facility dialysis record.  
+
+
+Clinical Performance Measure Name and Number Vascular Access III: Preferred/Non-Preferred Location of Hemodialysis Catheters Located above the Waist  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Vascular Access 5B: Type and Location of Tunneled Cuffed Catheter Placement (Evidence). The preferred insertion site for tunneled cuffed venous dialysis catheters is the right internal jugular vein. Other options include: the right external jugular vein, the left internal and external jugular veins, subclavian veins, femoral veins, or translumbar access to the inferior vena cava. Subclavian access should be used only when jugular options are not available. Tunneled cuffed catheters should not be placed on the same side as a maturing arterial venous access, if possible. Vascular Access 6D: Acute Hemodialysis Vascular Access-Noncuffed Catheters (Evidence). The subclavian insertion site should not be used in a patient who may need permanent vascular access.  
+Evidence Basis Vascular Access 5B: Overall Rating of Evidence: Good Highest Methods Review Score: 0.38 Average Methods Review Score: 0.35 Vascular Access 6D: Overall Rating of Evidence: Good Highest Methods Review Score: Not Available Average Methods Review Score: 0.00  
+Medical Review Criteria A jugular vein catheter was used as dialysis access at a patient’s last hemodialysis session. A subclavian vein catheter was used as dialysis access at a patient’s last hemodialysis session.  
+Numerator Numerator A: Patients in the denominator who used a jugular vein catheter as dialysis access at their last hemodialysis session on or between October 1, 1998 and December 31, 1998. Numerator B: Patients in the denominator who used a subclavian vein catheter as dialysis access at their last hemodialysis session on or between October 1, 1998 and December 31, 1998.  
+Denominator Patients = 18 years old who were alive on December 31, 1998, who were on hemodialysis continuously between October 1, 1998 and December 31, 1998, inclusive, and who were dialyzed through a catheter during their last hemodialysis treatment on or between October 1, 1998 and December 31, 1998.  
+Data Source Facility dialysis record.  
+
+
+Clinical Performance Measure Name and Number Vascular Access IV: Monitoring Arterial Venous Grafts for Stenosis  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Vascular Access 10: Monitoring Dialysis AV Grafts for Stenosis (Evidence/Opinion). Physical examination of an access graft should be performed weekly and should include, but not be limited to, inspection and palpation for pulse and thrill at the arterial, mid, and venous sections of the graft (Opinion). Dialysis arterial venous graft accesses should be monitored for hemodynamically significant stenosis. The DOQI Work Group recommends an organized monitoring approach with regular assessment of clinical parameters of the arterial venous access and dialysis adequacy. Data from the monitoring tests, clinical assessment, and dialysis adequacy measurements should be collected and maintained for each patient's access and made available to all staff. The data should be tabulated and tracked within each dialysis center as part of a Quality Assurance/ Continuous Quality Improvement (QA/CQI) program (Opinion). Prospective monitoring of arterial venous grafts for hemodynamically significant stenosis, when combined with correction, improves patency and decreases the incidence of thrombosis (Evidence). Techniques, not mutually exclusive, that can be used to monitor for stenosis in arterial venous grafts include:  A. Intra-access flow (Evidence) B. Static venous pressures (Evidence)  C. Dynamic venous pressures (Evidence) Other studies or information that can be useful in detecting arterial venous graft stenosis include: D. Measurement of access recirculation using urea concentrations (See Guideline 12.) (Evidence)  E. Measurement of recirculation using dilution techniques (nonurea-based) (Evidence)  F. Unexplained decreases in the measured amount of hemodialysis delivered (URR, Kt/V) (Evidence)  G. Physical findings of persistent swelling of the arm, clotting of the graft, prolonged bleeding after needle withdrawal, or altered characteristics of pulse or thrill in a graft (Evidence/Opinion) H. Elevated negative arterial pre-pump pressures that prevent increasing to acceptable blood flow (Evidence/Opinion)  I. Doppler ultrasound (Evidence/Opinion)  Persistent abnormalities in any of these parameters should prompt referral for venography (Evidence).  
+Evidence Basis Vascular Access 10: Overall Rating of Evidence: Good (Should you monitor?)/Fair (How should you monitor?) Highest Methods Review Score: 0.42 Average Methods Review Score: 0.28  
+
+
+Medical Review Criteria A patient’s graft was monitored (screened) for the presence of stenosis. Routine monitoring or screening is the sequential measurement of access flow or venous pressure. The appropriate interval between sequential measurements depends on the technique used to monitor for stenosis, and is described below. For the purpose of this review, techniques used to monitor access flow include a) one of the dilution methods in which the needles are reversed and recirculation is deliberately induced, or b) conventional color-flow Doppler. In the former, the dilution indicator may be a change in 1) the velocity of ultrasound in blood, 2) hemoglobin/hematocrit, 3) temperature, 4) solute concentration, or 5) conductivity. Pump blood flow must be accurately measured to use this technique. Techniques used to monitor venous pressure include dynamic and static venous dialysis pressures. Dynamic venous pressure monitoring uses low blood pump flow rates usually set at 200 mL per minute. Static pressure monitoring is performed at zero blood pump flow. If access flow was monitored, it should have been measured on a regular basis by one of the available dilution techniques or by conventional color-flow Doppler at a minimum frequency of once every three months. If dynamic venous pressure was monitored it should have been measured at every hemodialysis session. If static venous pressure was monitored it should have been measured at a minimum frequency of once every two weeks. For the purpose of this review, clinical assessment such as prolonged bleeding after needle withdrawal, or altered characteristics of thrill or bruit, as well as dialysis adequacy measurements using Kt/V or URR, supplement, but do NOT constitute monitoring techniques. For the purpose of this review, recirculation methods do NOT constitute monitoring for the presence of AV graft stenosis.  
+Numerator Patients in the denominator whose AV graft was routinely monitored (screened) for the presence of stenosis on or between October 1, 1998 and December 31, 1998 by one of the following methods and with the stated frequency: Color-flow Doppler at least once every 3 months Static venous pressure at least once every 2 weeks Dynamic venous pressure every HD session Dilution technique at least once every 3 months  
+Denominator Patients = 18 years old who were alive on December 31, 1998, who were on hemodialysis continuously between October 1, 1998 and December 31, 1998, inclusive, and who were dialyzed through an arterial venous graft during their last hemodialysis session occurring on or between October 1, 1998 and December 31, 1998.   
+Data Source Facility dialysis record.  
+
+
+Clinical Performance Measure Name and Number Anemia Management I: Target Hematocrit for Epoetin Therapy  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Anemia Management 4: Target Hematocrit/Hemoglobin for Epoetin Therapy (Evidence/Opinion). The target range for hematocrit/hemoglobin should be 33% (hemoglobin 11 g/dL) to 36% (hemoglobin 12 g/dL) (Evidence). This target is for Epoetin therapy and is not an indication for blood transfusion therapy (Opinion).  
+Evidence Basis Anemia Management 4: Overall Rating of Evidence: Good Highest Methods Review Score: 0.54 Average Methods Review Score: 0.37  
+Medical Review Criteria The mean monthly hematocrit during the surveillance period was 33 to 36%, or hemoglobin was 11-12 g/dL.  
+Numerator Numerator A1: Patients in the denominator with mean hematocrit < 33% (hemoglobin < 11g/dL). Mean hematocrit to be calculated as arithmetic mean of first listed hematocrit of the month for each of the three months in the surveillance period. Numerator A2: Patients in the denominator with mean hematocrit > 36% (hemoglobin > 12 g/dL). Mean hematocrit to be calculated as arithmetic mean of first listed hematocrit of the month for each of the three months in the surveillance period. Numerator B1: Patients in the denominator with mean hematocrit < 33% (hemoglobin < 11g/dL). Mean hematocrit to be calculated as arithmetic mean of first listed hematocrit of the month for each of the six months in the surveillance period. Numerator B2: Patients in the denominator with mean hematocrit > 36% (hemoglobin > 12 g/dL). Mean hematocrit to be calculated as arithmetic mean of first listed hematocrit of the month for each of the six months in the surveillance period.  
+Denominator Denominator A: In-center hemodialysis patients, = 18 years of age, on hemodialysis from October 1, 1998 through December 31, 1998, inclusive.  EXCLUDE patients with mean hematocrit > 36% (hemoglobin > 12g/dL) who are NOT prescribed Epoetin at any time during the three-month surveillance period. (Mean hematocrit/hemoglobin levels are calculated as the arithmetic mean of the first listed hematocrit/hemoglobin for each month in the surveillance period.) Denominator B: Peritoneal dialysis patients, = 18 years of age, on dialysis from October 1, 1998 through December 31, 1998, inclusive.  EXCLUDE patients with mean hematocrit > 36% (hemoglobin > 12g/dL) who are NOT prescribed Epoetin at any time during the six-month surveillance period. (Mean hematocrit/hemoglobin levels are calculated as the arithmetic mean of the first listed hematocrit/hemoglobin for each month in the surveillance period.)  
+Data Source Facility dialysis record.  
+
+
+Clinical Performance Measure Name and Number Anemia Management IIa: Assessment of Iron Stores among Anemic Patients or Patients Prescribed Epoetin  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Anemia Management 5: Assessment of Iron Status (Evidence). Iron status should be monitored by the percent transferrin saturation (TSAT) and the serum ferritin. Anemia Management 6A: Target Iron Level (Evidence). Chronic renal failure patients should have sufficient iron to achieve and maintain a hematocrit (hemoglobin) of 33% to 36% (11 to 12 g/dL). Anemia Management 7A: Monitoring Iron Status (Opinion). During the initiation of Epoetin therapy and while increasing the Epoetin dose in order to achieve an increase in hematocrit/hemoglobin, the TSAT and the serum ferritin should be checked every month in patients not receiving intravenous iron, and at least once every 3 months in patients receiving intravenous iron, until target hematocrit/hemoglobin is reached. Anemia Management 7B: Monitoring Iron Status (Opinion). Following attainment of the target hematocrit/hemoglobin, TSAT and serum ferritin should be determined at least once every 3 months.  
+Evidence Basis Anemia Management 5: Overall Rating of Evidence: Good Highest Methods Review Score: 0.56 Average Methods Review Score: 0.42 Anemia Management 6A: Overall Rating of Evidence: Good Highest Methods Review Score: 0.54 Average Methods Review Score: 0.35 Anemia Management 7A: Opinion-Based Anemia Management 7B: Opinion-Based  
+Medical Review Criteria Iron stores were assessed using the percent transferrin saturation (TSAT) and serum ferritin at least once in a three-month period if hematocrit was < 33% or hemoglobin was < 11 g/dL OR if the patients was receiving Epoetin.  
+Numerator Numerator A: Patients in the denominator with at least one documented transferrin saturation (TSAT) result and at least one documented ferritin result during the three month review period. Numerator B: Patients in the denominator with at least one documented TSAT result and at least one documented ferritin result within three months of the first month with a first hematocrit < 33% or hemoglobin < 11 g/dL.  
+Denominator Denominator A: In-center hemodialysis patients, = 18 years of age, on hemodialysis from October 1, 1998 through December 31, 1998, inclusive, if first monthly hematocrit < 33% or hemoglobin < 11 g/dL for at least one of the three study months or if prescribed Epoetin at any time between October 1, 1998 and December 31, 1998, regardless of hematocrit. Denominator B: Peritoneal dialysis patients, = 18 years of age, on dialysis from October 1, 1998 through December 31, 1998, inclusive, if first monthly hematocrit < 33% or hemoglobin < 11 g/dL for at least one of the six study months or if prescribed Epoetin, regardless of hematocrit.  
+
+
+Data Source 
+Facility dialysis record. 
+
+
+
+Anemia Management IIb Anemia Management III 
+Clinical Performance Measure Name and Number Anemia Management IIb: Maintenance of Iron Stores-Target  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Anemia Management 6B: Target Iron Level (Evidence). To achieve and maintain this target hematocrit/hemoglobin, sufficient iron should be administered to maintain a transferrin saturation (TSAT) of = 20%, and a serum ferritin level of = 100 ng/mL.  
+Evidence Basis Anemia Management 6B: Overall Rating of Evidence: Good Highest Methods Review Score: 0.54 Average Methods Review Score: 0.35  
+Medical Review Criteria Iron stores were maintained at ferritin = 100 ng/mL and the percent transferrin saturation (TSAT) = 20% if the hematocrit was < 33% or hemoglobin was < 11 g/dL OR if the patients was receiving Epoetin.  
+Numerator Numerator A: Patients in the denominator with at least one documented transferrin saturation (TSAT) result = 20% and at least one documented ferritin result = 100 ng/mL during the three month period. Numerator B: Patients in the denominator with at least one documented TSAT result = 20% and at least one documented ferritin result = 100 ng/mL during the six month period. [Note: Not directly comparable to Numerator A, but most feasible given probable frequency of visits for peritoneal dialysis patients.]  
+Denominator Denominator A: In-center hemodialysis patients, = 18 years of age, on hemodialysis from October 1, 1998 through December 31, 1998, inclusive, if first monthly hematocrit < 33% or hemoglobin < 11 g/dL for at least one of the three study months or if prescribed Epoetin, regardless of hematocrit. Denominator B: Peritoneal dialysis patients, = 18 years of age, on dialysis from October 1, 1998 through December 31, 1998, inclusive, if first monthly hematocrit < 33% or hemoglobin < 11 g/dL for at least one of the six study months or if prescribed Epoetin, regardless of hematocrit.  
+Data Source Facility dialysis record.  
+
+
+Clinical Performance Measure Name and Number Anemia Management III: Administration of Supplemental Iron  
+NKF-DOQI Clinical Practice Guideline(s) Name(s) and Number(s) Anemia Management 8A: Administration of Supplemental Iron (Evidence). Supplemental iron should be administered to prevent iron deficiency and to maintain adequate iron stores so that chronic renal failure patients can achieve and maintain a hematocrit 33% to 36% (hemoglobin 11 to 12 g/dL) in conjunction with Epoetin therapy. Anemia Management 8C: Administration of Supplemental Iron (Evidence/Opinion). The adult pre-dialysis, home hemodialysis, and peritoneal dialysis patient may not be able to maintain adequate iron status with oral iron. Therefore, 500 to 1000 mg of iron dextran may be administered intravenously in a single infusion, and repeated as needed, after an initial one-time test dose of 25 mg. Anemia Management 8D: Administration of Supplemental Iron (Opinion/Evidence). A trial of oral iron is acceptable in the hemodialysis patient, but is unlikely to maintain the transferrin saturation (TSAT) > 20%, serum ferritin > 100 ng/mL, and hematocrit/hemoglobin at 33%-36%/11-12 g/dL. Anemia Management 8G: Administration of Supplemental Iron (Opinion/Evidence). Most patients will achieve a hematocrit 33% to 36% (hemoglobin 11 to 12 g/dL) with TSAT and serum ferritin levels < 50% and < 800 ng/mL, respectively. In patients in whom TSAT is = 50% and/or serum ferritin is = 800 ng/mL, intravenous iron should be withheld for up to three months, at which time the iron parameters should be re-measured before intravenous iron is resumed. When the TSAT and serum ferritin have fallen to = 50% and = 800 ng/mL, intravenous iron can be resumed at a dose reduced by one-third to one-half. Anemia Management 8H: Administration of Supplemental Iron (Opinion). It is anticipated that once optimal hematocrit/hemoglobin and iron stores are achieved, the required maintenance dose of intravenous iron may vary from 25 to 100 mg/week for hemodialysis patients. The goal is to provide a weekly dose of intravenous iron in hemodialysis patients that will allow the patient to maintain the target hematocrit/hemoglobin at a safe and stable iron level. The maintenance iron status should be monitored by measuring the TSAT and serum ferritin every three months.  
+Evidence Basis Anemia Management 8A: Overall Rating of Evidence: Good Highest Methods Review Score: 0.54 Average Methods Review Score: 0.31 Anemia Management 8C: Opinion-Based Anemia Management 8D: Overall Rating of Evidence: Good Highest Methods Review Score: 0.54 Average Methods Review Score: 0.31 Anemia Management 8G: Overall Rating of Evidence: Poor Highest Methods Review Score: 0.54 Average Methods Review Score: 0.31 Anemia Management 8H: Opinion-Based  
+
+
+Anemia Management III cont’d 
+Medical Review Criteria If the percent transferrin saturation (TSAT) < 20% OR ferritin < 100 ng/mL, the patient was administered intravenous iron UNLESS the TSAT was = 50% OR ferritin = 800 ng/mL; UNLESS the patient was in the first three months of dialysis and was prescribed a trial dose of oral iron.  
+Numerator Numerators A and B: Number of patients in denominator administered intravenous iron in at least one month.  
+Denominator Denominator A: In-center hemodialysis patients, = 18 years of age, on hemodialysis from October 1, 1998 through December 31, 1998, inclusive, if first monthly hematocrit < 33% or hemoglobin < 11 g/dL for at least one of the three study months or if prescribed Epoetin, regardless of hematocrit, with at least one transferrin saturation (TSAT) < 20% or at least one ferritin < 100 ng/mL. EXCLUDE patients with TSAT = 50% OR ferritin = 800 ng/mL AND  EXCLUDE patients in first three months of dialysis AND prescribed oral iron. Denominator B: Peritoneal dialysis patients, = 18 years of age, on dialysis from October 1, 1998 through December 31, 1998, inclusive, if first monthly hematocrit < 33% or hemoglobin < 11 g/dL for at least one of the six study months or if prescribed Epoetin, regardless of hematocrit, with at least one TSAT < 20% or at least one ferritin < 100 ng/mL. EXCLUDE patients with TSAT = 50% OR ferritin = 800 ng/mL AND  EXCLUDE patients in first three months of dialysis AND prescribed oral iron.  
+Data Source Facility dialysis record.  
+
+
+Development of the Planfor Data Collection, Processing, and anAnalysis Strategy 
+As the project progressed, HCFA provided guidance that the data collection effort should be similar in magnitude and design to that used in the ESRD Health Care Quality Improvement Program Core Indicators Project. This guidance strongly influenced the design of the proposed data collection, processing, and analysis strategy plan. 
+
+Data Collection Instruments 
+In collaboration with the internal project team, Steven Helgerson, MD, MPH, of Epidemiology for Action, drafted data collection instruments based on the prioritization lists generated by the Hemodialysis Adequacy, Peritoneal Dialysis Adequacy, and Anemia Management Workgroups. These draft data collection instruments were distributed to workgroup members for review prior to the Denver workgroup meeting. Following the Denver workgroup meeting, the internal project team and Dr. Helgerson revised the data collection instruments based on comments received from all four workgroups. 
+Ultimately, three data collection instruments were developed. The first instrument collects data for the Hemodialysis Adequacy, Anemia Management, and Vascular Access CPMs from hemodialysis patient records. The second is used to collect adequacy and anemia management data for peritoneal dialysis patients. The third instrument collects information about facility policies, procedures, and practices related to the Hemodialysis Adequacy CPMs. 
+The medical record data collection instruments were field-tested in dialysis facilities across the United States. In October 1998, 125 draft data collection instruments were distributed to 26 facilities that agreed to participate in preliminary field-testing of the instruments and their instructions. In total, 90 data collection instruments, including 52 hemodialysis and 38 peritoneal dialysis instruments, were completed by 25 facilities during October and November 1998. Participating facilities also were asked to complete an evaluation form, and the responses were tabulated in a spreadsheet and circulated to workgroup facilitators. The results from the field-test were reported to the workgroup members during workgroup teleconferences in November 1998 and considered during finalization of the data collection instruments. 
+The draft data collection instruments were circulated to the Rapid Response Group and to members of all four workgroups for review and comment in October 1998. Responses were tabulated and distributed to workgroup facilitators for discussion with the workgroup members during teleconferences in November 1998. 
+Following the workgroup teleconferences in November 1998, the internal project team worked with Dr. Helgerson to complete the revisions to the data collection instruments approved by the workgroups. The instrument templates were submitted to HCFA on December 1, 1998. 
+
+Plan for Data Collection, Processing, and an Analysis Strategy 
+The proposed plan for data collection, processing, and an analysis strategy closely mirrors that used for the ESRD Core Indicators Project. Data collection instruments will be sent by the ESRD Networks to dialysis facilities selected in the random sample, and the instruments will be completed at the facility. Completed instruments will be sent to the Network office, where data entry will occur. A random sample of records will be reviewed by Network staff to assess the reliability of data abstraction. The pilot-testing phase of the ESRD Special Project will involve the merging of the ESRD Core Indicators Project as outlined in the contract with the ESRD Network Organizations and the pilot-testing of the ESRD CPMs developed by PRO-West under the ESRD Special Project. PRO-West will use a similar sampling and data collection methodology to that used by the ESRD Core Indicators Project and will work closely with the ESRD Network Organizations to implement the pilot-test phase.  
+Strategy for Data Collection 
+During Phase I of the ESRD Special Project, PRO-West developed three data collection instruments. These data collection instruments, with the addition of other data elements as directed by HCFA, will be pilot-tested during 1999. PRO-West will select the sample of hemodialysis and peritoneal dialysis patients to be included in the collection of the CPMs. The sampling universe will include all adult (= 18 years as of September 30, 1998) in-center hemodialysis patients and adult peritoneal dialysis patients who were alive and dialyzing on December 31, 1998.   
+Each ESRD Network will provide PRO-West with its patient database, from which PRO-West will draw the patient sample. As directed by HCFA, the hemodialysis sample will be national random sample, stratified by Network, and the peritoneal dialysis sample will be a national random national sample. Each Network will submit a copy of its patient database on diskette to PRO-West, and specifications for the Network patient census files will be similar to those criteria applied by the ESRD Core Indicators Project. PRO-West will select the Network patient samples to be used in the pilot-testing and will distribute to each Network an electronic copy of the hemodialysis and peritoneal dialysis patients selected for the pilot-testing of the CPMs. PRO-West will print and distribute to each Network sufficient copies of the approved data collection instruments for the pilot-testing of the CPMs, depending on the sample size for each Network. PRO-West will also distribute to each Network printed labels containing the selected patients’ demographic information, which are to be placed at the top of the data collection instruments prior to distributing the instruments to the dialysis facilities for completion. The Networks will distribute the data collection instruments to those dialysis facilities included in the pilot-testing, and the dialysis facility staff will complete and return the instruments to the Network. The Networks will review the forms for completeness and accuracy and enter the data into an Epi-Info program provided by HCFA. The Networks will submit the collected data to PRO-West for processing and analysis. 
+
+Strategy for Data Processing and Analysis 
+Upon receipt of each Network’s data file, PRO-West will merge the Network files, clean and edit the data, and provide HCFA with a data file from which HCFA will produce the Annual ESRD Core Indicators Project Report. 
+PRO-West will select a 5 percent random sample of the hemodialysis patients and peritoneal dialysis patients for each Network to re-abstract. The random sample will be approximately 400 cases for hemodialysis and approximately 100 for peritoneal dialysis and will be distributed proportionately across the Networks so that Networks with larger patient populations will have more records to re-abstract than those with smaller patient populations. The Networks will re-abstract the data for the patients selected, enter the data into an Epi-Info program provided by HCFA, and submit the data to PRO-West for analysis. PRO-West then will conduct the necessary reliability testing for each CPM and submit a report of the results to HCFA. 
+Three sampling strategies to achieve the above data collection, processing, and analysis goals were developed. The first strategy will assess care for adult, in-center hemodialysis patients, the second will assess care for adult peritoneal dialysis patients, and the third will assess the reliability of data abstraction from patient medical records. The overall objectives of the sampling strategies are: 
+• 	
+to provide statistically stable estimates of key measures of ESRD clinical performance, 
+
+• 	
+to allow for comparison between the current results and the results from preceding ESRD Core Indicators Project reports, 
+
+• 	
+to validate the reliability of data abstraction, particularly for the clinical 
+
+
+performance measure (CPM) data not previously abstracted for the ESRD Core Indicators Project, and 
+• 	to produce a sample size that does not differ substantially from sample sizes in previous ESRD Core Indicators Projects so that ESRD Network and ESRD facility workloads will be similar to those of preceding years.  
+
+Additional objectives for the sampling strategies are noted in the following sections. 
+The sampling strategies that follow were developed in the context of several specific issues related to the technical specifications for the clinical performance measures. Two specific issues related to the hemodialysis sample arose. For Hemodialysis Adequacy CPM I (Monthly Measurement of Delivered Hemodialysis Dose), CPM II (Method of Measurement of Delivered Hemodialysis Dose), and CPM III (Minimum Delivered Dose), one component of the proposed denominators is the requirement that the denominators be restricted to patients diagnosed with end-stage renal disease April 1, 1998 or earlier. The workgroup’s intent for this specification is to restrict the applicability of the CPMs to patients who had completed a period of stabilization after initiation of hemodialysis. This denominator requirement will exclude dialysis patients that would count as “incident cases” for the last three quarters of 1998. 
+The Vascular Access Workgroup, however, proposed a CPM that specifically focuses on incident hemodialysis patients. The denominator for Vascular Access CPM I (Maximizing Placement of Arterial-Venous Fistulae) is restricted to patients who initiated their first maintenance course of hemodialysis on or between January 1, 1998 and August 31, 1998. If the sample for each Network were selected solely based on this restriction, the sample would not represent the entire dialysis population. 
+In developing its recommendations, the internal project team considered a number of possible sampling strategies. These included substantially increasing the size of a simple random sample of patients in each Network in order to capture an adequate sample size of both incident and long-standing cases, oversampling of patients in specific categories, or maintaining the current ESRD Core Indicators Project sampling strategy but not having statistically precise Network-specific estimates for some of the performance measures.  
+The objectives ultimately prioritized by the internal project team are detailed in the following section. In reconciling the denominator specifications and the constraint of a sample size that is similar in magnitude to ESRD Core Indicators Project data collection effort, the internal project team developed a proposal that permits Network-specific estimates for each of the Hemodialysis Adequacy CPMs and each of the Anemia Management CPMs. The sample size will be adequate to provide a national estimate for Vascular Access CPM I (Maximizing Placement of Arterial-Venous Fistulae) and Vascular Access CPM III (Preferred/Non-preferred Location of Hemodialysis Catheters Located above the Waist), but due to the “incident patient” constraint, data from several Networks will need to be combined to create regional estimates of fistula-placement and catheter-location rates. Depending on the prevalence of arterial-venous grafts in each Network, the estimates for Vascular Access CPM IV (Monitoring Arterial-Venous Grafts for Stenosis) may have confidence intervals that are somewhat broader than those for the Hemodialysis Adequacy measures. As in previous years, the Peritoneal Dialysis Adequacy indicators will be presented at a national level. 
+
+Sampling Strategies 
+1. Adult, In-Center Hemodialysis Patients 
+Objectives 
+A. 	Select a sample size sufficient to allow estimation of a proportion with a 95% confidence interval around that estimate no larger than 10 percentage points (i.e., ± 5%) for Network-specific estimates of the key Hemodialysis Adequacy CPMs and ESRD Core Indicators Project measures, 
+B. 	Oversample to assure that the sample population of patients who were on hemodialysis at least six months prior to October 1, 1998 will be large enough to achieve Objective A, and 
+C. 	Oversample to compensate for an anticipated non-response. Sample Recommended to Achieve these 
+Objectives A random sample of adult (aged > 18 years), in-center hemodialysis patients will be drawn from the 1998 ESRD census provided to PRO-West by each of the eighteen ESRD Networks. Then, two oversamples will be drawn. The first will oversample 20 percent to assure that Objective A (above) will be met with the number of sampled patients who began hemodialysis prior to April 1, 1998. This oversample was selected on the basis of data from the ESRD Core Indicators Project which indicate that approximately 20 percent of patients receiving hemodialysis on December 31, 1997 initiated hemodialysis after April 1, 1997. In a second oversample, 10 percent of the combined number from the preceding two sampling steps will be added to assure that Objective C (above) will be met. This oversample was selected based on response rates for the ESRD Core Indicators Project in 1997. The attached table (see Table A) illustrates the approximate Network-specific sample sizes that will be drawn by this strategy. [NOTE: Adult, in-center hemodialysis population sizes from 1996 were used to develop this table.] The sample sizes were computed using the Statcalc utility for population study, using the Epi-Info 6.04b computer program.  Sample sizes were chosen to allow estimation of a proportion with a 95% confidence interval around that estimate no larger than 10 percentage points (i.e., ± 5%) for each Network. The “worst case” scenario of 50% is assumed for all measures, and the number of adult, in-center hemodialysis patients in December 1996 is used as the “population” estimate used in the sample size calculations. Note that since the “population” estimates differ between Networks, the samples vary a small amount. These sample size calculations are identical for those previously used in the ESRD Core Indicators Project. 
+
+
+2. Adult, Peritoneal Dialysis Patients 
+Objectives 
+A. 	Select a sample size sufficient to allow estimation of a proportion with a 95% confidence interval around that estimate no larger than 10 percentage points (i.e., ± 5%) for national (not Network-specific) estimates of the key CPMs and ESRD Core Indicators Project measures for three age groups of patients (aged 18 to 44 years; aged 45 to 64 years; aged 65 or more years), and  
+B. 	Oversample to compensate for an anticipated non-response. Sample Recommended to Achieve these 
+Objectives A random sample of three age groups of adult peritoneal dialysis patients (aged 18 to 44 years; aged 45 to 64 years; aged 65 or more years) will be drawn from the 1998 ESRD census provided to PRO-West by each of the eighteen ESRD Networks. A 12 percent oversample of the preceding age-stratified sample will be included. [NOTE: A 12 percent oversample is suggested to compensate for the 89% response rate for the 1997 ESRD Peritoneal Dialysis Core Indicators Project.] Assuming that the number of adult peritoneal dialysis patients in 1998 was approximately 30,000, and in recent years about 30 percent of this group was aged 18 to 44 years, about 40 percent was aged 45 to 64 years, and about 30 percent was aged 65 years and older, then the sample size needed to achieve the objectives will be 1241 (368 patients aged 18 to 44 years, 372 patients aged 45 to 64 years, 368 patients aged 65 and older, and 133 additional patients for a 12 percent oversample.) Note that the age stratification in the proposed sample is intended to permit comparisons to ESRD Core Indicators Project data from prior years, which have been stratified in similar age groups for the national sample. The Peritoneal Dialysis Adequacy Workgroup did not address the issue of age stratification in their recommendations for CPMs.  
+
+
+3. Assess Reliability of Data Abstraction 
+Objectives 
+A. 	Assess the reliability of results of medical record abstraction between that done by facility staff and that done by ESRD Network staff, and 
+B. 	Limit the number of medical records to be re-abstracted, so that the number is approximately the same as that in previous ESRD Core Indicators Project consistency assessments. 
+Sample Recommended to Achieve these 
+Objectives In previous ESRD Core Indicators Projects, samples of approximately 5 percent of the returned data collection instruments were selected for re-abstraction by ESRD Network staff from the original medical records. The results of facility staff abstractions were then compared to those of ESRD Network staff abstractions. The national sample sizes for these “consistency of abstraction” studies have been about 350 to 400 for hemodialysis and less than 100 for peritoneal dialysis. For the 1999 ESRD CPM-Core Indicators Project, PRO-West recommends use of a similar sample size of approximately 500 randomly selected records (about 400 hemodialysis and about 100 peritoneal dialysis records). This number was limited in order to minimize the data collection burden on Network staff. In contrast to preceding years when each ESRD Network selected a 5% systematic sample of hemodialysis records for re-abstraction, however, PRO-West proposes to identify the random sample of records to be re-abstracted. PRO-West will select a random sample of the returned hemodialysis records to be re-abstracted. This sample will be distributed proportionally among ESRD Networks so that Networks with larger patient populations will have more records to re-abstract than ESRD Networks with smaller patient populations. Similarly, PRO-West will select a random sample of the returned peritoneal dialysis records to be re-abstracted. 
+
+The proposed sample sizes are similar in magnitude to those previously used for the ESRD Core Indicators Project. The hemodialysis sample size is adequate to develop Network-specific estimates for the Hemodialysis Adequacy and Anemia Management CPMs, and most of the Vascular Access CPMs. The peritoneal dialysis sample will yield national estimates for the Peritoneal Dialysis Adequacy and Anemia Management CPMs. Data from several Networks will need to be aggregated to obtain stable estimates for the Vascular Access CPMs that focus on incident (as opposed to prevalent) dialysis patients. 
+The plan for data collection, processing, and an analysis strategy was conveyed to HCFA on December 31, 1998. 
+
+
+
+
+Selected Observations, Caveats, and Limitations of the Project 
+During the course of the project, a number of important issues emerged that must be considered in relation to the proposed CPMs and data collection strategy.  
+Among the key issues are the following: 
+• 	The CPMs were derived primarily for the purpose of population-based quality improvement rather than as tools to evaluate care of specific patients, or for use as standards for quality assurance. During the course of the project, considerable concern was expressed by many participants that, if inappropriately used (particularly by regulators), the CPMs could potentially have a deleterious effect on the care of dialysis patients. It is critical to recognize that it would be a misuse of the CPMs to expect 100% adherence to the underlying guidelines to be achieved, as a variety of factors would appropriately result in deviations from the NKF-DOQI clinical practice guidelines in the care of individual patients. 
+• 	
+We have not proposed benchmarks, thresholds, target performance rates, or other standard levels of expected performance for the CPMs. Although some of the NKF-DOQI clinical practice guidelines (particularly in the Vascular Access section) included target levels of performance, the vast majority did not.  Indeed, the Vascular Access Workgroup recommended that target rates be included in the statement of some of the CPMs. Because this approach is inconsistent with the remainder of the guidelines, and because we did not wish to imply that, absent a specific target rate, the target of 100% compliance should be assumed, we do not recommend to HCFA that these targets be distributed with the CPMs. However, in reporting the achieved results documented after implementation of the national pilot project, it may be appropriate to revisit the proposed targets when presenting performance results. 
+
+• 	
+Although the data collection burden for the proposed project is similar in magnitude to that previously used for the ESRD Core Indicators Project, the data collection burden would increase enormously if the data collection instruments were completed for the universe of patients and facilities. While 
+
+
+
+information management systems currently under consideration would substantially diminish the need for medical record abstraction for each case, further attention should be directed to the implications of extending the data collection effort beyond the current proposed sampling methodology. 
+• 	
+The recommendations enclosed in this report do not include CPMs specific to pediatric ESRD patients. Although the focus of this “first round” selection and development of clinical performance measures did not include pediatric-specific measures, there is a clear need to address CPMs for the pediatric ESRD population. Between 1994 and 1996, annually, there were approximately 4,800 
+
+U.S. children and adolescents (< 20 years of age) with end-stage renal disease. Because of continuing growth and development, pediatric ESRD patients may be particularly susceptible to complications of uremia and other conditions common to dialyzed patients. Pediatric guidelines and performance measures independent of the four clinical areas addressed by NKF-DOQI and this project’s CPMs should be developed for persons < 18 years of age. These guidelines and performance measures should consider the full spectrum of renal replacement therapy including transplantation for pediatric and adolescent patients with ESRD. Pediatric-specific guidelines could most appropriately be written and developed into clinical performance measures by a multidisciplinary workgroup that includes physicians, nurses, nutritionists, and social workers with expertise in pediatric nephrology. 
+
+• 	
+The extremely compressed timeline for this project -- less than nine months to convene workgroups, prioritize and select guidelines, develop CPMs, prepare and field test data collection instruments, and prepare a data collection and analysis plan -- precluded the opportunity to have 
+
+
+several rounds of stakeholder input for each phase of the project. In order to meet contract deliverables, PRO-West synthesized and analyzed thousands of comments and recommendations, many of which directly contradicted each other. Therefore, it is likely that the products of the project will require further refinement due to limitations that will become clear only after the national implementation of the pilot test. We are aware that some members of the workgroups and the Rapid Response Group would have preferred a substantially higher level of review and “approval” of work outputs at various stages of the project. However, PRO-West, rather than the workgroup members or other stakeholders, was solely accountable to HCFA to provide the required deliverables for the project and retained responsibility for conveying its recommendations to HCFA according to the required timeline. While we strove to achieve consensus on the development of the CPMs and related tools, there was certainly not unanimity among all participants from the renal community that each component of the project resulted in an ideal product. Overall, however, the results of frequent written evaluations along with other feedback at various phases of the project indicate that most key stakeholders were pleased with the implementation of the project. 
+• 	The objective of the project was specifically to consider the existing NKF­DOQI clinical practice guidelines. Workgroups were instructed not to rewrite or modify the guidelines, and to develop CPMs that conform to the intent of the published guidelines. This constraint had at least two consequences. First, a number of important areas of dialysis care are not addressed in the guidelines, and these areas therefore are not addressed by the CPMs. Second, some of the NKF-DOQI clinical practice guidelines do not enjoy universal support among the renal community, and participants and reviewers occasionally expressed dissatisfaction with the CPMs that was actually more appropriately directed at the underlying guideline. 
+
+• 	
+A number of important recommendations in the NKF-DOQI clinical practice guidelines were not translated into CPMs. For example, the Peritoneal Dialysis Adequacy Workgroup determined that it could not develop CPMs to measure nutritional status (NKF-DOQI PD guidelines 5 and 13) and to obtain an assessment of quality of life (NKF-DOQI PD guideline 24). Both represent important and complex issues for which further investigation is necessary, yet do not satisfy some important criteria necessary for guidelines to be converted to CPMs. To promote study of these topics, the workgroup recommended that collection of information appended to the standard data collection instrument should be encouraged, not as a CPM, but instead to promote further evaluation of the topics and related quality improvement activities.  HCFA may wish to consider whether it is appropriate to add items regarding these topics to the data collection instruments. 
+
+• 	
+Development of a communication and dissemination plan for the CPM project was not specifically called for in PRO­West’s contract. Appropriate communication of the CPMs is particularly important given the quality improvement goals of the project. With this in mind, several presentations have been scheduled to describe the CPMs to important audiences within the renal community. During 1999, Jonathan Sugarman, MD, MPH, will present the results of the ESRD Special Project at the California Dialysis Council Meeting, the “Core Indicator/CPM Initiative” session at the 1999 HCFA/Network meeting, the NRAA Spring Workshop for Administrators, the “NKF-DOQI: Status Report to the ESRD Community” session at the Eighth Annual National Kidney 
+
+
+Foundation Clinical Nephrology Meeting, and the HCFA/ESRD Core Data Set Conference. W. William Schluter, MD, MSPH, also will discuss the ESRD Special Project at the combined conference of the 19th Annual Conference on Peritoneal Dialysis, the 5th International Symposium on Home Hemodialysis, and the 10th Annual Symposium on Pediatric Peritoneal Dialysis. 
+
+Despite the limitations mentioned above, we are confident that the proposed CPMs based on the NKF DOQI guidelines have the potential to serve as important tools in the efforts of the renal community to improve dialysis care in the United States. 
+
+
